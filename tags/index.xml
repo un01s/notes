@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/</link>
+    <description>Recent content in Tags on un01s notes</description>
+    <image>
+      <url>https://un01s.github.io/notes/papermod-cover.png</url>
+      <link>https://un01s.github.io/notes/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Mar 2022 15:16:56 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://un01s.github.io/notes/tags/hugo/</link>
+      <pubDate>Sun, 20 Mar 2022 15:16:56 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://un01s.github.io/notes/tags/c/</link>
+      <pubDate>Fri, 18 Mar 2022 15:22:58 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://un01s.github.io/notes/tags/javascript/</link>
+      <pubDate>Fri, 18 Mar 2022 15:22:58 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emily dickinson</title>
+      <link>https://un01s.github.io/notes/tags/emily-dickinson/</link>
+      <pubDate>Sun, 12 Dec 2021 15:04:54 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/tags/emily-dickinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>https://un01s.github.io/notes/tags/poem/</link>
+      <pubDate>Sun, 12 Dec 2021 15:04:54 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
