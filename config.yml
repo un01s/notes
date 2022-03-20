@@ -1,0 +1,127 @@
+baseURL: "https://un01s.github.io/notes/"
+title: "un01s notes"
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+pygmentsstyle: emacs
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "un01s notes - https://github.com/un01s/notes"
+    author: un01s
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    profileMode:
+        enabled: false
+        title: "Welcome"
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "Hi There 👋"
+        Content: >
+            Welcome! Here are some notes and code snippets to myself. Just do my work everyday with ❤️ .
+            
+            - [x] programming learning notes
+
+            - [x] electronics project notes
+
+            - [x] whatever reading notes
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/un01s/notes/"
+        - name: twitter
+          url: "https://twitter.com/un01s"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
