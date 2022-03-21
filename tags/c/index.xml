@@ -11,14 +11,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 18 Mar 2022 15:22:58 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Weird C Code</title>
+      <title>C Code Jokes</title>
       <link>https://un01s.github.io/notes/posts/20220318/</link>
       <pubDate>Fri, 18 Mar 2022 15:22:58 -0600</pubDate>
       
       <guid>https://un01s.github.io/notes/posts/20220318/</guid>
       <description>Here are some C code with the JavaScript quirks. Credits to luna.
 #include &amp;lt;stdio.h&amp;gt; int main() { puts(&amp;#34;-0.5&amp;#34; + 1); printf(&amp;#34;%d\n&amp;#34;, 50 ** &amp;#34;2&amp;#34;); return 0; } To build and run the above code, just do the following and ignore the warnings.
-$ gcc c-js.c &amp;amp;&amp;amp; ./a.out 0.5 2500 </description>
+$ gcc c-js.c &amp;amp;&amp;amp; ./a.out 0.5 2500 Let&amp;rsquo;s look at the warnings first.
+c-js.c:4:15: warning: adding &amp;#39;int&amp;#39; to a string does not append to the string [-Wstring-plus-int] puts(&amp;#34;-0.5&amp;#34; + 1); ~~~~~~~^~~ c-js.</description>
     </item>
     
   </channel>
