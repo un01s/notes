@@ -60,7 +60,13 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    #images: ["papermod-cover.png"]
+    SEOTitle: "un01s notes"
+    keyword: "code, electronics, embedded systems, engineering"
+
+    cover:
+        relative: true # when using page bundles set this to true
+        linkFullImages: true
 
     profileMode:
         enabled: false
