@@ -1,4 +1,4 @@
-baseURL: "https://un01s.github.io/notes/"
+baseURL: "https://un01s.github.io/"
 title: "un01s notes"
 paginate: 5
 theme: PaperMod
@@ -94,7 +94,7 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/un01s/notes/"
+          url: "https://github.com/un01s/"
         - name: twitter
           url: "https://twitter.com/un01s"
 
