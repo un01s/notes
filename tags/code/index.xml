@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>code on un01s notes</title>
-    <link>https://un01s.github.io/tags/code/</link>
+    <link>https://un01s.github.io/notes/tags/code/</link>
     <description>Recent content in code on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Mar 2022 14:44:04 -0600</lastBuildDate><atom:link href="https://un01s.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 14:44:04 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toit Imports</title>
-      <link>https://un01s.github.io/posts/20220303/</link>
+      <link>https://un01s.github.io/notes/posts/20220303/</link>
       <pubDate>Thu, 03 Mar 2022 14:44:04 -0600</pubDate>
       
-      <guid>https://un01s.github.io/posts/20220303/</guid>
+      <guid>https://un01s.github.io/notes/posts/20220303/</guid>
       <description>Toitlang uses import to use code from other libraries.
  local import starting with .  $ tree . └── my_lib ├── my_lib.toit ├── other.toit └── sub └── sub.toit Assume we are importing sub.toit into my_lib.toit.
 import .sub.sub Shorten version:
@@ -21,10 +21,10 @@ import math as m import math show sin cos </description>
     
     <item>
       <title>Reading Toit Code (002)</title>
-      <link>https://un01s.github.io/posts/20220301/</link>
+      <link>https://un01s.github.io/notes/posts/20220301/</link>
       <pubDate>Tue, 01 Mar 2022 14:47:53 -0600</pubDate>
       
-      <guid>https://un01s.github.io/posts/20220301/</guid>
+      <guid>https://un01s.github.io/notes/posts/20220301/</guid>
       <description>After toit_start(), we have toit_esp32.cc to read. The first one is toit::start(). Toit here is just a namespace. As we know that toit supports OTA (over-the-air update) through WiFi and esp32 device is set to be a station (STA instead of AP).
 What we have here is as follows:
  RtcMemory::set_up(); FlashRegistry::set_up(); OS::set_up(); esp_partition_find_first(); setup_program(support_ota); Scheduler::ExitState exit_state; VM vm; vm.load_platform_event_sources(); int groud_id = vm.scheduler()-&amp;gt;next_group_id(); exit_state = vm.scheduler()-&amp;gt;run_boot_program(program, null, group_id); OS::tear_down(); FlashRegistry::tear_down();  After these, esp32 may go to deep sleep.</description>
@@ -32,10 +32,10 @@ What we have here is as follows:
     
     <item>
       <title>Reading Toit Code (001)</title>
-      <link>https://un01s.github.io/posts/20220225/</link>
+      <link>https://un01s.github.io/notes/posts/20220225/</link>
       <pubDate>Fri, 25 Feb 2022 14:51:27 -0600</pubDate>
       
-      <guid>https://un01s.github.io/posts/20220225/</guid>
+      <guid>https://un01s.github.io/notes/posts/20220225/</guid>
       <description>When I started to port the code to ESP32S3 following the example of ESP32C3, I realized I had to read the code closely. Here are the notes along the way.
 Where does the code get started on esp32? Based on esp-idf, Toit (I like to pronounce it as tight) creates a new platform with a new programming language for developers.
 For the code to start on the esp32 device, check all the files inside toolchains/esp32/.</description>

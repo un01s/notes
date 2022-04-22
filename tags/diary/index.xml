@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>diary on un01s notes</title>
-    <link>https://un01s.github.io/tags/diary/</link>
+    <link>https://un01s.github.io/notes/tags/diary/</link>
     <description>Recent content in diary on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Apr 2022 14:03:30 -0600</lastBuildDate><atom:link href="https://un01s.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 14:03:30 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>double standard</title>
-      <link>https://un01s.github.io/posts/20220410/</link>
+      <link>https://un01s.github.io/notes/posts/20220410/</link>
       <pubDate>Sun, 10 Apr 2022 14:03:30 -0600</pubDate>
       
-      <guid>https://un01s.github.io/posts/20220410/</guid>
+      <guid>https://un01s.github.io/notes/posts/20220410/</guid>
       <description>Double standard is everywhere in our life. The difference between I and others. The difference between my family and others. The difference between my people and others.
 President Zelensky is leading a fight not only for defending Ukraine but the freedom of western values. He is a hero. But if we are serious, we have to deal with the double standard. Besides Kyiv, how about other cities like Baghdad, or Kabul?</description>
     </item>

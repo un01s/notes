@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Emily Dickinson on un01s notes</title>
-    <link>https://un01s.github.io/tags/emily-dickinson/</link>
+    <link>https://un01s.github.io/notes/tags/emily-dickinson/</link>
     <description>Recent content in Emily Dickinson on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Dec 2021 14:34:21 -0600</lastBuildDate><atom:link href="https://un01s.github.io/tags/emily-dickinson/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 14:34:21 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/emily-dickinson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emily Dickinson</title>
-      <link>https://un01s.github.io/posts/20211212/</link>
+      <link>https://un01s.github.io/notes/posts/20211212/</link>
       <pubDate>Sun, 12 Dec 2021 14:34:21 -0600</pubDate>
       
-      <guid>https://un01s.github.io/posts/20211212/</guid>
+      <guid>https://un01s.github.io/notes/posts/20211212/</guid>
       <description>In this short Life that only lasts an hour
 How much - how little - is within our power</description>
     </item>
