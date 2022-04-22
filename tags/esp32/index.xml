@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>esp32 on un01s notes</title>
+    <link>https://un01s.github.io/tags/esp32/</link>
+    <description>Recent content in esp32 on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Jan 2022 15:05:41 -0600</lastBuildDate><atom:link href="https://un01s.github.io/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use Jaguar to update</title>
+      <link>https://un01s.github.io/posts/20220117/</link>
+      <pubDate>Mon, 17 Jan 2022 15:05:41 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/posts/20220117/</guid>
+      <description>Use an Airport to setup a WiFi network. Then download the binary of Jaguar. Run the following commands one after another. The second command requires the WiFi credentials. Use CTRL+C to stop the third one. To run the forth and the fifth command, put your computer on the same WiFi network as the esp32 device.
+$./jag setup $./jag flash $./jag monitor $./jag scan $./jag run hello.toit </description>
+    </item>
+    
+    <item>
+      <title>wasm3 on esp32</title>
+      <link>https://un01s.github.io/posts/20220116/</link>
+      <pubDate>Sun, 16 Jan 2022 15:11:45 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/posts/20220116/</guid>
+      <description>Stumbled on this repo.
+Run the modified code on one snowflake with 25 RGB LEDs (ws2812b-2020).
+Check the video tweet.</description>
+    </item>
+    
+    <item>
+      <title>Rust on esp32</title>
+      <link>https://un01s.github.io/posts/20220111/</link>
+      <pubDate>Tue, 11 Jan 2022 15:18:20 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/posts/20220111/</guid>
+      <description>Start to look at the toolchain for Rust on ESP32 family modules. After some googling, here is the first result.
+Clearly the toolchain is working in its early stage. $ cargo build OK. Both espflash and espmonitor are working.
+Reference:
+ Rust on ESP32 rust esp32 std demo  </description>
+    </item>
+    
+  </channel>
+</rss>

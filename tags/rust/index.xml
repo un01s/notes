@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rust on un01s notes</title>
+    <link>https://un01s.github.io/tags/rust/</link>
+    <description>Recent content in rust on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Jan 2022 15:18:20 -0600</lastBuildDate><atom:link href="https://un01s.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust on esp32</title>
+      <link>https://un01s.github.io/posts/20220111/</link>
+      <pubDate>Tue, 11 Jan 2022 15:18:20 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/posts/20220111/</guid>
+      <description>Start to look at the toolchain for Rust on ESP32 family modules. After some googling, here is the first result.
+Clearly the toolchain is working in its early stage. $ cargo build OK. Both espflash and espmonitor are working.
+Reference:
+ Rust on ESP32 rust esp32 std demo  </description>
+    </item>
+    
+  </channel>
+</rss>
