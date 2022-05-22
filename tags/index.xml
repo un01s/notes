@@ -16,11 +16,20 @@
     </item>
     
     <item>
-      <title>notes</title>
-      <link>https://un01s.github.io/notes/tags/notes/</link>
+      <title>kant</title>
+      <link>https://un01s.github.io/notes/tags/kant/</link>
       <pubDate>Fri, 20 May 2022 09:42:06 -0600</pubDate>
       
-      <guid>https://un01s.github.io/notes/tags/notes/</guid>
+      <guid>https://un01s.github.io/notes/tags/kant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://un01s.github.io/notes/tags/philosophy/</link>
+      <pubDate>Fri, 20 May 2022 09:42:06 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/tags/philosophy/</guid>
       <description></description>
     </item>
     
@@ -174,15 +183,6 @@
       <pubDate>Sat, 16 Apr 2022 10:17:11 -0600</pubDate>
       
       <guid>https://un01s.github.io/notes/tags/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosophy</title>
-      <link>https://un01s.github.io/notes/tags/philosophy/</link>
-      <pubDate>Sat, 16 Apr 2022 10:17:11 -0600</pubDate>
-      
-      <guid>https://un01s.github.io/notes/tags/philosophy/</guid>
       <description></description>
     </item>
     

@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/tags/golden-pavilion-temple/</loc>
-    <lastmod>2022-05-20T09:42:06-06:00</lastmod>
-  </url><url>
     <loc>https://un01s.github.io/notes/posts/20220520/</loc>
     <lastmod>2022-05-20T09:42:06-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/notes/</loc>
+    <loc>https://un01s.github.io/notes/tags/golden-pavilion-temple/</loc>
+    <lastmod>2022-05-20T09:42:06-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/kant/</loc>
+    <lastmod>2022-05-20T09:42:06-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/philosophy/</loc>
     <lastmod>2022-05-20T09:42:06-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/</loc>
@@ -108,9 +111,6 @@
     <lastmod>2022-04-16T10:17:11-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/memory/</loc>
-    <lastmod>2022-04-16T10:17:11-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/philosophy/</loc>
     <lastmod>2022-04-16T10:17:11-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220415/</loc>
