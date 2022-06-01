@@ -18,6 +18,18 @@
     </item>
     
     <item>
+      <title>Ramanujan problem</title>
+      <link>https://un01s.github.io/notes/posts/20220531/</link>
+      <pubDate>Tue, 31 May 2022 15:12:41 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20220531/</guid>
+      <description>Find the value of x and y for the following two equations:
+$$ \sqrt{x} + y = 7 $$ $$ x + \sqrt{y} = 11 $$
+My solutuin is based on a guess. From the above, the instinct is that both x and y are the numbers like 1, 4, 9, 16, etc. If we rewrite the equations as follows:
+$$ x = (7 - y)^2 $$ $$ y = (11 -x)^2 $$</description>
+    </item>
+    
+    <item>
       <title>René Girard</title>
       <link>https://un01s.github.io/notes/posts/20220529/</link>
       <pubDate>Sun, 29 May 2022 13:42:51 -0600</pubDate>
