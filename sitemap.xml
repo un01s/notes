@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/tags/news/</loc>
-    <lastmod>2022-08-05T13:31:06-06:00</lastmod>
+    <loc>https://un01s.github.io/notes/tags/diary/</loc>
+    <lastmod>2022-08-12T08:27:34-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2022-08-05T13:31:06-06:00</lastmod>
+    <lastmod>2022-08-12T08:27:34-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20220812/</loc>
+    <lastmod>2022-08-12T08:27:34-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2022-08-05T13:31:06-06:00</lastmod>
+    <lastmod>2022-08-12T08:27:34-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2022-08-12T08:27:34-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/news/</loc>
     <lastmod>2022-08-05T13:31:06-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220805/</loc>
@@ -34,9 +40,6 @@
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220725/</loc>
     <lastmod>2022-07-25T10:32:11-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/diary/</loc>
-    <lastmod>2022-07-24T10:32:11-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220724/</loc>
     <lastmod>2022-07-24T10:32:11-06:00</lastmod>
