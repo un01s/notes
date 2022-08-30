@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>science on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/science/</link>
+    <description>Recent content in science on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Aug 2022 09:05:28 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>science, value</title>
+      <link>https://un01s.github.io/notes/posts/20220830/</link>
+      <pubDate>Tue, 30 Aug 2022 09:05:28 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20220830/</guid>
+      <description>the value of science In 1955 Richard Feynman had one essay, The Value of Science, published in Volume XIX of Engineering and Science.
+The Value of Science, by Richard Feynman From time to time people suggest to me that scientists ought to give more consideration to social problems – especially that they should be more responsible in considering the impact of science on society. It seems to be generally believed that if the scientists would only look at these very difficult social problems and not spend so much time fooling with less vital scientific ones, great success would come of it.</description>
+    </item>
+    
+  </channel>
+</rss>
