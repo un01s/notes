@@ -5,7 +5,31 @@
     <link>https://un01s.github.io/notes/posts/</link>
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Sep 2022 09:12:27 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 13:02:40 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quine program</title>
+      <link>https://un01s.github.io/notes/posts/20220904/</link>
+      <pubDate>Sun, 04 Sep 2022 13:02:40 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20220904/</guid>
+      <description>Definition of Quine A quine program, or quine, is a program that outputs its own source code when runs without taking any input. It is called self-replicating program. Quines are possible in any Turing-complete programming language, as direct consequence of Kleene&amp;rsquo;s rescursion theorem.
+Detour Quine&amp;rsquo;s paradox on self-reference.
+&amp;#34;Yields falsehood when preceded by its quotation&amp;#34; yields falsehood when preceded by its quotation. Another paradox:
+If the human brain were so simple that we could understand it, we would be so si mple that we couldn&amp;#39;t.</description>
+    </item>
+    
+    <item>
+      <title>2022-09-03 tetsuji</title>
+      <link>https://un01s.github.io/notes/posts/20220903/</link>
+      <pubDate>Sat, 03 Sep 2022 12:51:27 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20220903/</guid>
+      <description>news: too many books published According to the Penguin Random House/S&amp;amp;S antitrust trial it was revealed that out of 58,000 trade titles published per year, half of those titles sell fewer than one dozen books. 90 percent of titles sell fewer than 2,000 units.
+video game music archive Garageband can play the mid file.
+tetsuji Something interesting &amp;hellip;
+reference  bootNoodle 2020 janus: a polyglot binary for BGGP 2021 remote code execution on a Gameboy Colour Binary Golf Association BGGP 2021 github  </description>
+    </item>
+    
     <item>
       <title>认清形势放弃幻想并不容易</title>
       <link>https://un01s.github.io/notes/posts/20220901/</link>

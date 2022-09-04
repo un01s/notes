@@ -5,7 +5,19 @@
     <link>https://un01s.github.io/notes/tags/code/</link>
     <description>Recent content in code on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Mar 2022 14:44:04 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 13:02:40 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quine program</title>
+      <link>https://un01s.github.io/notes/posts/20220904/</link>
+      <pubDate>Sun, 04 Sep 2022 13:02:40 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20220904/</guid>
+      <description>Definition of Quine A quine program, or quine, is a program that outputs its own source code when runs without taking any input. It is called self-replicating program. Quines are possible in any Turing-complete programming language, as direct consequence of Kleene&amp;rsquo;s rescursion theorem.
+Detour Quine&amp;rsquo;s paradox on self-reference.
+&amp;#34;Yields falsehood when preceded by its quotation&amp;#34; yields falsehood when preceded by its quotation. Another paradox:
+If the human brain were so simple that we could understand it, we would be so si mple that we couldn&amp;#39;t.</description>
+    </item>
+    
     <item>
       <title>Toit Imports</title>
       <link>https://un01s.github.io/notes/posts/20220303/</link>
