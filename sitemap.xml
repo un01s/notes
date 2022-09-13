@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/tags/code/</loc>
-    <lastmod>2022-09-04T13:02:40-06:00</lastmod>
+    <loc>https://un01s.github.io/notes/tags/diary/</loc>
+    <lastmod>2022-09-12T08:32:40-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/gilles-deleuze/</loc>
+    <lastmod>2022-09-12T08:32:40-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/jean-luc-godard/</loc>
+    <lastmod>2022-09-12T08:32:40-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20220912/</loc>
+    <lastmod>2022-09-12T08:32:40-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2022-09-12T08:32:40-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2022-09-12T08:32:40-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2022-09-12T08:32:40-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/funny/</loc>
+    <lastmod>2022-09-10T13:26:01-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20220910/</loc>
+    <lastmod>2022-09-10T13:26:01-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/code/</loc>
     <lastmod>2022-09-04T13:02:40-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/quine/</loc>
@@ -17,19 +41,10 @@
     <loc>https://un01s.github.io/notes/tags/quote/</loc>
     <lastmod>2022-09-04T13:02:40-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2022-09-04T13:02:40-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
-    <lastmod>2022-09-04T13:02:40-06:00</lastmod>
-  </url><url>
     <loc>https://un01s.github.io/notes/posts/20220903/</loc>
     <lastmod>2022-09-03T12:51:27-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/book/</loc>
-    <lastmod>2022-09-03T12:51:27-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/diary/</loc>
     <lastmod>2022-09-03T12:51:27-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/hack/</loc>
