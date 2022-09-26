@@ -5,7 +5,19 @@
     <link>https://un01s.github.io/notes/posts/</link>
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 17 Sep 2022 12:38:38 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 09:20:04 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>how to update to a new ESP-IDF release</title>
+      <link>https://un01s.github.io/notes/posts/20220925/</link>
+      <pubDate>Sun, 25 Sep 2022 09:20:04 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20220925/</guid>
+      <description>To run esp privilege separation, have to update esp-idf to v4.4.2.
+This kernel-user application was announced several months ago. Just notice it today. It adds to another new option for WM.
+$ cd $IDF_PATH $ git fetch $ git checkout v4.4.2 $ git submodule update --init --recursive $ ./install.sh $ . ./export.sh After the update, have to patch esp-idf for esp-privilege-separation.
+$ cd $IDF_PATH $ git apply -v ../esp-privilege-separation/idf-patches/privilege-separation_support_v4.4.2.patch Then run the blink example inside esp-privilege-separation repo.</description>
+    </item>
+    
     <item>
       <title>break through</title>
       <link>https://un01s.github.io/notes/posts/20220917/</link>
