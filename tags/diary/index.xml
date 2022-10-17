@@ -22,7 +22,8 @@ Darwin&amp;rsquo;s natural selection is never about the fitness but the changes 
       <pubDate>Sat, 17 Sep 2022 12:38:38 -0600</pubDate>
       
       <guid>https://un01s.github.io/notes/posts/20220917/</guid>
-      <description>Finally got something wireless &amp;amp; audio working on esp32. This is just a start.</description>
+      <description>[2022-09-17] Finally got something wireless &amp;amp; audio working on esp32. This is just a start.
+[2022-10-16] The proof of concept works seamlessly. Two parts, each works and both work together with no problem. Next step, hardware design and more bug fixes.</description>
     </item>
     
     <item>

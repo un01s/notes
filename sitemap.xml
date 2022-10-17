@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/tags/esp32/</loc>
+    <lastmod>2022-10-16T18:46:09-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20221016/</loc>
+    <lastmod>2022-10-16T18:46:09-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2022-10-16T18:46:09-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/sdcard/</loc>
+    <lastmod>2022-10-16T18:46:09-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2022-10-16T18:46:09-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2022-10-16T18:46:09-06:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/tags/diary/</loc>
     <lastmod>2022-10-07T09:33:13-06:00</lastmod>
   </url><url>
@@ -11,16 +29,7 @@
     <loc>https://un01s.github.io/notes/tags/pachiko/</loc>
     <lastmod>2022-10-07T09:33:13-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2022-10-07T09:33:13-06:00</lastmod>
-  </url><url>
     <loc>https://un01s.github.io/notes/posts/20221007/</loc>
-    <lastmod>2022-10-07T09:33:13-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2022-10-07T09:33:13-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2022-10-07T09:33:13-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/esp32c3/</loc>
@@ -39,6 +48,9 @@
     <lastmod>2022-09-25T09:20:04-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220917/</loc>
+    <lastmod>2022-09-17T12:38:38-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/project/</loc>
     <lastmod>2022-09-17T12:38:38-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/wm/</loc>
@@ -478,9 +490,6 @@
   </url><url>
     <loc>https://un01s.github.io/notes/tags/thich-nhat-hanh/</loc>
     <lastmod>2022-01-25T15:03:32-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/esp32/</loc>
-    <lastmod>2022-01-17T15:05:41-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/m5core2/</loc>
     <lastmod>2022-01-17T15:05:41-06:00</lastmod>

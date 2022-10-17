@@ -5,7 +5,19 @@
     <link>https://un01s.github.io/notes/</link>
     <description>Recent content on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Oct 2022 09:33:13 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 18:46:09 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>esp32 sdcard</title>
+      <link>https://un01s.github.io/notes/posts/20221016/</link>
+      <pubDate>Sun, 16 Oct 2022 18:46:09 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20221016/</guid>
+      <description>Here is SD example code from esp-idf. Here is one header file for esp32 fatfs.
+ use 4-line SD mode, consider the 10K pullup resistors on data lines code page: FF_CODE_PAGE : CONFIG_FATFS_CODEPAGE  437 US    What is the biggest micro SD card for esp32 fatfs? 16GB?
+FAT = file allocation table
+FAT32 individual files on a FAT32 drive cannot exceed 4GB size limit. FAT32 partition must be less than 8TB.</description>
+    </item>
+    
     <item>
       <title>Reading Pachiko</title>
       <link>https://un01s.github.io/notes/posts/20221007/</link>
@@ -34,7 +46,8 @@ $ cd $IDF_PATH $ git apply -v ../esp-privilege-separation/idf-patches/privilege-
       <pubDate>Sat, 17 Sep 2022 12:38:38 -0600</pubDate>
       
       <guid>https://un01s.github.io/notes/posts/20220917/</guid>
-      <description>Finally got something wireless &amp;amp; audio working on esp32. This is just a start.</description>
+      <description>[2022-09-17] Finally got something wireless &amp;amp; audio working on esp32. This is just a start.
+[2022-10-16] The proof of concept works seamlessly. Two parts, each works and both work together with no problem. Next step, hardware design and more bug fixes.</description>
     </item>
     
     <item>
