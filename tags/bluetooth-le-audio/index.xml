@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bluetooth LE audio on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/bluetooth-le-audio/</link>
+    <description>Recent content in Bluetooth LE audio on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 27 Oct 2022 15:07:19 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/bluetooth-le-audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nordic nRF5340</title>
+      <link>https://un01s.github.io/notes/posts/20221027/</link>
+      <pubDate>Thu, 27 Oct 2022 15:07:19 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20221027/</guid>
+      <description>use the Toolchain Manager inside nRF Connect for Desktop to automatically install toolchains. After that use the command line to build a project. Current version is v2.1.1.
+$ cd /opt/nordic $ cd ncs/v2.1.1/nrf/applications/nrf5340_audio $ west build -b nrf5340_audio_dk_nrf5340_cpuapp --pristine -- -DCONFIG_AUDIO_DEV=1 -DCONF_FILE=prj_release.conf </description>
+    </item>
+    
+  </channel>
+</rss>
