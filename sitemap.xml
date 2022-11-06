@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/posts/20221105/</loc>
+    <lastmod>2022-11-05T12:25:39-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/poem/</loc>
+    <lastmod>2022-11-05T12:25:39-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2022-11-05T12:25:39-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2022-11-05T12:25:39-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2022-11-05T12:25:39-07:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/tags/poems/</loc>
     <lastmod>2022-11-04T16:26:54-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2022-11-04T16:26:54-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2022-11-04T16:26:54-06:00</lastmod>
-  </url><url>
     <loc>https://un01s.github.io/notes/posts/20221104/</loc>
-    <lastmod>2022-11-04T16:26:54-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2022-11-04T16:26:54-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/bluetooth-le-audio/</loc>
@@ -282,9 +288,6 @@
     <lastmod>2022-06-11T09:28:03-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/cavafy/</loc>
-    <lastmod>2022-06-11T09:28:03-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/poem/</loc>
     <lastmod>2022-06-11T09:28:03-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/tomas-transtromer/</loc>
