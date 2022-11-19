@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tool on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/tool/</link>
+    <description>Recent content in tool on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Nov 2022 13:49:06 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Pointers</title>
+      <link>https://un01s.github.io/notes/posts/20221118/</link>
+      <pubDate>Fri, 18 Nov 2022 13:49:06 -0700</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20221118/</guid>
+      <description>One chinese book on Math and Programming Both math and programming are useful for data science and machine learning. This is the future of digital world.
+Unique 2-in-1 calculator app in swift Twin-Calc is available for iPhone and iPad.
+Vocaloid 6 This is a tool powered by AI tech from Yamaha. It can sing according to music and lyrics. Very powerful.</description>
+    </item>
+    
+  </channel>
+</rss>
