@@ -5,7 +5,19 @@
     <link>https://un01s.github.io/notes/posts/</link>
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Jan 2023 16:31:09 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jan 2023 13:30:48 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>notes</title>
+      <link>https://un01s.github.io/notes/posts/20220121/</link>
+      <pubDate>Sat, 21 Jan 2023 13:30:48 -0700</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20220121/</guid>
+      <description>Patrick Yang is a technical director at WCH. 南京沁恒 Here are some links. openwch github RISC-V based microcontrollers. CH32V003 32bit 48MHz 16KB flash, it is less than $0.5 for example. Arduino-wch58x. Another CH32V project.
+Flipping dots
+Kicad panelizing tool KiKit.
+This 3D printing uses UTR-8100 transparent amterial, from PCBWay.</description>
+    </item>
+    
     <item>
       <title>The secrets</title>
       <link>https://un01s.github.io/notes/posts/20230120/</link>
