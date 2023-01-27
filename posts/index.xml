@@ -18,6 +18,18 @@
     </item>
     
     <item>
+      <title>codes of interest</title>
+      <link>https://un01s.github.io/notes/posts/20230125/</link>
+      <pubDate>Wed, 25 Jan 2023 09:51:23 -0700</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20230125/</guid>
+      <description>Sometimes you just want to hear these flipping sound. Here is the code for both Flip 7-segment digits and FlipDot.
+ FlipDigits FlipDots  Another interesting thing is LED display of tixy.land.
+Rust FFI and cbindgen: integrating embedded rust code in C.
+Distinguishing an interpreter from a compiler, Jan 26, 2023. This leads to the excellent course, UCB CS294-113: Virtual machine and managed runtimes.</description>
+    </item>
+    
+    <item>
       <title>notes</title>
       <link>https://un01s.github.io/notes/posts/20220121/</link>
       <pubDate>Sat, 21 Jan 2023 13:30:48 -0700</pubDate>

@@ -5,7 +5,19 @@
     <link>https://un01s.github.io/notes/tags/code/</link>
     <description>Recent content in code on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Sep 2022 13:02:40 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 09:51:23 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>codes of interest</title>
+      <link>https://un01s.github.io/notes/posts/20230125/</link>
+      <pubDate>Wed, 25 Jan 2023 09:51:23 -0700</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20230125/</guid>
+      <description>Sometimes you just want to hear these flipping sound. Here is the code for both Flip 7-segment digits and FlipDot.
+ FlipDigits FlipDots  Another interesting thing is LED display of tixy.land.
+Rust FFI and cbindgen: integrating embedded rust code in C.
+Distinguishing an interpreter from a compiler, Jan 26, 2023. This leads to the excellent course, UCB CS294-113: Virtual machine and managed runtimes.</description>
+    </item>
+    
     <item>
       <title>Quine program</title>
       <link>https://un01s.github.io/notes/posts/20220904/</link>
