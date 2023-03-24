@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>eric fromm on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/eric-fromm/</link>
+    <description>Recent content in eric fromm on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Mar 2023 18:23:21 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/eric-fromm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eric Fromm</title>
+      <link>https://un01s.github.io/notes/posts/20230322/</link>
+      <pubDate>Wed, 22 Mar 2023 18:23:21 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20230322/</guid>
+      <description>Optimism is an alienated form of faith, pessimism an alienated form of despair.</description>
+    </item>
+    
+  </channel>
+</rss>
