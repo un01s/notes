@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/tags/carl-jung/</loc>
-    <lastmod>2023-07-23T16:05:06-06:00</lastmod>
+    <loc>https://un01s.github.io/notes/tags/identity/</loc>
+    <lastmod>2023-07-26T07:53:38-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/life/</loc>
+    <lastmod>2023-07-26T07:53:38-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2023-07-23T16:05:06-06:00</lastmod>
+    <lastmod>2023-07-26T07:53:38-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2023-07-23T16:05:06-06:00</lastmod>
+    <lastmod>2023-07-26T07:53:38-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/time/</loc>
+    <lastmod>2023-07-26T07:53:38-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2023-07-26T07:53:38-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20230726/</loc>
+    <lastmod>2023-07-26T07:53:38-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/carl-jung/</loc>
     <lastmod>2023-07-23T16:05:06-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230723/</loc>
@@ -723,9 +735,6 @@
     <lastmod>2022-04-22T16:24:39-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220420/</loc>
-    <lastmod>2022-04-20T12:05:52-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/life/</loc>
     <lastmod>2022-04-20T12:05:52-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/chomsky/</loc>
