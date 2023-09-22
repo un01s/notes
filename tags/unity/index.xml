@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unity on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/unity/</link>
+    <description>Recent content in unity on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Sep 2023 13:06:23 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://un01s.github.io/notes/posts/20230921/</link>
+      <pubDate>Thu, 21 Sep 2023 13:06:23 -0600</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20230921/</guid>
+      <description>Unity claimed that 70% of the top 1000 mobile game developers chose it. Its new policy of installation fee attracts a lot of critism and anger, from indie developers in particular. However, the cause of this is due to the market changes:
+ the market of mobile game has its first decline after 7 years&#39; expansion. the population of mobile game stops to increase.  the growth hey-day of mobile game is over.</description>
+    </item>
+    
+  </channel>
+</rss>
