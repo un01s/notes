@@ -5,6 +5,7 @@
     <link>https://un01s.github.io/notes/tags/numbers/</link>
     <description>Recent content in numbers on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 03 May 2023 13:24:57 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/numbers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>汉语中的数字</title>
@@ -13,7 +14,11 @@
       
       <guid>https://un01s.github.io/notes/posts/20230503/</guid>
       <description>汉语中数字有三种表达，阿拉伯数字，简体和繁体。繁体的主要用处是在会计记账和书写支票以防涂改。
-   PinYin Hanzi Daxie     ling 零 零   yī 一 壹   èr 二 贰   sān 三 叁   sì 四 肆   wǔ 五 伍   liù 六 陆   qī 七 柒   bā 八 捌   jiǔ 九 玖   shí 十 拾   bǎi 百 佰   qiān 千 仟   wàn 万 万   yì 亿 亿   zhao 兆 兆    一兆 = 一万亿</description>
+PinYin Hanzi Daxie ling 零 零 yī 一 壹 èr 二 贰 sān 三 叁 sì 四 肆 wǔ 五 伍 liù 六 陆 qī 七 柒 bā 八 捌 jiǔ 九 玖 shí 十 拾 bǎi 百 佰 qiān 千 仟 wàn 万 万 yì 亿 亿 zhao 兆 兆 一兆 = 一万亿
+两千两百一十七万四千六百 = 2217,4600
+2,225,250 = 二十二万五千二百五十
+两百零五 = 205
+二 vs. 两 二三四 (two, three, four)</description>
     </item>
     
   </channel>

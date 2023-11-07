@@ -5,6 +5,7 @@
     <link>https://un01s.github.io/notes/tags/reading/</link>
     <description>Recent content in reading on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 18 Aug 2023 16:02:45 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>read</title>
@@ -13,11 +14,12 @@
       
       <guid>https://un01s.github.io/notes/posts/20230818/</guid>
       <description>Proof you can do harder things 20 things I&amp;rsquo;ve learned in my 20 years as a software engineer Advice should go with its context.
-  I still don’t know very much
-  The hardest part of software is building the right thing
-  The best software engineers think like designers
-  The best code is no code, or code you don’t have to maintain
-  Software is a means to an end</description>
+I still don’t know very much
+The hardest part of software is building the right thing
+The best software engineers think like designers
+The best code is no code, or code you don’t have to maintain
+Software is a means to an end
+Sometimes you have to stop sharpening the saw, and just start cutting shit</description>
     </item>
     
   </channel>

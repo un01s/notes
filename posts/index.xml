@@ -5,7 +5,19 @@
     <link>https://un01s.github.io/notes/posts/</link>
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Oct 2023 14:32:55 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Nov 2023 15:39:09 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>on the shortness of life</title>
+      <link>https://un01s.github.io/notes/posts/20231106/</link>
+      <pubDate>Mon, 06 Nov 2023 15:39:09 -0700</pubDate>
+      
+      <guid>https://un01s.github.io/notes/posts/20231106/</guid>
+      <description>It is not that we have so little time but that we lose so much. &amp;hellip; The life we receive is not short but we make it so; we are not ill provided but use what we have wastefully.
+Life can only be understood backwards; but it must be lived forwards. &amp;ndash; Soren Kierkegaard
+[Man] is a specific organism of a specific nature that requires specific actions to sustain his life.</description>
+    </item>
+    
     <item>
       <title>As nice as you are</title>
       <link>https://un01s.github.io/notes/posts/20231029/</link>
@@ -23,8 +35,8 @@ When Russia invaded Ukraine, US stands with Ukraine. When Israel invaded Palesti
       
       <guid>https://un01s.github.io/notes/posts/20231028/</guid>
       <description>Rivonia 1964 from Rachael Meager.
- the speech from the dock in the Rivonia trial (1964) Long Walk to Freedom (1994)  Why Mandela and his comrades decided to pursue sabotage and other forms of political voilence?
- “I, and the others who started the organisation [Umkhonto], did so for two reasons. Firstly, we believed that as a result of Government policy, violence by the African people had become inevitable, and that unless responsible leadership was given to canalise and control the feelings of our people, there would be outbreaks of terrorism which would produce an intensity of bitterness and hostility between the various races of the country which is not produced even by war.</description>
+the speech from the dock in the Rivonia trial (1964) Long Walk to Freedom (1994) Why Mandela and his comrades decided to pursue sabotage and other forms of political voilence?
+“I, and the others who started the organisation [Umkhonto], did so for two reasons. Firstly, we believed that as a result of Government policy, violence by the African people had become inevitable, and that unless responsible leadership was given to canalise and control the feelings of our people, there would be outbreaks of terrorism which would produce an intensity of bitterness and hostility between the various races of the country which is not produced even by war.</description>
     </item>
     
     <item>
@@ -53,7 +65,7 @@ the movie, Curiosa.</description>
       
       <guid>https://un01s.github.io/notes/posts/20230921/</guid>
       <description>Unity claimed that 70% of the top 1000 mobile game developers chose it. Its new policy of installation fee attracts a lot of critism and anger, from indie developers in particular. However, the cause of this is due to the market changes:
- the market of mobile game has its first decline after 7 years&#39; expansion. the population of mobile game stops to increase.  the growth hey-day of mobile game is over.</description>
+the market of mobile game has its first decline after 7 years&amp;rsquo; expansion. the population of mobile game stops to increase. the growth hey-day of mobile game is over.</description>
     </item>
     
     <item>
@@ -94,11 +106,12 @@ The first thing is a tweet. Now it&amp;rsquo;s hard to retrieve it but the idea 
       
       <guid>https://un01s.github.io/notes/posts/20230818/</guid>
       <description>Proof you can do harder things 20 things I&amp;rsquo;ve learned in my 20 years as a software engineer Advice should go with its context.
-  I still don’t know very much
-  The hardest part of software is building the right thing
-  The best software engineers think like designers
-  The best code is no code, or code you don’t have to maintain
-  Software is a means to an end</description>
+I still don’t know very much
+The hardest part of software is building the right thing
+The best software engineers think like designers
+The best code is no code, or code you don’t have to maintain
+Software is a means to an end
+Sometimes you have to stop sharpening the saw, and just start cutting shit</description>
     </item>
     
     <item>
@@ -322,7 +335,11 @@ Why do we build the wall? We build the wall to keep us free ... The enemy is pov
       
       <guid>https://un01s.github.io/notes/posts/20230503/</guid>
       <description>汉语中数字有三种表达，阿拉伯数字，简体和繁体。繁体的主要用处是在会计记账和书写支票以防涂改。
-   PinYin Hanzi Daxie     ling 零 零   yī 一 壹   èr 二 贰   sān 三 叁   sì 四 肆   wǔ 五 伍   liù 六 陆   qī 七 柒   bā 八 捌   jiǔ 九 玖   shí 十 拾   bǎi 百 佰   qiān 千 仟   wàn 万 万   yì 亿 亿   zhao 兆 兆    一兆 = 一万亿</description>
+PinYin Hanzi Daxie ling 零 零 yī 一 壹 èr 二 贰 sān 三 叁 sì 四 肆 wǔ 五 伍 liù 六 陆 qī 七 柒 bā 八 捌 jiǔ 九 玖 shí 十 拾 bǎi 百 佰 qiān 千 仟 wàn 万 万 yì 亿 亿 zhao 兆 兆 一兆 = 一万亿
+两千两百一十七万四千六百 = 2217,4600
+2,225,250 = 二十二万五千二百五十
+两百零五 = 205
+二 vs. 两 二三四 (two, three, four)</description>
     </item>
     
     <item>
@@ -508,7 +525,7 @@ Is there free will? Not a chance!</description>
       
       <guid>https://un01s.github.io/notes/posts/20230125/</guid>
       <description>Sometimes you just want to hear these flipping sound. Here is the code for both Flip 7-segment digits and FlipDot.
- FlipDigits FlipDots  Another interesting thing is LED display of tixy.land.
+FlipDigits FlipDots Another interesting thing is LED display of tixy.land.
 Rust FFI and cbindgen: integrating embedded rust code in C.
 Distinguishing an interpreter from a compiler, Jan 26, 2023. This leads to the excellent course, UCB CS294-113: Virtual machine and managed runtimes.</description>
     </item>
@@ -592,10 +609,9 @@ human centered Whereas all the other animals have their heads low, eyes fixed up
       <pubDate>Mon, 05 Dec 2022 06:14:41 -0700</pubDate>
       
       <guid>https://un01s.github.io/notes/posts/20221205/</guid>
-      <description>  I whispered in his ear “I love you” he said delighted: “repeat it in my other ear so I regain my balance…”
-  If I had more time I would written a shorter letter. &amp;ndash; Cicero
-  I always feel that a man and a woman who do not like the same films will eventually divorce. &amp;ndash; Jean-luc Godard
-  </description>
+      <description>I whispered in his ear “I love you” he said delighted: “repeat it in my other ear so I regain my balance…”
+If I had more time I would written a shorter letter. &amp;ndash; Cicero
+I always feel that a man and a woman who do not like the same films will eventually divorce. &amp;ndash; Jean-luc Godard</description>
     </item>
     
     <item>
@@ -712,9 +728,10 @@ Life is always about hope. Then in an interview, Saidiya Hartman said the follow
       
       <guid>https://un01s.github.io/notes/posts/20221016/</guid>
       <description>Here is SD example code from esp-idf. Here is one header file for esp32 fatfs.
- use 4-line SD mode, consider the 10K pullup resistors on data lines code page: FF_CODE_PAGE : CONFIG_FATFS_CODEPAGE  437 US    What is the biggest micro SD card for esp32 fatfs? 16GB?
+use 4-line SD mode, consider the 10K pullup resistors on data lines code page: FF_CODE_PAGE : CONFIG_FATFS_CODEPAGE 437 US What is the biggest micro SD card for esp32 fatfs? 16GB?
 FAT = file allocation table
-FAT32 individual files on a FAT32 drive cannot exceed 4GB size limit. FAT32 partition must be less than 8TB.</description>
+FAT32 individual files on a FAT32 drive cannot exceed 4GB size limit. FAT32 partition must be less than 8TB.
+exFAT file system: extended file allocation table.</description>
     </item>
     
     <item>
@@ -768,7 +785,7 @@ $ cd $IDF_PATH $ git apply -v ../esp-privilege-separation/idf-patches/privilege-
       
       <guid>https://un01s.github.io/notes/posts/20220912/</guid>
       <description>An excerpt from Deleuze on Godard.
- I can tell you how I think of Godard. He&amp;rsquo;s a man who works very hard, and it follows that he is completely alone. But this loneliness is not the common sort: it&amp;rsquo;s filled by a huge assortment of things. Not dreams, fantasies or projects, but actions, things and even people. It is a many-faceted, creative loneliness. It&amp;rsquo;s what lies behind Godard&amp;rsquo;s ability to operate powerfully on his own, but also as part of a team.</description>
+I can tell you how I think of Godard. He&amp;rsquo;s a man who works very hard, and it follows that he is completely alone. But this loneliness is not the common sort: it&amp;rsquo;s filled by a huge assortment of things. Not dreams, fantasies or projects, but actions, things and even people. It is a many-faceted, creative loneliness. It&amp;rsquo;s what lies behind Godard&amp;rsquo;s ability to operate powerfully on his own, but also as part of a team.</description>
     </item>
     
     <item>
@@ -806,7 +823,7 @@ If the human brain were so simple that we could understand it, we would be so si
       <description>news: too many books published According to the Penguin Random House/S&amp;amp;S antitrust trial it was revealed that out of 58,000 trade titles published per year, half of those titles sell fewer than one dozen books. 90 percent of titles sell fewer than 2,000 units.
 video game music archive Garageband can play the mid file.
 tetsuji Something interesting &amp;hellip;
-reference  bootNoodle 2020 janus: a polyglot binary for BGGP 2021 remote code execution on a Gameboy Colour Binary Golf Association BGGP 2021 github  </description>
+reference bootNoodle 2020 janus: a polyglot binary for BGGP 2021 remote code execution on a Gameboy Colour Binary Golf Association BGGP 2021 github </description>
     </item>
     
     <item>
@@ -1148,7 +1165,7 @@ March 13, 1996. 26 years ago, a gunman entered Dunblane Primary School in Scotla
       
       <guid>https://un01s.github.io/notes/posts/20220520/</guid>
       <description>Kant has four big questions for philosophy.
- What can I know? How should I act? For what can I hope? What is the human being?  This writing has something to do with Kant&amp;rsquo;s last question.
+What can I know? How should I act? For what can I hope? What is the human being? This writing has something to do with Kant&amp;rsquo;s last question.
 In the book of &amp;ldquo;Last Chance to See&amp;rdquo;, Douglas Adams told an anecdote about the Golden Pavilion Temple in Kyoto.
 &amp;ldquo;I remembered once, in Japan, having been to see the Gold Pavilion Temple in Kyoto and being mildly surprised at quite how well it had weathered the passage of time sicne it was first built in the fourteenth century.</description>
     </item>
@@ -1336,7 +1353,7 @@ President Zelensky is leading a fight not only for defending Ukraine but the fre
       <pubDate>Sun, 27 Mar 2022 14:07:29 -0600</pubDate>
       
       <guid>https://un01s.github.io/notes/posts/20220327/</guid>
-      <description>$ pcat goes-to.c #include &amp;lt;stdio.h&amp;gt; int main() { int x = 5; // while x goes to 0:  while (x --&amp;gt; 0) { printf(&amp;#34;%d &amp;#34;, x); } printf(&amp;#34;\n&amp;#34;); return 0; } $ gcc goes-to.c &amp;amp;&amp;amp; ./a.out 4 3 2 1 0 </description>
+      <description>$ pcat goes-to.c #include &amp;lt;stdio.h&amp;gt; int main() { int x = 5; // while x goes to 0: while (x --&amp;gt; 0) { printf(&amp;#34;%d &amp;#34;, x); } printf(&amp;#34;\n&amp;#34;); return 0; } $ gcc goes-to.c &amp;amp;&amp;amp; ./a.out 4 3 2 1 0 </description>
     </item>
     
     <item>
@@ -1387,9 +1404,9 @@ Life is nothing but time given to us, short or long. For all of us, a day is lon
       
       <guid>https://un01s.github.io/notes/posts/20220303/</guid>
       <description>Toitlang uses import to use code from other libraries.
- local import starting with .  $ tree . └── my_lib ├── my_lib.toit ├── other.toit └── sub └── sub.toit Assume we are importing sub.toit into my_lib.toit.
+local import starting with . $ tree . └── my_lib ├── my_lib.toit ├── other.toit └── sub └── sub.toit Assume we are importing sub.toit into my_lib.toit.
 import .sub.sub Shorten version:
-import .sub  global import  import math Then for customizations,
+import .sub global import import math Then for customizations,
 import math as m import math show sin cos </description>
     </item>
     
@@ -1399,7 +1416,7 @@ import math as m import math show sin cos </description>
       <pubDate>Wed, 02 Mar 2022 14:21:56 -0600</pubDate>
       
       <guid>https://un01s.github.io/notes/posts/20220302/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -1410,7 +1427,7 @@ import math as m import math show sin cos </description>
       <guid>https://un01s.github.io/notes/posts/20220301/</guid>
       <description>After toit_start(), we have toit_esp32.cc to read. The first one is toit::start(). Toit here is just a namespace. As we know that toit supports OTA (over-the-air update) through WiFi and esp32 device is set to be a station (STA instead of AP).
 What we have here is as follows:
- RtcMemory::set_up(); FlashRegistry::set_up(); OS::set_up(); esp_partition_find_first(); setup_program(support_ota); Scheduler::ExitState exit_state; VM vm; vm.load_platform_event_sources(); int groud_id = vm.scheduler()-&amp;gt;next_group_id(); exit_state = vm.scheduler()-&amp;gt;run_boot_program(program, null, group_id); OS::tear_down(); FlashRegistry::tear_down();  After these, esp32 may go to deep sleep.</description>
+RtcMemory::set_up(); FlashRegistry::set_up(); OS::set_up(); esp_partition_find_first(); setup_program(support_ota); Scheduler::ExitState exit_state; VM vm; vm.load_platform_event_sources(); int groud_id = vm.scheduler()-&amp;gt;next_group_id(); exit_state = vm.scheduler()-&amp;gt;run_boot_program(program, null, group_id); OS::tear_down(); FlashRegistry::tear_down(); After these, esp32 may go to deep sleep.</description>
     </item>
     
     <item>
@@ -1480,7 +1497,7 @@ And make the ordinary come alive for them</description>
       
       <guid>https://un01s.github.io/notes/posts/20220125/</guid>
       <description>The good and the bad are everywhere all the time. While reading stories and watching movies there are always heroes and villains in these endless dramas. There are always Don Quixote and Sancho. What am I? What are you? A mixture of good and bad. That’s all. What if we stop dividing us into black and white?
-  One teaching of Budha is now and here. What does it mean?</description>
+One teaching of Budha is now and here. What does it mean? No regret and guilty for the past.</description>
     </item>
     
     <item>
@@ -1524,7 +1541,7 @@ Another issue is that the touch seems not working after unplugging the USB cable
       <description>Start to look at the toolchain for Rust on ESP32 family modules. After some googling, here is the first result.
 Clearly the toolchain is working in its early stage. $ cargo build OK. Both espflash and espmonitor are working.
 Reference:
- Rust on ESP32 rust esp32 std demo  </description>
+Rust on ESP32 rust esp32 std demo </description>
     </item>
     
     <item>

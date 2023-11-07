@@ -5,6 +5,7 @@
     <link>https://un01s.github.io/notes/tags/esp32/</link>
     <description>Recent content in esp32 on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 16 Oct 2022 18:46:09 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>esp32 sdcard</title>
@@ -13,9 +14,10 @@
       
       <guid>https://un01s.github.io/notes/posts/20221016/</guid>
       <description>Here is SD example code from esp-idf. Here is one header file for esp32 fatfs.
- use 4-line SD mode, consider the 10K pullup resistors on data lines code page: FF_CODE_PAGE : CONFIG_FATFS_CODEPAGE  437 US    What is the biggest micro SD card for esp32 fatfs? 16GB?
+use 4-line SD mode, consider the 10K pullup resistors on data lines code page: FF_CODE_PAGE : CONFIG_FATFS_CODEPAGE 437 US What is the biggest micro SD card for esp32 fatfs? 16GB?
 FAT = file allocation table
-FAT32 individual files on a FAT32 drive cannot exceed 4GB size limit. FAT32 partition must be less than 8TB.</description>
+FAT32 individual files on a FAT32 drive cannot exceed 4GB size limit. FAT32 partition must be less than 8TB.
+exFAT file system: extended file allocation table.</description>
     </item>
     
     <item>
@@ -48,7 +50,7 @@ Check the video tweet.</description>
       <description>Start to look at the toolchain for Rust on ESP32 family modules. After some googling, here is the first result.
 Clearly the toolchain is working in its early stage. $ cargo build OK. Both espflash and espmonitor are working.
 Reference:
- Rust on ESP32 rust esp32 std demo  </description>
+Rust on ESP32 rust esp32 std demo </description>
     </item>
     
   </channel>

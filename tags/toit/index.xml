@@ -5,6 +5,7 @@
     <link>https://un01s.github.io/notes/tags/toit/</link>
     <description>Recent content in toit on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 03 Mar 2022 14:44:04 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/toit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toit Imports</title>
@@ -13,9 +14,9 @@
       
       <guid>https://un01s.github.io/notes/posts/20220303/</guid>
       <description>Toitlang uses import to use code from other libraries.
- local import starting with .  $ tree . └── my_lib ├── my_lib.toit ├── other.toit └── sub └── sub.toit Assume we are importing sub.toit into my_lib.toit.
+local import starting with . $ tree . └── my_lib ├── my_lib.toit ├── other.toit └── sub └── sub.toit Assume we are importing sub.toit into my_lib.toit.
 import .sub.sub Shorten version:
-import .sub  global import  import math Then for customizations,
+import .sub global import import math Then for customizations,
 import math as m import math show sin cos </description>
     </item>
     
@@ -27,7 +28,7 @@ import math as m import math show sin cos </description>
       <guid>https://un01s.github.io/notes/posts/20220301/</guid>
       <description>After toit_start(), we have toit_esp32.cc to read. The first one is toit::start(). Toit here is just a namespace. As we know that toit supports OTA (over-the-air update) through WiFi and esp32 device is set to be a station (STA instead of AP).
 What we have here is as follows:
- RtcMemory::set_up(); FlashRegistry::set_up(); OS::set_up(); esp_partition_find_first(); setup_program(support_ota); Scheduler::ExitState exit_state; VM vm; vm.load_platform_event_sources(); int groud_id = vm.scheduler()-&amp;gt;next_group_id(); exit_state = vm.scheduler()-&amp;gt;run_boot_program(program, null, group_id); OS::tear_down(); FlashRegistry::tear_down();  After these, esp32 may go to deep sleep.</description>
+RtcMemory::set_up(); FlashRegistry::set_up(); OS::set_up(); esp_partition_find_first(); setup_program(support_ota); Scheduler::ExitState exit_state; VM vm; vm.load_platform_event_sources(); int groud_id = vm.scheduler()-&amp;gt;next_group_id(); exit_state = vm.scheduler()-&amp;gt;run_boot_program(program, null, group_id); OS::tear_down(); FlashRegistry::tear_down(); After these, esp32 may go to deep sleep.</description>
     </item>
     
     <item>

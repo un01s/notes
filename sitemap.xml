@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/posts/20231106/</loc>
+    <lastmod>2023-11-06T15:39:09-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2023-11-06T15:39:09-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/seneca/</loc>
+    <lastmod>2023-11-06T15:39:09-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2023-11-06T15:39:09-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2023-11-06T15:39:09-07:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/posts/20231029/</loc>
     <lastmod>2023-10-29T14:32:55-06:00</lastmod>
   </url><url>
@@ -12,15 +27,6 @@
     <lastmod>2023-10-29T14:32:55-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/freedom/</loc>
-    <lastmod>2023-10-29T14:32:55-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2023-10-29T14:32:55-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2023-10-29T14:32:55-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2023-10-29T14:32:55-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/mandela/</loc>
@@ -329,10 +335,10 @@
     <loc>https://un01s.github.io/notes/posts/20230330/</loc>
     <lastmod>2023-03-30T10:10:29-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20230322/</loc>
+    <loc>https://un01s.github.io/notes/tags/eric-fromm/</loc>
     <lastmod>2023-03-22T18:23:21-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/eric-fromm/</loc>
+    <loc>https://un01s.github.io/notes/posts/20230322/</loc>
     <lastmod>2023-03-22T18:23:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230320/</loc>
@@ -809,10 +815,10 @@
     <loc>https://un01s.github.io/notes/posts/20220519/</loc>
     <lastmod>2022-05-19T10:10:34-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20220518/</loc>
+    <loc>https://un01s.github.io/notes/tags/population/</loc>
     <lastmod>2022-05-18T10:27:15-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/population/</loc>
+    <loc>https://un01s.github.io/notes/posts/20220518/</loc>
     <lastmod>2022-05-18T10:27:15-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220516/</loc>
