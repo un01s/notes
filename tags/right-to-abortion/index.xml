@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>right to abortion on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/right-to-abortion/</link>
     <description>Recent content in right to abortion on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jun 2022 09:24:29 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/right-to-abortion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 09:24:29 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/right-to-abortion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What to do about Roe v Wade after Supreme Court overturns</title>
       <link>https://un01s.github.io/notes/posts/20220624/</link>
       <pubDate>Fri, 24 Jun 2022 09:24:29 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220624/</guid>
       <description>Today the US Supreme Court overturns Roe v. Wade. This ended the right to abortion upheld for decades. From the leak in early May to this ruling near the end of June, there is time to prepare and to act. But still, what can we do next to codify the right to abortion?</description>
     </item>
-    
   </channel>
 </rss>

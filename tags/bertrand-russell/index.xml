@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bertrand russell on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/bertrand-russell/</link>
     <description>Recent content in bertrand russell on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Jan 2023 11:24:26 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/bertrand-russell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 11:24:26 -0700</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/bertrand-russell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>a few writers</title>
       <link>https://un01s.github.io/notes/posts/20230102/</link>
       <pubDate>Mon, 02 Jan 2023 11:24:26 -0700</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230102/</guid>
       <description>There are a few writers I love. Betrand Russell is one of them.
 &amp;ldquo;The idea that the poor should have leisure has always been shocking to the rich. In the early nineteenth century, fifteen hours was the ordinary day&amp;rsquo;s work for a man; children sometimes did as much, and very commonly did twelve hours a day. When meddlesome busybodies suggested that perhaps these hours were rather long, they were told that work kept adults from drink and children from mischief.</description>
     </item>
-    
   </channel>
 </rss>

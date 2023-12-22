@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomas Transtromer on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/tomas-transtromer/</link>
     <description>Recent content in Tomas Transtromer on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jun 2022 09:28:03 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/tomas-transtromer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 09:28:03 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/tomas-transtromer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black Postcards</title>
       <link>https://un01s.github.io/notes/posts/20220611/</link>
       <pubDate>Sat, 11 Jun 2022 09:28:03 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220611/</guid>
       <description>Black Postcards I
 The calendar all booked up, the future unknown. The cable silently hums some folk song but lacks a country. Snow falls in the grey sea. Shadows fight out on the dock.
@@ -19,6 +19,5 @@ II
 Halfway through my life, death turns up and takes your pertinent measurements. We forget the visit. Life goes on. But someone is sewing the suit in the silence.
 I hear my country in your voice From Romeo Oriogun:</description>
     </item>
-    
   </channel>
 </rss>

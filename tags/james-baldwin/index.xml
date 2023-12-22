@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Baldwin on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/james-baldwin/</link>
     <description>Recent content in James Baldwin on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Aug 2023 08:43:03 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/james-baldwin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 08:43:03 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/james-baldwin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>private life</title>
       <link>https://un01s.github.io/notes/posts/20230807/</link>
       <pubDate>Mon, 07 Aug 2023 08:43:03 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230807/</guid>
       <description>From BLM, I heard of James Baldwin. From the pandemic, I learnt Hannah Arenht. Both are writers. Baldwin left America for France because of racism in America. Arenht left Germany for America because of Nazism. Here, another name, Sophie Scholl, popped up.
 &amp;ldquo;The paradox of education is precisely this - that as one begins to become conscious one begins to examine the society in which he is being educated.&amp;rdquo; - James Baldwin</description>
     </item>
-    
   </channel>
 </rss>

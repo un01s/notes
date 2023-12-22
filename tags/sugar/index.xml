@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sugar on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/sugar/</link>
     <description>Recent content in sugar on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jun 2023 13:19:07 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/sugar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jun 2023 13:19:07 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/sugar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>想要健康，远离代糖</title>
       <link>https://un01s.github.io/notes/posts/20230609/</link>
       <pubDate>Fri, 09 Jun 2023 13:19:07 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230609/</guid>
       <description>Sugar substitutes are often labelled as sugarless, sugar free, no sugar added, or aritificial sweeten.
 越甜的食物往往含有更多的游离糖，包括果糖、蔗糖、葡萄糖等。甜味不仅意味着食物含有更多热量，而且甜味还会刺激大部分人的食欲，让人多吃，以获取更多的热量。这在食物丰富的现代社会，逐渐成了一个健康问题，与热量摄入过多相关的疾病成为个人、家庭和社会的沉重负担。
@@ -19,6 +19,5 @@
 进化决定了我们对甜味的钟爱。漫长的进化过程中，人类大脑逐步形成了对糖的依赖，糖可以激活大脑中与奖赏和食欲相关的区域，导致食欲的增强。即使食物或者饮品中加入的是代糖，大脑也会通过甜味将其与高热量食物联系起来，因为高糖食物通常也是高能量食物。摄入代糖后，大脑可能会期望获得更多的能量，从而增加食欲。
 想要健康，远离代糖。</description>
     </item>
-    
   </channel>
 </rss>

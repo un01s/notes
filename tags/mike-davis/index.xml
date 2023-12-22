@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mike Davis on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/mike-davis/</link>
     <description>Recent content in Mike Davis on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Oct 2022 22:04:55 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/mike-davis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 22:04:55 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/mike-davis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mike Davis</title>
       <link>https://un01s.github.io/notes/posts/20221025/</link>
       <pubDate>Tue, 25 Oct 2022 22:04:55 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20221025/</guid>
       <description>For someone my age who was in the civil rights movement, and in other struggles of the 1960s, I&amp;rsquo;ve seen miracles happen. I&amp;rsquo;ve seen ordinary people do the most heroic things. When you&amp;rsquo;ve had the privilege of knowing so many great fighters and resisters, you can&amp;rsquo;t lay down the sword, even if things seem objectively hopeless.
 I’ve always been influenced by the poems Brecht wrote in the late 30s, during the Second World War, after everything had been incinerated, all the dreams and values of an entire generation destroyed, and Brecht said, well, it’s a new dark ages … how do people resist in the dark ages?</description>
     </item>
-    
   </channel>
 </rss>

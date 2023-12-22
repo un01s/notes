@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Whyte on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/david-whyte/</link>
     <description>Recent content in David Whyte on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 19:39:10 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/david-whyte/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 19:39:10 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/david-whyte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>友谊是什么</title>
       <link>https://un01s.github.io/notes/posts/20211101/</link>
       <pubDate>Mon, 01 Nov 2021 19:39:10 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20211101/</guid>
       <description>这是旧作重发。
 如果你读了我那些关于人性之双重性的笔记，你或许会喜欢诗人David Whyte关于友谊的观点：
 友谊的根本不在于改善，不是你变好，也不是她（他）变好。友谊的根本在于见证，一种被人关注的特权，同时也与人以关注特权，且行、且看、且信任，有时仅只陪伴，旅途或许短暂，却不可能一人独自行走。
 The poet David Whyte said that &amp;ldquo;the ultimate touchstone of friendship is not improvement, neither of the other nor of the self. The ultimate touchstone is witness, the privilege of having been seen by someone, and the equal privilege of being granted the sight of the essence of another, to have walked with them, and to have believed in them, and sometimes, just to have accompanied them, for however brief a span, on a journey impossible to accomplish alone.</description>
     </item>
-    
   </channel>
 </rss>

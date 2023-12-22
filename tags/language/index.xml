@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>language on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/language/</link>
     <description>Recent content in language on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Apr 2023 08:50:10 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 08:50:10 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>even if you don&#39;t cheat, life cheats you anyway</title>
       <link>https://un01s.github.io/notes/posts/20230423/</link>
       <pubDate>Sun, 23 Apr 2023 08:50:10 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230423/</guid>
       <description>The title is a line from Lynn in the 2017 Thai movie, Bad Genius. &amp;ldquo;Don&amp;rsquo;t you see &amp;ndash; even if you don&amp;rsquo;t cheat, life cheats you anyway.&amp;rdquo;
 When I learn English, the literal meaning is easy to get but the subtle culture and personal feel is hard to grasp. This can come to the difference between two persons. What do I know what you say means the same as I say the same words and sentences?</description>
     </item>
-    
     <item>
       <title>walter benjamin</title>
       <link>https://un01s.github.io/notes/posts/20230205/</link>
       <pubDate>Sun, 05 Feb 2023 18:38:05 -0700</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230205/</guid>
       <description>&amp;ldquo;In modernist art, obscurity can be a conscious strategy. It is one of the ways in which the artwork can avoid being consumed too easily. Poems need to thicken their textures and scramble their syntax if they are not to slip down too easily, which is the fate of the commodity. Everyday language is no longer a medium of truth. It has grown stale and threadbare, and only by wreaking violence on it can you force it to yield something of value.</description>
     </item>
-    
   </channel>
 </rss>

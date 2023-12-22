@@ -1,37 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poem on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/poem/</link>
     <description>Recent content in poem on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Nov 2022 20:09:14 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Nov 2022 20:09:14 -0700</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/poem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>weekly notes</title>
       <link>https://un01s.github.io/notes/posts/20221126/</link>
       <pubDate>Sat, 26 Nov 2022 20:09:14 -0700</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20221126/</guid>
       <description>Green Koan by Rita Dove That the mind can go wherever it wishes is a kindness we&amp;rsquo;ve come to rely on; that it returns unbidden to the soul it could not banish and learns to thrive there is life&amp;rsquo;s stubborn mercy &amp;ndash; given to soften or harden us, as we choose.
 Code is the biggest lever humanity has ever invented From Amjad Masad:
 Code is the biggest lever humanity has ever invented.</description>
     </item>
-    
     <item>
       <title>Mayakovsky</title>
       <link>https://un01s.github.io/notes/posts/20221105/</link>
       <pubDate>Sat, 05 Nov 2022 12:25:39 -0700</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20221105/</guid>
       <description>Mayakovsky BY FRANK O&amp;#39;HARA 1 My heart’s aflutter! I am standing in the bath tub crying. Mother, mother who am I? If he will just come back once and kiss me on the face his coarse hair brush my temple, it’s throbbing! then I can put on my clothes I guess, and walk the streets. 2 I love you. I love you, but I’m turning to my verses and my heart is closing like a fist.</description>
     </item>
-    
     <item>
       <title>Black Postcards</title>
       <link>https://un01s.github.io/notes/posts/20220611/</link>
       <pubDate>Sat, 11 Jun 2022 09:28:03 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220611/</guid>
       <description>Black Postcards I
 The calendar all booked up, the future unknown. The cable silently hums some folk song but lacks a country. Snow falls in the grey sea. Shadows fight out on the dock.
@@ -39,16 +35,13 @@ II
 Halfway through my life, death turns up and takes your pertinent measurements. We forget the visit. Life goes on. But someone is sewing the suit in the silence.
 I hear my country in your voice From Romeo Oriogun:</description>
     </item>
-    
     <item>
       <title>Emily Dickinson</title>
       <link>https://un01s.github.io/notes/posts/20211212/</link>
       <pubDate>Sun, 12 Dec 2021 14:34:21 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20211212/</guid>
       <description>In this short Life that only lasts an hour
 How much - how little - is within our power</description>
     </item>
-    
   </channel>
 </rss>

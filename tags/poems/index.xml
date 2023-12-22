@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poems on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/poems/</link>
     <description>Recent content in poems on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jun 2023 08:58:41 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/poems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 08:58:41 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/poems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the similar feel</title>
       <link>https://un01s.github.io/notes/posts/20230615/</link>
       <pubDate>Thu, 15 Jun 2023 08:58:41 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230615/</guid>
       <description>美国作家Cormac McCarthy去世了，看到了一个推引用了他小说中的一段话：
 “They spoke less and less between them until at last they were silent altogether as is often the way with travelers approaching the end of a journey.”
@@ -21,32 +21,26 @@
 McCarthy还有写火的段落，比如在Blood Meridian:
 “The flames sawed in the wind and the embers paled and deepened and paled and deepened like the bloodbeat of some living thing eviscerate upon the ground before them and they watched the fire which does contain within it something of men themselves inasmuch as they are less without it and are divided from their origins and are exiles.</description>
     </item>
-    
     <item>
       <title>notes collected</title>
       <link>https://un01s.github.io/notes/posts/20230126/</link>
       <pubDate>Thu, 26 Jan 2023 09:34:03 -0700</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230126/</guid>
       <description>&amp;ldquo;It&amp;rsquo;s not true that fate slips silently into our lives. It steps in through the door that we have opened, and we invite it to enter. No one is strong enough or cunning enough to avert by word or deed the misfortune that is rooted in the iron laws of his character and his life.&amp;rdquo;
 &amp;ndash; Sandor Marai, Embers
 “The words we read and words we write never say exactly what we mean.</description>
     </item>
-    
     <item>
       <title>news and readings</title>
       <link>https://un01s.github.io/notes/posts/20230105/</link>
       <pubDate>Thu, 05 Jan 2023 10:58:46 -0700</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230105/</guid>
       <description>The new US congress is still voting for its next speaker. From former speaker John Boehner, &amp;ldquo;What they&amp;rsquo;re really interested in is chaos. &amp;hellip;They want to throw sand in the gears of the hated federal government until it fails and they&amp;rsquo;ve finally proved that it&amp;rsquo;s beyond saving. Every time they vote down a bill, they get another invitation to go on Fox News or talk radio. It&amp;rsquo;s a narcissistic &amp;ndash; and dangerous &amp;ndash; feedback loop.</description>
     </item>
-    
     <item>
       <title>Two Poems</title>
       <link>https://un01s.github.io/notes/posts/20221104/</link>
       <pubDate>Fri, 04 Nov 2022 16:26:54 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20221104/</guid>
       <description>Piano by Edgar Kunz I held him together as long as I could, she says.
 He stopped working, stopped coming upstairs.
@@ -57,6 +51,5 @@ I met a woman once who worked on pianos.
 Said it was a hard job. The tools, the leverage.
 The required ear.</description>
     </item>
-    
   </channel>
 </rss>

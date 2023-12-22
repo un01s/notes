@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dictionary on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/dictionary/</link>
     <description>Recent content in dictionary on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 May 2022 19:48:27 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/dictionary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 19:48:27 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/dictionary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>vorld</title>
       <link>https://un01s.github.io/notes/posts/20220501/</link>
       <pubDate>Sun, 01 May 2022 19:48:27 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220501/</guid>
       <description>vorld Vorld is a personal world. V is just a half of W. In your time, the people you have met, the places you have been, the things you have done, these are your vorld. Just a small part of the world.
 desire Lacan has a famous dictum, man’s desire is the desire of the Other. What you want, in the end, is a construct by the vorld from the world.</description>
     </item>
-    
   </channel>
 </rss>

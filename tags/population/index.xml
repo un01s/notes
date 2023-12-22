@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>population on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/population/</link>
     <description>Recent content in population on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 May 2022 10:27:15 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/population/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 10:27:15 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/population/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Population</title>
       <link>https://un01s.github.io/notes/posts/20220518/</link>
       <pubDate>Wed, 18 May 2022 10:27:15 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220518/</guid>
       <description>&amp;ldquo;The battle to feed all of humanity is over.&amp;rdquo; This is the first line of Paul Ehrlich&amp;rsquo;s book &amp;lsquo;The Population Bomb&amp;rsquo;, published in 1968. The book sold millions of copies and was taken very seriously.
 The Malthus&amp;rsquo;s prediction of what is now called Malthusian trap. That is more an observation of the cyclical patterns of population boom and bust that had happened for most of human existence. The the industrial revolution changed things at some great costs.</description>
     </item>
-    
   </channel>
 </rss>

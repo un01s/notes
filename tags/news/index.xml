@@ -1,65 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>news on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/news/</link>
     <description>Recent content in news on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Oct 2023 13:30:22 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 13:30:22 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curiosa</title>
       <link>https://un01s.github.io/notes/posts/20231017/</link>
       <pubDate>Tue, 17 Oct 2023 13:30:22 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20231017/</guid>
       <description>In the age of Internet, how could we individual stay current with the world? How to gather the facts in the fast-going conflict, and form our opinions? Only free speech could lead to the truth.
 the movie, Curiosa.</description>
     </item>
-    
     <item>
       <title>The despair of Ukraine and others</title>
       <link>https://un01s.github.io/notes/posts/20230629/</link>
       <pubDate>Thu, 29 Jun 2023 13:43:19 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230629/</guid>
       <description>There is one commentary on politico.eu on Ukraine by Mariam Naiem.
 On June 6, a catastrophic event unfolded in Ukraine as the dam in Nova Kakhovka was destroyed, another war crime by Russia. I&amp;rsquo;d like to highlight the following paragraph.
 &amp;ldquo;To us (Ukrainians), it feels as though the world is anticipating yet another tragedy, as if we are simply characters in a dystopian series. Only when faced with a concoction of pandemics, floods, bombings, torture and rape can we receive help and support.</description>
     </item>
-    
     <item>
       <title>2022-09-03 tetsuji</title>
       <link>https://un01s.github.io/notes/posts/20220903/</link>
       <pubDate>Sat, 03 Sep 2022 12:51:27 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220903/</guid>
       <description>news: too many books published According to the Penguin Random House/S&amp;amp;S antitrust trial it was revealed that out of 58,000 trade titles published per year, half of those titles sell fewer than one dozen books. 90 percent of titles sell fewer than 2,000 units.
 video game music archive Garageband can play the mid file.
 tetsuji Something interesting &amp;hellip;
 reference bootNoodle 2020 janus: a polyglot binary for BGGP 2021 remote code execution on a Gameboy Colour Binary Golf Association BGGP 2021 github </description>
     </item>
-    
     <item>
       <title>避讳之怪</title>
       <link>https://un01s.github.io/notes/posts/20220805/</link>
       <pubDate>Fri, 05 Aug 2022 13:31:06 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220805/</guid>
       <description>前几天因为美国议长佩洛西访问台湾，社交媒体上热闹了一阵。在佩洛西离开台湾之后，中国立即开始在台湾附近海域进行实弹演习作为反制。为此，新华社发了公告(www.news.cn)，其中为了所谓的避讳，将军事“演习”改为军事“演训”。
 避讳本来就是陈规陋习，在封建社会也只是不提君王、贵族或高官的名号以示尊重，名讳而已。不过在习近平准备终身连任的过程中，党章宪法都可以修改，避讳从名讳升级到了姓讳也就不奇怪。这无论怎样都是件很荒唐的事，难道以后别人都不能姓习了。习字从此只能习近平一人独享？
 邓小平敢开放敢于打破终身制，其他不论，仅此一点就可以写进史书。而习近平却在搞复辟，修改宪法以便终身连任。而现在利用网络审核和过滤，大肆进行封建避讳。这种倒退是逆历史潮流，完全违背自由平等的普世价值。不过，复辟也只是一时热闹，迟早是要失败的。</description>
     </item>
-    
     <item>
       <title>Invasion!</title>
       <link>https://un01s.github.io/notes/posts/20220221/</link>
       <pubDate>Mon, 21 Feb 2022 14:55:05 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220221/</guid>
       <description>Today Putin ordered troops into pro-Russian region of eastern Ukraine in the name of peacekeeping. Ukraine invaded.
 Then I saw the news of Dr. Paul Farmer. “The idea that some lives matter less is the root of all that is wrong with the world.”</description>
     </item>
-    
   </channel>
 </rss>

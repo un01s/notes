@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joan Didion on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/joan-didion/</link>
     <description>Recent content in Joan Didion on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Dec 2021 15:24:34 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/joan-didion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Dec 2021 15:24:34 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/joan-didion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I write</title>
       <link>https://un01s.github.io/notes/posts/20211224/</link>
       <pubDate>Fri, 24 Dec 2021 15:24:34 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20211224/</guid>
       <description>Had my credentials been in order I would never have become a writer. Had I been blessed with even limited access to my own mind there would have been no reason to write. I write entirely to find out what I’m thinking, what I’m looking at, what I see and what it means. What I want and what I fear. Why did the oil refineries around Carquinez Strait seem sinister to me in the summer of 1956?</description>
     </item>
-    
   </channel>
 </rss>

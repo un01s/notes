@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>suffering on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/suffering/</link>
     <description>Recent content in suffering on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Apr 2023 10:15:29 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/suffering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 10:15:29 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/suffering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>different forms of power?</title>
       <link>https://un01s.github.io/notes/posts/20230416/</link>
       <pubDate>Sun, 16 Apr 2023 10:15:29 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230416/</guid>
       <description>In my backyard, there are always bird dramas going on and on. As you may know that birds are territorial animals. One year, a robin couple fought with another couple of black crow because somehow the black crow stole their chick and ate it. the poor robins called all their friends and had a fight on the garage&amp;rsquo;s roof. This spring, two Magpies built their nest on the apple tree. The construction took about a month.</description>
     </item>
-    
   </channel>
 </rss>

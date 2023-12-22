@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hack on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/hack/</link>
     <description>Recent content in hack on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Sep 2022 12:51:27 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 12:51:27 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022-09-03 tetsuji</title>
       <link>https://un01s.github.io/notes/posts/20220903/</link>
       <pubDate>Sat, 03 Sep 2022 12:51:27 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220903/</guid>
       <description>news: too many books published According to the Penguin Random House/S&amp;amp;S antitrust trial it was revealed that out of 58,000 trade titles published per year, half of those titles sell fewer than one dozen books. 90 percent of titles sell fewer than 2,000 units.
 video game music archive Garageband can play the mid file.
 tetsuji Something interesting &amp;hellip;
 reference bootNoodle 2020 janus: a polyglot binary for BGGP 2021 remote code execution on a Gameboy Colour Binary Golf Association BGGP 2021 github </description>
     </item>
-    
   </channel>
 </rss>

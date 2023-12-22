@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Václav Havel on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/v%C3%A1clav-havel/</link>
     <description>Recent content in Václav Havel on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jun 2023 16:58:47 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/v%C3%A1clav-havel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jun 2023 16:58:47 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/v%C3%A1clav-havel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>transparency of politics and defend freedom by force if necessary</title>
       <link>https://un01s.github.io/notes/posts/20230607/</link>
       <pubDate>Wed, 07 Jun 2023 16:58:47 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230607/</guid>
       <description>There are two books to note.
 Gimme some truth by Jon Wiener, 1999 Wiener had a legal battle with the US government for over two and a half decades. One thing is that Nixon attempted to have Lennon deported in the spring of 1972. FBI kept a file on Lennon.
 The basic issue was that government officials everywhere like secrecy. By keeping the public from learning what they have done, they hope to avoid criticism, hinder the opposition, and maintain power over citizens and their elected representatives.</description>
     </item>
-    
   </channel>
 </rss>

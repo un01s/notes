@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>funny on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/funny/</link>
     <description>Recent content in funny on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Sep 2022 13:26:01 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/funny/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 13:26:01 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/funny/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>interesting stuff</title>
       <link>https://un01s.github.io/notes/posts/20220910/</link>
       <pubDate>Sat, 10 Sep 2022 13:26:01 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220910/</guid>
       <description>For the first time someone complained that I swam too fast 记得以前看过一篇文章说游得好自然就快。我不知道自己游得好不好，反正并不快，所以一直在慢的泳道。大学时学会游泳，以前常游。后来有些时间没有条件，也没有时间。最近这段时间我已经坚持游了有近十年，快慢不论，体力还是有的。
 120-year-old singing bird It&amp;rsquo;s amazing like a real bird chirp.
@@ -20,6 +20,5 @@ The habit is a rope. We weave a thread every day, and finally we can&amp;rsquo;t
 如果文化也如绳索，一丝一缕不断编织，到头来坚韧如枷锁难以断开。
 Theodor W Adorno Kunst ist Magie, befreit von der Lüge, Wahrheit zu sein.</description>
     </item>
-    
   </channel>
 </rss>

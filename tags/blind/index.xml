@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blind on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/blind/</link>
     <description>Recent content in blind on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 May 2023 11:02:22 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/blind/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 11:02:22 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/blind/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blind like in a dream</title>
       <link>https://un01s.github.io/notes/posts/20230519/</link>
       <pubDate>Fri, 19 May 2023 11:02:22 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230519/</guid>
       <description>In a song by Horslips, you can&amp;rsquo;t fool the beast, there are a few lines interesting.
 Ah yes, they&amp;#39;re blind already. They&amp;#39;re blind to love, blind to pain, Blind to hope, blind to gain. Ah you can fool them alright But can you fool the beast? Love Poem by Robert Bly:
 When we are in love, we love the grass And the barns, and the light poles And the small mainstreet abandoned all nights.</description>
     </item>
-    
   </channel>
 </rss>

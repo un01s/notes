@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>competition on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/competition/</link>
     <description>Recent content in competition on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jun 2022 14:39:01 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 14:39:01 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/competition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a real business to last on the top and others</title>
       <link>https://un01s.github.io/notes/posts/20220623/</link>
       <pubDate>Thu, 23 Jun 2022 14:39:01 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220623/</guid>
       <description>Just come across the tweets from Marcelino Pantoja. Feel something with the followings. One is that Steve Jobs on building a real company. The other is that Snowflake CEO Frank Slootman on competition.
 The difficult thing to start a business is what to build, what is the feature of a product you really want but can&amp;rsquo;t find. But that&amp;rsquo;s not enough. How can you expand your product into a platform with that particular product.</description>
     </item>
-    
   </channel>
 </rss>

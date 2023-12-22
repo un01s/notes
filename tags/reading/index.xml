@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reading on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/reading/</link>
     <description>Recent content in reading on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 16:02:45 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 16:02:45 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>read</title>
       <link>https://un01s.github.io/notes/posts/20230818/</link>
       <pubDate>Fri, 18 Aug 2023 16:02:45 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230818/</guid>
       <description>Proof you can do harder things 20 things I&amp;rsquo;ve learned in my 20 years as a software engineer Advice should go with its context.
 I still don’t know very much
@@ -21,6 +21,5 @@ The best code is no code, or code you don’t have to maintain
 Software is a means to an end
 Sometimes you have to stop sharpening the saw, and just start cutting shit</description>
     </item>
-    
   </channel>
 </rss>

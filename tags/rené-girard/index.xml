@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>René Girard on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/ren%C3%A9-girard/</link>
     <description>Recent content in René Girard on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 May 2022 13:42:51 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/ren%C3%A9-girard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 13:42:51 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/ren%C3%A9-girard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>René Girard</title>
       <link>https://un01s.github.io/notes/posts/20220529/</link>
       <pubDate>Sun, 29 May 2022 13:42:51 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220529/</guid>
       <description>&amp;ldquo;What opportunities can’t I see because they’re not prestigious enough?&amp;rdquo;
 &amp;ldquo;You don&amp;rsquo;t really outperform your peers with quality per se, you outperform your peers by finding underpriced quality that others don’t judge to be valuable.&amp;rdquo;
 Girard&amp;rsquo;s philosophy teaches us that the world is filled with under-priced opportunities that are only available to people who are comfortable with promising, but low-status projects.
 The modern world rejects imitation in favor of originality at all costs.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>quotes on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/quotes/</link>
     <description>Recent content in quotes on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Dec 2022 06:14:41 -0700</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 06:14:41 -0700</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Interesting Bits</title>
       <link>https://un01s.github.io/notes/posts/20221205/</link>
       <pubDate>Mon, 05 Dec 2022 06:14:41 -0700</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20221205/</guid>
       <description>I whispered in his ear “I love you” he said delighted: “repeat it in my other ear so I regain my balance…”
 If I had more time I would written a shorter letter. &amp;ndash; Cicero
 I always feel that a man and a woman who do not like the same films will eventually divorce. &amp;ndash; Jean-luc Godard</description>
     </item>
-    
   </channel>
 </rss>

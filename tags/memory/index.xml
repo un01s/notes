@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>memory on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/memory/</link>
     <description>Recent content in memory on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Apr 2022 10:17:11 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 10:17:11 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What do we really love?</title>
       <link>https://un01s.github.io/notes/posts/20220415/</link>
       <pubDate>Sat, 16 Apr 2022 10:17:11 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220415/</guid>
       <description>Went hiking to a nearby park. Bit cold and it&amp;rsquo;s pretty soon that my face was numbed. Birds sang their morning songs with no stop. On the top, the white peaks of rocky mountians in the west are clear to see. But no one to see but birds.
 Memory is clearly somewhere in our brain. When we remember something, it&amp;rsquo;s somehow printed hard there. If you practise, anything like jogging, swimming, basketball, guitar, violin, or piano, you know how the muscle memory is there.</description>
     </item>
-    
   </channel>
 </rss>

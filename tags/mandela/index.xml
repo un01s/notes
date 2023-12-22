@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mandela on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/mandela/</link>
     <description>Recent content in Mandela on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Oct 2023 12:56:38 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/mandela/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 12:56:38 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/mandela/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mandela and political violence</title>
       <link>https://un01s.github.io/notes/posts/20231028/</link>
       <pubDate>Sat, 28 Oct 2023 12:56:38 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20231028/</guid>
       <description>Rivonia 1964 from Rachael Meager.
 the speech from the dock in the Rivonia trial (1964) Long Walk to Freedom (1994) Why Mandela and his comrades decided to pursue sabotage and other forms of political voilence?
 “I, and the others who started the organisation [Umkhonto], did so for two reasons. Firstly, we believed that as a result of Government policy, violence by the African people had become inevitable, and that unless responsible leadership was given to canalise and control the feelings of our people, there would be outbreaks of terrorism which would produce an intensity of bitterness and hostility between the various races of the country which is not produced even by war.</description>
     </item>
-    
   </channel>
 </rss>

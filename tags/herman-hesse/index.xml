@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herman Hesse on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/herman-hesse/</link>
     <description>Recent content in Herman Hesse on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Mar 2023 10:24:33 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/herman-hesse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 10:24:33 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/herman-hesse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>执象而求</title>
       <link>https://un01s.github.io/notes/posts/20230313/</link>
       <pubDate>Mon, 13 Mar 2023 10:24:33 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230313/</guid>
       <description>“When someone seeks,&amp;quot; said Siddhartha, &amp;ldquo;then it easily happens that his eyes see only the thing that he seeks, and he is able to find nothing, to take in nothing because he always thinks only about the thing he is seeking, because he has one goal, because he is obsessed with his goal. Seeking means: having a goal. But finding means: being free, being open, having no goal.”
 君子之交，其淡如水。执象而求，咫尺千里。问余何适，廓儿忘言。华枝春满，天心月圆。</description>
     </item>
-    
   </channel>
 </rss>

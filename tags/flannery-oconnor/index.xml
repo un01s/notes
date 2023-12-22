@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flannery O&#39;Connor on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/flannery-oconnor/</link>
     <description>Recent content in Flannery O&#39;Connor on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Jan 2022 15:01:00 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/flannery-oconnor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 15:01:00 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/flannery-oconnor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>reading experience</title>
       <link>https://un01s.github.io/notes/posts/20220129/</link>
       <pubDate>Sat, 29 Jan 2022 15:01:00 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20220129/</guid>
       <description>“People without hope not only don’t write novels, but what is more to the point, they don’t read them. They don’t take long looks at anything, because they lack the courage. The way to despair is to refuse to have any kind of experience, and the novel, of course, is a way to have experience. The lady who only read books that improved her mind was taking a safe course - and a hopeless one.</description>
     </item>
-    
   </channel>
 </rss>

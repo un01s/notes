@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>virginia woolf on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/virginia-woolf/</link>
     <description>Recent content in virginia woolf on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Mar 2023 10:10:29 -0600</lastBuildDate><atom:link href="https://un01s.github.io/notes/tags/virginia-woolf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 10:10:29 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/virginia-woolf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>virginia woolf</title>
       <link>https://un01s.github.io/notes/posts/20230330/</link>
       <pubDate>Thu, 30 Mar 2023 10:10:29 -0600</pubDate>
-      
       <guid>https://un01s.github.io/notes/posts/20230330/</guid>
       <description>The flower bloomed and faded. The sun rose and sank. The lover loved and went. And what the poets said in rhyme, the young translated into practice. </description>
     </item>
-    
   </channel>
 </rss>
