@@ -6,8 +6,16 @@
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Dec 2023 18:01:44 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 10:05:05 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>artistic pcb with Gingerbread</title>
+      <link>https://un01s.github.io/notes/posts/20231127/</link>
+      <pubDate>Wed, 27 Dec 2023 10:05:05 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20231127/</guid>
+      <description>There are several ways to add artistic touch to the PCB. One way is to use SVG2shenzhen to create the KiCAD modules. Another way is Boldport PCBmode. Both use Inkscape to create SVG. The former is a kind of plugin for Inkscape. The latter is a part of interactive process using Python.
+Recently I noticed an OSHPark blog that mentioned another blog by Anne Barela from AdaFruit. The approach is different from the above.</description>
+    </item>
     <item>
       <title>snow: alice&#39;s adventures in wonderland</title>
       <link>https://un01s.github.io/notes/posts/20231226/</link>
