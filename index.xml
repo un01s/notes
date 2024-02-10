@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>un01s notes</title>
     <link>https://un01s.github.io/notes/</link>
     <description>Recent content on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 07:10:37 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:59:40 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240209</title>
+      <link>https://un01s.github.io/notes/posts/20240209/</link>
+      <pubDate>Fri, 09 Feb 2024 12:59:40 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240209/</guid>
+      <description>Book: Crime and Punishment “Your worst sin is that you have destroyed and betrayed yourself for nothing.”
+― Fyodor Dostoevsky, Crime and Punishment
+Book: Welcome to the Hyunam-Dong Bookshop “&amp;lt;..&amp;gt; Reading makes you see with clearer eyes and understand the world better. When you do that , you become stronger - the feeling you associate with success. But at the same time with pain. Within the pages, there&amp;rsquo;s much suffering, beyond that we&amp;rsquo;ve gone through in our finite experience of life.</description>
+    </item>
     <item>
       <title>love</title>
       <link>https://un01s.github.io/notes/posts/20240129/</link>
