@@ -1,9 +1,9 @@
 ---
 title: "testing images"
 date: 2024-02-15T13:26:21-07:00
-tags: ["image", "wild goose"]
+tags: ["image"]
 draft: false
 ---
 
-![wild goose](/wild-goose.png)
+![Serebryakova](Serebryakova_SefPortrait.jpg)
 
