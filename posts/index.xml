@@ -6,8 +6,15 @@
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Feb 2024 19:15:28 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 10:40:25 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240219</title>
+      <link>https://un01s.github.io/notes/posts/20240219/</link>
+      <pubDate>Mon, 19 Feb 2024 10:40:25 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240219/</guid>
+      <description>$ git clone https://github.com/quickjs-ng/quickjs $ cd quickjs $ make $ $./build/qjs tests/microbench.js TEST N TIME (ns) REF (ns) SCORE (%) empty_loop 500000 9.20 date_now 100000 37.00 prop_read 100000 7.28 prop_write 100000 5.73 prop_create 10000 69.25 prop_delete 50000 71.60 array_read 50000 8.62 array_write 20000 17.19 array_prop_create 100 26.30 array_length_decr 200 12.39 array_hole_length_decr 200 19.25 array_push 100 45.00 array_pop 100 66.40 typed_array_read 50000 8.36 typed_array_write 20000 17.20 global_read 200000 3.98 global_write 100000 9.</description>
+    </item>
     <item>
       <title>some notes</title>
       <link>https://un01s.github.io/notes/posts/20240218/</link>
