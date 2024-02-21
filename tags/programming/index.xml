@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>programming on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/programming/</link>
+    <description>Recent content in programming on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Feb 2024 10:26:19 -0700</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SICP</title>
+      <link>https://un01s.github.io/notes/posts/20240220/</link>
+      <pubDate>Tue, 20 Feb 2024 10:26:19 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240220/</guid>
+      <description>What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more. &amp;ndash; Alan J. Perlis (1922–1990)
+book SICP</description>
+    </item>
+  </channel>
+</rss>

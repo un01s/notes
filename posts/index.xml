@@ -6,8 +6,16 @@
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Feb 2024 10:40:25 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 10:26:19 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SICP</title>
+      <link>https://un01s.github.io/notes/posts/20240220/</link>
+      <pubDate>Tue, 20 Feb 2024 10:26:19 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240220/</guid>
+      <description>What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more. &amp;ndash; Alan J. Perlis (1922–1990)
+book SICP</description>
+    </item>
     <item>
       <title>20240219</title>
       <link>https://un01s.github.io/notes/posts/20240219/</link>
