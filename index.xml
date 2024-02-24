@@ -6,8 +6,16 @@
     <description>Recent content on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Feb 2024 10:26:19 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 14:07:09 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240222</title>
+      <link>https://un01s.github.io/notes/posts/20240222/</link>
+      <pubDate>Thu, 22 Feb 2024 14:07:09 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240222/</guid>
+      <description>子曰：“笃信好学，守死善道。危邦不入，乱邦不居。天下有道则见，无道则隐。邦有道，贫且贱焉，耻也；邦无道，富且贵焉，耻也。”
+半轮秋月挂山崖，孤鸟悲鸣为有家。一己哀愁随落叶，百年世事入残霞。2022.10.2.</description>
+    </item>
     <item>
       <title>SICP</title>
       <link>https://un01s.github.io/notes/posts/20240220/</link>
