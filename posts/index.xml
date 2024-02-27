@@ -6,8 +6,16 @@
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Feb 2024 13:00:41 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 07:29:52 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240226</title>
+      <link>https://un01s.github.io/notes/posts/20240226/</link>
+      <pubDate>Mon, 26 Feb 2024 07:29:52 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240226/</guid>
+      <description>The early warming this year, over 10°C in late Jan and early Feb, might give me a false hope. I might be able to solder something in my garage. So I went ahead to design some PCB and order some components. After lunar new year, they are trickling in one after another, now it is minus 20°C again.
+&amp;ldquo;And so we beat on, boats against the current, borne back ceaselessly into the past.</description>
+    </item>
     <item>
       <title>notes on SICP</title>
       <link>https://un01s.github.io/notes/posts/20240224/</link>
