@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Auden on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/auden/</link>
+    <description>Recent content in Auden on un01s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Feb 2024 06:49:05 -0700</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/auden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>explore/exploit tradeoff: model vs. reality</title>
+      <link>https://un01s.github.io/notes/posts/20240227/</link>
+      <pubDate>Tue, 27 Feb 2024 06:49:05 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240227/</guid>
+      <description>To navigate life we create mental models of the world out there, and then we confuse the models for reality.
+What is the explore/exploit tradeoff? The gambler needs to learn new knowledge about the machines and simultaneously use what they have already learned to optimize their decisions. In the literature, these two activities are referred to as exploring and exploiting. You can’t do both things at the same time. When you explore, you are pulling new arms on the bandit trying to figure out their expected payout.</description>
+    </item>
+  </channel>
+</rss>
