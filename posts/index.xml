@@ -6,8 +6,18 @@
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Feb 2024 06:49:05 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 10:19:41 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adam Wolff on debugging FB-Chat</title>
+      <link>https://un01s.github.io/notes/posts/20240228/</link>
+      <pubDate>Wed, 28 Feb 2024 10:19:41 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240228/</guid>
+      <description>Today Adam Wolff tweeted a story about deugging FB-Chat. He is a technical fellow at Electric Capital. Below is it.
+Before the major effort to redo the UI, FB Chat was super broken and we had no idea why.
+We didn’t know what was wrong, but we knew the code was a mess. We set about rewriting both the front-end and the back-end in an effort to fix it.
+The front-end rewrite pulled in a whole team of amazing engineers and became one of the big threads that led to reactjs.</description>
+    </item>
     <item>
       <title>explore/exploit tradeoff: model vs. reality</title>
       <link>https://un01s.github.io/notes/posts/20240227/</link>
