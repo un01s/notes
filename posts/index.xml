@@ -4,10 +4,18 @@
     <title>Posts on un01s notes</title>
     <link>https://un01s.github.io/notes/posts/</link>
     <description>Recent content in Posts on un01s notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.120.3</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2024 12:18:02 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 06:50:06 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>notes on 20240412</title>
+      <link>https://un01s.github.io/notes/posts/20240412/</link>
+      <pubDate>Fri, 12 Apr 2024 06:50:06 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240412/</guid>
+      <description>Each of us has a window, that is ourselves. If we sample fast enough according to Nyquist-Shannon&amp;rsquo;s sampling theorem, we may reconstruct the world viewed through this window. Most of time, our views are just partial and approximate. It&amp;rsquo;s not so even because we are not fast enough and long enough.
+It&amp;#39;s in vain to recall the past, unless it works some influence upon the present. -- Charles Dickens. David Copperfield There is nothing in the world so irresistibly contagious as laughter and good humor.</description>
+    </item>
     <item>
       <title>Fundamental belief and Bias</title>
       <link>https://un01s.github.io/notes/posts/20240406/</link>
