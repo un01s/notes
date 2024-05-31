@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OCR on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/ocr/</link>
+    <description>Recent content in OCR on un01s notes</description>
+    <generator>Hugo -- 0.120.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 May 2024 09:05:34 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/ocr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>use OCR on a mac</title>
+      <link>https://un01s.github.io/notes/posts/20240530/</link>
+      <pubDate>Thu, 30 May 2024 09:05:34 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240530/</guid>
+      <description>Come across a blog on how to use OCR on a mac. The steps are as follows.
+open the shortcuts app in the Applications folder click + button to create a new shortcut in the right sidebar, search for &amp;ldquo;extract text&amp;rdquo; drag &amp;ldquo;Extract Text from Image&amp;rdquo; in the list of possible actions from the right side bar into the main area on the left in the &amp;ldquo;Extract Text from Image&amp;rdquo; action, click on the pale &amp;ldquo;Image&amp;rdquo; and pick &amp;ldquo;Shortcut Input&amp;rdquo;, there is a &amp;ldquo;Receive Any Input from Nowhere&amp;rdquo; action appearing above the &amp;ldquo;Extract text from Image&amp;rdquo; back to the right sidebar, search for &amp;ldquo;copy&amp;rdquo; and drag &amp;ldquo;Copy to Clipboard&amp;rdquo; action right below the &amp;ldquo;Extract Text from Image&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

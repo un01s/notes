@@ -6,8 +6,22 @@
     <description>Recent content in Tags on un01s notes</description>
     <generator>Hugo -- 0.120.3</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 May 2024 15:15:46 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 09:05:34 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mac</title>
+      <link>https://un01s.github.io/notes/tags/mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://un01s.github.io/notes/tags/mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCR</title>
+      <link>https://un01s.github.io/notes/tags/ocr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://un01s.github.io/notes/tags/ocr/</guid>
+      <description></description>
+    </item>
     <item>
       <title>changes</title>
       <link>https://un01s.github.io/notes/tags/changes/</link>
