@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C.A.R.Hoare on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/c.a.r.hoare/</link>
+    <description>Recent content in C.A.R.Hoare on un01s notes</description>
+    <generator>Hugo -- 0.120.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jun 2024 11:17:42 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/c.a.r.hoare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240621</title>
+      <link>https://un01s.github.io/notes/posts/20240621/</link>
+      <pubDate>Fri, 21 Jun 2024 11:17:42 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240621/</guid>
+      <description>not reading The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.</description>
+    </item>
+  </channel>
+</rss>
