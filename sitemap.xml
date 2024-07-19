@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/tags/poem/</loc>
+    <lastmod>2024-07-18T09:48:49-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2024-07-18T09:48:49-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2024-07-18T09:48:49-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2024-07-18T09:48:49-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20240718/</loc>
+    <lastmod>2024-07-18T09:48:49-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/william-bronk/</loc>
+    <lastmod>2024-07-18T09:48:49-06:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/tags/ingeborg-bachmann/</loc>
     <lastmod>2024-07-08T10:50:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/language/</loc>
     <lastmod>2024-07-08T10:50:21-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2024-07-08T10:50:21-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2024-07-08T10:50:21-06:00</lastmod>
-  </url><url>
     <loc>https://un01s.github.io/notes/posts/20240708/</loc>
-    <lastmod>2024-07-08T10:50:21-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2024-07-08T10:50:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/anatole-france/</loc>
@@ -105,9 +114,6 @@
     <lastmod>2024-04-05T10:13:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20240405/</loc>
-    <lastmod>2024-04-05T10:13:21-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/poem/</loc>
     <lastmod>2024-04-05T10:13:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/daniel-kahneman/</loc>
