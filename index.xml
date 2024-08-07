@@ -293,14 +293,6 @@ Even the season is wrong for him.</description>
 Just imagine that you had lived and grown in a different place or time, read different books, you might have different expereinces and beliefs.</description>
     </item>
     <item>
-      <title>artistic pcb with Gingerbread</title>
-      <link>https://un01s.github.io/notes/posts/20231127/</link>
-      <pubDate>Wed, 27 Dec 2023 10:05:05 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/posts/20231127/</guid>
-      <description>There are several ways to add artistic touch to the PCB. One way is to use SVG2shenzhen to create the KiCAD modules. Another way is Boldport PCBmode. Both use Inkscape to create SVG. The former is a kind of plugin for Inkscape. The latter is a part of interactive process using Python and has nothing to do with KiCAD. Boldport and Inkscape forms its own process.
-Recently I noticed an OSHPark blog that mentioned another blog by Anne Barela from AdaFruit.</description>
-    </item>
-    <item>
       <title>snow: alice&#39;s adventures in wonderland</title>
       <link>https://un01s.github.io/notes/posts/20231226/</link>
       <pubDate>Tue, 26 Dec 2023 18:01:44 -0700</pubDate>
@@ -338,6 +330,14 @@ Factual truth is in great danger of disappearance. It is engaged in a battle wit
       <description>First, an interesting book is coming, The dream you ordered is sold out what if money expired? There is an interesting article on money. Below are some notes.
 Bartering is inconvenient because it requires “double coincidence of wants.” This makes it highly inefficient too.
 As it evolved, money became increasingly symbolic. Money is abstract. It’s a belief system, a language, a social contract. Money is trust. But the rules aren’t written in stone.</description>
+    </item>
+    <item>
+      <title>artistic pcb with Gingerbread</title>
+      <link>https://un01s.github.io/notes/posts/20231127/</link>
+      <pubDate>Mon, 27 Nov 2023 10:05:05 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20231127/</guid>
+      <description>There are several ways to add artistic touch to the PCB. One way is to use SVG2shenzhen to create the KiCAD modules. Another way is Boldport PCBmode. Both use Inkscape to create SVG. The former is a kind of plugin for Inkscape. The latter is a part of interactive process using Python and has nothing to do with KiCAD. Boldport and Inkscape forms its own process.
+Recently I noticed an OSHPark blog that mentioned another blog by Anne Barela from AdaFruit.</description>
     </item>
     <item>
       <title>a part of power: you and me</title>
