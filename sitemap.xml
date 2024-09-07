@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/tags/abstraction/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/know/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20240906/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/understand/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/posts/20240902/</loc>
     <lastmod>2024-09-02T18:39:35-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2024-09-02T18:39:35-06:00</lastmod>
-  </url><url>
     <loc>https://un01s.github.io/notes/tags/satoshi-yahisawa/</loc>
-    <lastmod>2024-09-02T18:39:35-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2024-09-02T18:39:35-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2024-09-02T18:39:35-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20240830/</loc>
@@ -1164,9 +1176,6 @@
     <lastmod>2022-05-25T09:21:20-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220525/</loc>
-    <lastmod>2022-05-25T09:21:20-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/understand/</loc>
     <lastmod>2022-05-25T09:21:20-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220520/</loc>

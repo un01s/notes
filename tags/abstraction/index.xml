@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>abstraction on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/abstraction/</link>
+    <description>Recent content in abstraction on un01s notes</description>
+    <generator>Hugo -- 0.120.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 06:39:02 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/abstraction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the world versus me</title>
+      <link>https://un01s.github.io/notes/posts/20240906/</link>
+      <pubDate>Fri, 06 Sep 2024 06:39:02 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240906/</guid>
+      <description>This is from a tweet: knowing about architecture means buildings are legible in a different way; knowing about plants and birds makes hikes more stimulating, playing music makes listening to it richer, etc.
+However, it clicks with me from another perspective. To understand or to know the world better, we have to know some details and have to know it in one abstracted way. Yes, the world (so vast and so long) to us (so tiny so short) is always abstracted one way or another.</description>
+    </item>
+  </channel>
+</rss>
