@@ -14,7 +14,8 @@
       <pubDate>Sat, 07 Sep 2024 09:56:25 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240907/</guid>
       <description>Update rust
-$ rustc --version rustc 1.78.0 (9b00956e5 2024-04-29) $ rustup update $ rustc --version rustc 1.81.0 (eeb90cda1 2024-09-04) Start to play with Tauri: Web UI + rust =&amp;gt; App.</description>
+$ rustc --version rustc 1.78.0 (9b00956e5 2024-04-29) $ rustup update $ rustc --version rustc 1.81.0 (eeb90cda1 2024-09-04) Start to play with Tauri: node.js + rust =&amp;gt; GUI App. There are examples of deno and tauri.
+Another interesting thing is WebUI in C with WebSocket, that uses browser as the GUI.</description>
     </item>
     <item>
       <title>Rust on esp32</title>
