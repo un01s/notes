@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/posts/20240908/</loc>
+    <loc>https://un01s.github.io/notes/tags/ess/</loc>
     <lastmod>2024-09-08T08:18:16-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/evolution/</loc>
+    <lastmod>2024-09-08T08:18:16-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20240908/</loc>
+    <lastmod>2024-09-08T08:18:16-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/modern-synthesis/</loc>
     <lastmod>2024-09-08T08:18:16-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/</loc>
@@ -16,6 +22,15 @@
   </url><url>
     <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2024-09-08T08:18:16-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/rust/</loc>
+    <lastmod>2024-09-07T09:56:25-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20240907/</loc>
+    <lastmod>2024-09-07T09:56:25-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/tauri/</loc>
+    <lastmod>2024-09-07T09:56:25-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/abstraction/</loc>
     <lastmod>2024-09-06T06:39:02-06:00</lastmod>
@@ -1378,9 +1393,6 @@
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220115/</loc>
     <lastmod>2022-01-15T15:13:45-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/rust/</loc>
-    <lastmod>2022-01-11T15:18:20-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220111/</loc>
     <lastmod>2022-01-11T15:18:20-06:00</lastmod>

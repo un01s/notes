@@ -6,8 +6,16 @@
     <description>Recent content in rust on un01s notes</description>
     <generator>Hugo -- 0.120.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jan 2022 15:18:20 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 09:56:25 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rustup</title>
+      <link>https://un01s.github.io/notes/posts/20240907/</link>
+      <pubDate>Sat, 07 Sep 2024 09:56:25 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240907/</guid>
+      <description>Update rust
+$ rustc --version rustc 1.78.0 (9b00956e5 2024-04-29) $ rustup update $ rustc --version rustc 1.81.0 (eeb90cda1 2024-09-04) Start to play with Tauri: Web UI + rust =&amp;gt; App.</description>
+    </item>
     <item>
       <title>Rust on esp32</title>
       <link>https://un01s.github.io/notes/posts/20220111/</link>

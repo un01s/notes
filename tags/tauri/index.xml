@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tauri on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/tauri/</link>
+    <description>Recent content in tauri on un01s notes</description>
+    <generator>Hugo -- 0.120.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Sep 2024 09:56:25 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/tauri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rustup</title>
+      <link>https://un01s.github.io/notes/posts/20240907/</link>
+      <pubDate>Sat, 07 Sep 2024 09:56:25 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240907/</guid>
+      <description>Update rust
+$ rustc --version rustc 1.78.0 (9b00956e5 2024-04-29) $ rustup update $ rustc --version rustc 1.81.0 (eeb90cda1 2024-09-04) Start to play with Tauri: Web UI + rust =&amp;gt; App.</description>
+    </item>
+  </channel>
+</rss>

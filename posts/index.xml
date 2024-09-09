@@ -9,12 +9,20 @@
     <lastBuildDate>Sun, 08 Sep 2024 08:18:16 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>20240908</title>
+      <title>evolutionary biology: MS and ESS</title>
       <link>https://un01s.github.io/notes/posts/20240908/</link>
       <pubDate>Sun, 08 Sep 2024 08:18:16 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240908/</guid>
       <description>Changes in assumptions:
 modern synthesis extended evolutionary synthesis the pre-eminance of natural selection reciprocal causation (organisms shape, and shaped by, selective and developmental environments) genetic inheritance inclusive inheritance random genetic variation non-random phenotypic variation gradualism variable rates of change gene-centred perspective organism-centred perspective micro-evolution macro-evolution For classical MS, the major directing or creative influence in evolution is natural selection, which alone explains why the properties of organisms match the properties of their environments (adaptation).</description>
+    </item>
+    <item>
+      <title>rustup</title>
+      <link>https://un01s.github.io/notes/posts/20240907/</link>
+      <pubDate>Sat, 07 Sep 2024 09:56:25 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20240907/</guid>
+      <description>Update rust
+$ rustc --version rustc 1.78.0 (9b00956e5 2024-04-29) $ rustup update $ rustc --version rustc 1.81.0 (eeb90cda1 2024-09-04) Start to play with Tauri: Web UI + rust =&amp;gt; App.</description>
     </item>
     <item>
       <title>the world versus me</title>
