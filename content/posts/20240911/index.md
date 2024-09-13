@@ -5,7 +5,7 @@ tags: ["usa", "kate manne"]
 draft: false
 ---
 
-Hope it will be proved wrong in the due time. Not again!
+Hope it will be proved wrong in the due time. The source is from [Kate Manne](https://substack.com/@katemanne/p-148785044).
 
 ![kate manne substack](katemanne.png)
 
