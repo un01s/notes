@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/tags/kate-manne/</loc>
+    <lastmod>2024-09-11T20:01:41-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2024-09-11T20:01:41-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2024-09-11T20:01:41-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2024-09-11T20:01:41-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/usa/</loc>
+    <lastmod>2024-09-11T20:01:41-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20240911/</loc>
+    <lastmod>2024-09-11T20:01:41-06:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/tags/ess/</loc>
     <lastmod>2024-09-08T08:18:16-06:00</lastmod>
   </url><url>
@@ -12,15 +30,6 @@
     <lastmod>2024-09-08T08:18:16-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/modern-synthesis/</loc>
-    <lastmod>2024-09-08T08:18:16-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2024-09-08T08:18:16-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2024-09-08T08:18:16-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2024-09-08T08:18:16-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/rust/</loc>
@@ -135,9 +144,6 @@
     <lastmod>2024-06-28T13:37:12-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/haiku/</loc>
-    <lastmod>2024-06-28T13:37:12-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/usa/</loc>
     <lastmod>2024-06-28T13:37:12-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20240628/</loc>
