@@ -1,7 +1,7 @@
 ---
 title: "the world versus me"
 date: 2024-09-06T06:39:02-06:00
-tags: ["abstraction", "know", "understand", "language", "programming"]
+tags: ["abstraction", "know", "understand", "language", "programming", "note"]
 draft: false
 ---
 
