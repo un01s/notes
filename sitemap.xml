@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/posts/20240919/</loc>
+    <loc>https://un01s.github.io/notes/tags/albert-camus/</loc>
     <lastmod>2024-09-19T07:34:07-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/lung-gom-pa/</loc>
     <lastmod>2024-09-19T07:34:07-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/note/</loc>
+    <loc>https://un01s.github.io/notes/posts/20240919/</loc>
     <lastmod>2024-09-19T07:34:07-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/</loc>
@@ -60,6 +60,9 @@
     <lastmod>2024-09-06T06:39:02-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/language/</loc>
+    <lastmod>2024-09-06T06:39:02-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/note/</loc>
     <lastmod>2024-09-06T06:39:02-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/programming/</loc>
@@ -241,9 +244,6 @@
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20240327/</loc>
     <lastmod>2024-03-27T13:26:21-07:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/albert-camus/</loc>
-    <lastmod>2024-03-22T10:55:13-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20240322/</loc>
     <lastmod>2024-03-22T10:55:13-06:00</lastmod>
