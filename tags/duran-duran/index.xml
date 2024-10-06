@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Duran Duran on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/duran-duran/</link>
+    <description>Recent content in Duran Duran on un01s notes</description>
+    <generator>Hugo -- 0.120.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Oct 2024 10:35:28 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/duran-duran/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hegelian Dialectics</title>
+      <link>https://un01s.github.io/notes/posts/20241004/</link>
+      <pubDate>Fri, 04 Oct 2024 10:35:28 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20241004/</guid>
+      <description>dialectics Kant: Kant’s critical philosophy utilized dialectics to challenge metaphysical claims and to propose that reality is shaped by our perceptions.
+German idealists: Fichte, Schelling, and Hegel further developed this idea, using dialectics to delve into the nature of being and knowledge itself. Hegel’s dialectic, in particular, is famous for its thesis-antithesis-synthesis progression.
+Thesis: A proposition or an idea is put forward, starting the dialectical process. Antithesis: This initial idea is then countered with an opposing view or critique.</description>
+    </item>
+  </channel>
+</rss>
