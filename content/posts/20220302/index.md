@@ -5,5 +5,5 @@ tags: ["cron"]
 draft: false
 ---
 
-![Test](/cron-explained.png)
+![Test](cron-explained.png)
 
