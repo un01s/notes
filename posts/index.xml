@@ -4,10 +4,17 @@
     <title>Posts on un01s notes</title>
     <link>https://un01s.github.io/notes/posts/</link>
     <description>Recent content in Posts on un01s notes</description>
-    <generator>Hugo -- 0.120.3</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2024 10:27:03 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 11:02:43 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20241106</title>
+      <link>https://un01s.github.io/notes/posts/20241106/</link>
+      <pubDate>Wed, 06 Nov 2024 11:02:43 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20241106/</guid>
+      <description>Albert Camus: “Every time I hear a political speech or I read those of our leaders, I am horrified at having, for years, heard nothing which sounded human. It is always the same words telling the same lies. And the fact that men accept this, that the people’s anger has not destroyed these hollow clowns, strikes me as proof that men attribute no importance to the way they are governed; that they gamble – yes, gamble – with a whole part of their life and their so called &amp;lsquo;vital interests.</description>
+    </item>
     <item>
       <title>facts, reality, languages and cultures</title>
       <link>https://un01s.github.io/notes/posts/20241031/</link>
@@ -253,7 +260,7 @@ Those Who Take the Meat from the Table Teach Contentment. Those for whom the tax
       <link>https://un01s.github.io/notes/posts/20240327/</link>
       <pubDate>Wed, 27 Mar 2024 13:26:21 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240327/</guid>
-      <description> </description>
+      <description></description>
     </item>
     <item>
       <title>But you need to breathe. And you need to be.</title>
@@ -347,7 +354,7 @@ A good chunk of the depression we are feeling comes not just from watching fello
       <link>https://un01s.github.io/notes/posts/20240215/</link>
       <pubDate>Thu, 15 Feb 2024 13:26:21 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240215/</guid>
-      <description> </description>
+      <description></description>
     </item>
     <item>
       <title>some books</title>
@@ -1645,7 +1652,7 @@ import math as m import math show sin cos </description>
       <link>https://un01s.github.io/notes/posts/20220302/</link>
       <pubDate>Wed, 02 Mar 2022 14:21:56 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220302/</guid>
-      <description> </description>
+      <description></description>
     </item>
     <item>
       <title>Reading Toit Code (002)</title>

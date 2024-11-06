@@ -4,10 +4,17 @@
     <title>Tags on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/</link>
     <description>Recent content in Tags on un01s notes</description>
-    <generator>Hugo -- 0.120.3</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2024 10:27:03 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 11:02:43 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albert Camus</title>
+      <link>https://un01s.github.io/notes/tags/albert-camus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://un01s.github.io/notes/tags/albert-camus/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Marcel Proust</title>
       <link>https://un01s.github.io/notes/tags/marcel-proust/</link>
@@ -23,7 +30,7 @@
       <description></description>
     </item>
     <item>
-      <title>cem Karsan</title>
+      <title>Cem Karsan</title>
       <link>https://un01s.github.io/notes/tags/cem-karsan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/cem-karsan/</guid>
@@ -44,14 +51,14 @@
       <description></description>
     </item>
     <item>
-      <title>breakthrough</title>
+      <title>Breakthrough</title>
       <link>https://un01s.github.io/notes/tags/breakthrough/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/breakthrough/</guid>
       <description></description>
     </item>
     <item>
-      <title>diatectics</title>
+      <title>Diatectics</title>
       <link>https://un01s.github.io/notes/tags/diatectics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/diatectics/</guid>
@@ -72,49 +79,42 @@
       <description></description>
     </item>
     <item>
-      <title>quartz</title>
+      <title>Quartz</title>
       <link>https://un01s.github.io/notes/tags/quartz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/quartz/</guid>
       <description></description>
     </item>
     <item>
-      <title>albert camus</title>
-      <link>https://un01s.github.io/notes/tags/albert-camus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://un01s.github.io/notes/tags/albert-camus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>lung-gom-pa</title>
+      <title>Lung-Gom-Pa</title>
       <link>https://un01s.github.io/notes/tags/lung-gom-pa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/lung-gom-pa/</guid>
       <description></description>
     </item>
     <item>
-      <title>story-telling</title>
+      <title>Story-Telling</title>
       <link>https://un01s.github.io/notes/tags/story-telling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/story-telling/</guid>
       <description></description>
     </item>
     <item>
-      <title>kate manne</title>
+      <title>Kate Manne</title>
       <link>https://un01s.github.io/notes/tags/kate-manne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/kate-manne/</guid>
       <description></description>
     </item>
     <item>
-      <title>programming</title>
+      <title>Programming</title>
       <link>https://un01s.github.io/notes/tags/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/programming/</guid>
       <description></description>
     </item>
     <item>
-      <title>USA</title>
+      <title>Usa</title>
       <link>https://un01s.github.io/notes/tags/usa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/usa/</guid>
@@ -128,77 +128,77 @@
       <description></description>
     </item>
     <item>
-      <title>evolution</title>
+      <title>Evolution</title>
       <link>https://un01s.github.io/notes/tags/evolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/evolution/</guid>
       <description></description>
     </item>
     <item>
-      <title>modern synthesis</title>
+      <title>Modern Synthesis</title>
       <link>https://un01s.github.io/notes/tags/modern-synthesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/modern-synthesis/</guid>
       <description></description>
     </item>
     <item>
-      <title>rust</title>
+      <title>Rust</title>
       <link>https://un01s.github.io/notes/tags/rust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/rust/</guid>
       <description></description>
     </item>
     <item>
-      <title>tauri</title>
+      <title>Tauri</title>
       <link>https://un01s.github.io/notes/tags/tauri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/tauri/</guid>
       <description></description>
     </item>
     <item>
-      <title>webui</title>
+      <title>Webui</title>
       <link>https://un01s.github.io/notes/tags/webui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/webui/</guid>
       <description></description>
     </item>
     <item>
-      <title>abstraction</title>
+      <title>Abstraction</title>
       <link>https://un01s.github.io/notes/tags/abstraction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/abstraction/</guid>
       <description></description>
     </item>
     <item>
-      <title>know</title>
+      <title>Know</title>
       <link>https://un01s.github.io/notes/tags/know/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/know/</guid>
       <description></description>
     </item>
     <item>
-      <title>language</title>
+      <title>Language</title>
       <link>https://un01s.github.io/notes/tags/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/language/</guid>
       <description></description>
     </item>
     <item>
-      <title>note</title>
+      <title>Note</title>
       <link>https://un01s.github.io/notes/tags/note/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/note/</guid>
       <description></description>
     </item>
     <item>
-      <title>understand</title>
+      <title>Understand</title>
       <link>https://un01s.github.io/notes/tags/understand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/understand/</guid>
       <description></description>
     </item>
     <item>
-      <title>broken heart</title>
+      <title>Broken Heart</title>
       <link>https://un01s.github.io/notes/tags/broken-heart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/broken-heart/</guid>
@@ -212,7 +212,7 @@
       <description></description>
     </item>
     <item>
-      <title>fake-real</title>
+      <title>Fake-Real</title>
       <link>https://un01s.github.io/notes/tags/fake-real/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/fake-real/</guid>
@@ -226,7 +226,7 @@
       <description></description>
     </item>
     <item>
-      <title>tools</title>
+      <title>Tools</title>
       <link>https://un01s.github.io/notes/tags/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/tools/</guid>
@@ -240,7 +240,7 @@
       <description></description>
     </item>
     <item>
-      <title>picotool</title>
+      <title>Picotool</title>
       <link>https://un01s.github.io/notes/tags/picotool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/picotool/</guid>
@@ -275,7 +275,7 @@
       <description></description>
     </item>
     <item>
-      <title>poem</title>
+      <title>Poem</title>
       <link>https://un01s.github.io/notes/tags/poem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/poem/</guid>
@@ -317,7 +317,7 @@
       <description></description>
     </item>
     <item>
-      <title>haiku</title>
+      <title>Haiku</title>
       <link>https://un01s.github.io/notes/tags/haiku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/haiku/</guid>
@@ -345,21 +345,21 @@
       <description></description>
     </item>
     <item>
-      <title>brain</title>
+      <title>Brain</title>
       <link>https://un01s.github.io/notes/tags/brain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/brain/</guid>
       <description></description>
     </item>
     <item>
-      <title>computer</title>
+      <title>Computer</title>
       <link>https://un01s.github.io/notes/tags/computer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/computer/</guid>
       <description></description>
     </item>
     <item>
-      <title>mac</title>
+      <title>Mac</title>
       <link>https://un01s.github.io/notes/tags/mac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/mac/</guid>
@@ -373,14 +373,14 @@
       <description></description>
     </item>
     <item>
-      <title>changes</title>
+      <title>Changes</title>
       <link>https://un01s.github.io/notes/tags/changes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/changes/</guid>
       <description></description>
     </item>
     <item>
-      <title>vm</title>
+      <title>Vm</title>
       <link>https://un01s.github.io/notes/tags/vm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/vm/</guid>
@@ -394,42 +394,42 @@
       <description></description>
     </item>
     <item>
-      <title>history</title>
+      <title>History</title>
       <link>https://un01s.github.io/notes/tags/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/history/</guid>
       <description></description>
     </item>
     <item>
-      <title>laughter</title>
+      <title>Laughter</title>
       <link>https://un01s.github.io/notes/tags/laughter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/laughter/</guid>
       <description></description>
     </item>
     <item>
-      <title>love</title>
+      <title>Love</title>
       <link>https://un01s.github.io/notes/tags/love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/love/</guid>
       <description></description>
     </item>
     <item>
-      <title>notes</title>
+      <title>Notes</title>
       <link>https://un01s.github.io/notes/tags/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/notes/</guid>
       <description></description>
     </item>
     <item>
-      <title>belief</title>
+      <title>Belief</title>
       <link>https://un01s.github.io/notes/tags/belief/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/belief/</guid>
       <description></description>
     </item>
     <item>
-      <title>bias</title>
+      <title>Bias</title>
       <link>https://un01s.github.io/notes/tags/bias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/bias/</guid>
@@ -464,7 +464,7 @@
       <description></description>
     </item>
     <item>
-      <title>mary oliver</title>
+      <title>Mary Oliver</title>
       <link>https://un01s.github.io/notes/tags/mary-oliver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/mary-oliver/</guid>
@@ -478,7 +478,7 @@
       <description></description>
     </item>
     <item>
-      <title>software debugging</title>
+      <title>Software Debugging</title>
       <link>https://un01s.github.io/notes/tags/software-debugging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/software-debugging/</guid>
@@ -492,42 +492,42 @@
       <description></description>
     </item>
     <item>
-      <title>model</title>
+      <title>Model</title>
       <link>https://un01s.github.io/notes/tags/model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/model/</guid>
       <description></description>
     </item>
     <item>
-      <title>reality</title>
+      <title>Reality</title>
       <link>https://un01s.github.io/notes/tags/reality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/reality/</guid>
       <description></description>
     </item>
     <item>
-      <title>hope</title>
+      <title>Hope</title>
       <link>https://un01s.github.io/notes/tags/hope/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/hope/</guid>
       <description></description>
     </item>
     <item>
-      <title>code</title>
+      <title>Code</title>
       <link>https://un01s.github.io/notes/tags/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/code/</guid>
       <description></description>
     </item>
     <item>
-      <title>sicp</title>
+      <title>Sicp</title>
       <link>https://un01s.github.io/notes/tags/sicp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/sicp/</guid>
       <description></description>
     </item>
     <item>
-      <title>quickJS</title>
+      <title>QuickJS</title>
       <link>https://un01s.github.io/notes/tags/quickjs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/quickjs/</guid>
@@ -562,14 +562,14 @@
       <description></description>
     </item>
     <item>
-      <title>image</title>
+      <title>Image</title>
       <link>https://un01s.github.io/notes/tags/image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/image/</guid>
       <description></description>
     </item>
     <item>
-      <title>books</title>
+      <title>Books</title>
       <link>https://un01s.github.io/notes/tags/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/books/</guid>
@@ -604,7 +604,7 @@
       <description></description>
     </item>
     <item>
-      <title>humor</title>
+      <title>Humor</title>
       <link>https://un01s.github.io/notes/tags/humor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/humor/</guid>
@@ -618,21 +618,21 @@
       <description></description>
     </item>
     <item>
-      <title>emotions</title>
+      <title>Emotions</title>
       <link>https://un01s.github.io/notes/tags/emotions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/emotions/</guid>
       <description></description>
     </item>
     <item>
-      <title>fiction</title>
+      <title>Fiction</title>
       <link>https://un01s.github.io/notes/tags/fiction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/fiction/</guid>
       <description></description>
     </item>
     <item>
-      <title>psych</title>
+      <title>Psych</title>
       <link>https://un01s.github.io/notes/tags/psych/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/psych/</guid>
@@ -646,7 +646,7 @@
       <description></description>
     </item>
     <item>
-      <title>happiness</title>
+      <title>Happiness</title>
       <link>https://un01s.github.io/notes/tags/happiness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/happiness/</guid>
@@ -667,35 +667,35 @@
       <description></description>
     </item>
     <item>
-      <title>snow</title>
+      <title>Snow</title>
       <link>https://un01s.github.io/notes/tags/snow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/snow/</guid>
       <description></description>
     </item>
     <item>
-      <title>winter</title>
+      <title>Winter</title>
       <link>https://un01s.github.io/notes/tags/winter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/winter/</guid>
       <description></description>
     </item>
     <item>
-      <title>human</title>
+      <title>Human</title>
       <link>https://un01s.github.io/notes/tags/human/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/human/</guid>
       <description></description>
     </item>
     <item>
-      <title>beauty</title>
+      <title>Beauty</title>
       <link>https://un01s.github.io/notes/tags/beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/beauty/</guid>
       <description></description>
     </item>
     <item>
-      <title>poetry</title>
+      <title>Poetry</title>
       <link>https://un01s.github.io/notes/tags/poetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/poetry/</guid>
@@ -709,35 +709,35 @@
       <description></description>
     </item>
     <item>
-      <title>money</title>
+      <title>Money</title>
       <link>https://un01s.github.io/notes/tags/money/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/money/</guid>
       <description></description>
     </item>
     <item>
-      <title>anne barela</title>
+      <title>Anne Barela</title>
       <link>https://un01s.github.io/notes/tags/anne-barela/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/anne-barela/</guid>
       <description></description>
     </item>
     <item>
-      <title>pcb</title>
+      <title>Pcb</title>
       <link>https://un01s.github.io/notes/tags/pcb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/pcb/</guid>
       <description></description>
     </item>
     <item>
-      <title>process</title>
+      <title>Process</title>
       <link>https://un01s.github.io/notes/tags/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/process/</guid>
       <description></description>
     </item>
     <item>
-      <title>palestine</title>
+      <title>Palestine</title>
       <link>https://un01s.github.io/notes/tags/palestine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/palestine/</guid>
@@ -751,7 +751,7 @@
       <description></description>
     </item>
     <item>
-      <title>milan kundera</title>
+      <title>Milan Kundera</title>
       <link>https://un01s.github.io/notes/tags/milan-kundera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/milan-kundera/</guid>
@@ -779,21 +779,21 @@
       <description></description>
     </item>
     <item>
-      <title>equality</title>
+      <title>Equality</title>
       <link>https://un01s.github.io/notes/tags/equality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/equality/</guid>
       <description></description>
     </item>
     <item>
-      <title>equity</title>
+      <title>Equity</title>
       <link>https://un01s.github.io/notes/tags/equity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/equity/</guid>
       <description></description>
     </item>
     <item>
-      <title>freedom</title>
+      <title>Freedom</title>
       <link>https://un01s.github.io/notes/tags/freedom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/freedom/</guid>
@@ -807,112 +807,112 @@
       <description></description>
     </item>
     <item>
-      <title>rachaelmeager</title>
+      <title>Rachaelmeager</title>
       <link>https://un01s.github.io/notes/tags/rachaelmeager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/rachaelmeager/</guid>
       <description></description>
     </item>
     <item>
-      <title>gaza</title>
+      <title>Gaza</title>
       <link>https://un01s.github.io/notes/tags/gaza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/gaza/</guid>
       <description></description>
     </item>
     <item>
-      <title>news</title>
+      <title>News</title>
       <link>https://un01s.github.io/notes/tags/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/news/</guid>
       <description></description>
     </item>
     <item>
-      <title>open source</title>
+      <title>Open Source</title>
       <link>https://un01s.github.io/notes/tags/open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
-      <title>sexual freedom</title>
+      <title>Sexual Freedom</title>
       <link>https://un01s.github.io/notes/tags/sexual-freedom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/sexual-freedom/</guid>
       <description></description>
     </item>
     <item>
-      <title>game</title>
+      <title>Game</title>
       <link>https://un01s.github.io/notes/tags/game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/game/</guid>
       <description></description>
     </item>
     <item>
-      <title>unity</title>
+      <title>Unity</title>
       <link>https://un01s.github.io/notes/tags/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/unity/</guid>
       <description></description>
     </item>
     <item>
-      <title>art</title>
+      <title>Art</title>
       <link>https://un01s.github.io/notes/tags/art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/art/</guid>
       <description></description>
     </item>
     <item>
-      <title>buddhism</title>
+      <title>Buddhism</title>
       <link>https://un01s.github.io/notes/tags/buddhism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/buddhism/</guid>
       <description></description>
     </item>
     <item>
-      <title>meta-game</title>
+      <title>Meta-Game</title>
       <link>https://un01s.github.io/notes/tags/meta-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/meta-game/</guid>
       <description></description>
     </item>
     <item>
-      <title>japanese</title>
+      <title>Japanese</title>
       <link>https://un01s.github.io/notes/tags/japanese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/japanese/</guid>
       <description></description>
     </item>
     <item>
-      <title>yasunari kawabata</title>
+      <title>Yasunari Kawabata</title>
       <link>https://un01s.github.io/notes/tags/yasunari-kawabata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/yasunari-kawabata/</guid>
       <description></description>
     </item>
     <item>
-      <title>carlos santana</title>
+      <title>Carlos Santana</title>
       <link>https://un01s.github.io/notes/tags/carlos-santana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/carlos-santana/</guid>
       <description></description>
     </item>
     <item>
-      <title>links</title>
+      <title>Links</title>
       <link>https://un01s.github.io/notes/tags/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/links/</guid>
       <description></description>
     </item>
     <item>
-      <title>reading</title>
+      <title>Reading</title>
       <link>https://un01s.github.io/notes/tags/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/reading/</guid>
       <description></description>
     </item>
     <item>
-      <title>harder things to do</title>
+      <title>Harder Things to Do</title>
       <link>https://un01s.github.io/notes/tags/harder-things-to-do/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/harder-things-to-do/</guid>
@@ -933,56 +933,56 @@
       <description></description>
     </item>
     <item>
-      <title>identity</title>
+      <title>Identity</title>
       <link>https://un01s.github.io/notes/tags/identity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/identity/</guid>
       <description></description>
     </item>
     <item>
-      <title>life</title>
+      <title>Life</title>
       <link>https://un01s.github.io/notes/tags/life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/life/</guid>
       <description></description>
     </item>
     <item>
-      <title>time</title>
+      <title>Time</title>
       <link>https://un01s.github.io/notes/tags/time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/time/</guid>
       <description></description>
     </item>
     <item>
-      <title>dream</title>
+      <title>Dream</title>
       <link>https://un01s.github.io/notes/tags/dream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/dream/</guid>
       <description></description>
     </item>
     <item>
-      <title>experience</title>
+      <title>Experience</title>
       <link>https://un01s.github.io/notes/tags/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/experience/</guid>
       <description></description>
     </item>
     <item>
-      <title>human condition</title>
+      <title>Human Condition</title>
       <link>https://un01s.github.io/notes/tags/human-condition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/human-condition/</guid>
       <description></description>
     </item>
     <item>
-      <title>illusion</title>
+      <title>Illusion</title>
       <link>https://un01s.github.io/notes/tags/illusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/illusion/</guid>
       <description></description>
     </item>
     <item>
-      <title>knowledge</title>
+      <title>Knowledge</title>
       <link>https://un01s.github.io/notes/tags/knowledge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/knowledge/</guid>
@@ -1003,7 +1003,7 @@
       <description></description>
     </item>
     <item>
-      <title>carl jung</title>
+      <title>Carl Jung</title>
       <link>https://un01s.github.io/notes/tags/carl-jung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/carl-jung/</guid>
@@ -1031,42 +1031,42 @@
       <description></description>
     </item>
     <item>
-      <title>poems</title>
+      <title>Poems</title>
       <link>https://un01s.github.io/notes/tags/poems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/poems/</guid>
       <description></description>
     </item>
     <item>
-      <title>A river runs through it</title>
+      <title>A River Runs Through It</title>
       <link>https://un01s.github.io/notes/tags/a-river-runs-through-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/a-river-runs-through-it/</guid>
       <description></description>
     </item>
     <item>
-      <title>movie</title>
+      <title>Movie</title>
       <link>https://un01s.github.io/notes/tags/movie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/movie/</guid>
       <description></description>
     </item>
     <item>
-      <title>novel</title>
+      <title>Novel</title>
       <link>https://un01s.github.io/notes/tags/novel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/novel/</guid>
       <description></description>
     </item>
     <item>
-      <title>sugar</title>
+      <title>Sugar</title>
       <link>https://un01s.github.io/notes/tags/sugar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/sugar/</guid>
       <description></description>
     </item>
     <item>
-      <title>sugar substitute</title>
+      <title>Sugar Substitute</title>
       <link>https://un01s.github.io/notes/tags/sugar-substitute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/sugar-substitute/</guid>
@@ -1087,21 +1087,21 @@
       <description></description>
     </item>
     <item>
-      <title>night vision</title>
+      <title>Night Vision</title>
       <link>https://un01s.github.io/notes/tags/night-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/night-vision/</guid>
       <description></description>
     </item>
     <item>
-      <title>writer</title>
+      <title>Writer</title>
       <link>https://un01s.github.io/notes/tags/writer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/writer/</guid>
       <description></description>
     </item>
     <item>
-      <title>blind</title>
+      <title>Blind</title>
       <link>https://un01s.github.io/notes/tags/blind/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/blind/</guid>
@@ -1115,91 +1115,91 @@
       <description></description>
     </item>
     <item>
-      <title>market</title>
+      <title>Market</title>
       <link>https://un01s.github.io/notes/tags/market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/market/</guid>
       <description></description>
     </item>
     <item>
-      <title>stories</title>
+      <title>Stories</title>
       <link>https://un01s.github.io/notes/tags/stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/stories/</guid>
       <description></description>
     </item>
     <item>
-      <title>poverty</title>
+      <title>Poverty</title>
       <link>https://un01s.github.io/notes/tags/poverty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/poverty/</guid>
       <description></description>
     </item>
     <item>
-      <title>chinese</title>
+      <title>Chinese</title>
       <link>https://un01s.github.io/notes/tags/chinese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/chinese/</guid>
       <description></description>
     </item>
     <item>
-      <title>numbers</title>
+      <title>Numbers</title>
       <link>https://un01s.github.io/notes/tags/numbers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/numbers/</guid>
       <description></description>
     </item>
     <item>
-      <title>molecular biology</title>
+      <title>Molecular Biology</title>
       <link>https://un01s.github.io/notes/tags/molecular-biology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/molecular-biology/</guid>
       <description></description>
     </item>
     <item>
-      <title>steve jobs</title>
+      <title>Steve Jobs</title>
       <link>https://un01s.github.io/notes/tags/steve-jobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/steve-jobs/</guid>
       <description></description>
     </item>
     <item>
-      <title>philiosophy</title>
+      <title>Philiosophy</title>
       <link>https://un01s.github.io/notes/tags/philiosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/philiosophy/</guid>
       <description></description>
     </item>
     <item>
-      <title>capitalism</title>
+      <title>Capitalism</title>
       <link>https://un01s.github.io/notes/tags/capitalism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/capitalism/</guid>
       <description></description>
     </item>
     <item>
-      <title>suffering</title>
+      <title>Suffering</title>
       <link>https://un01s.github.io/notes/tags/suffering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/suffering/</guid>
       <description></description>
     </item>
     <item>
-      <title>antonio porchia</title>
+      <title>Antonio Porchia</title>
       <link>https://un01s.github.io/notes/tags/antonio-porchia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/antonio-porchia/</guid>
       <description></description>
     </item>
     <item>
-      <title>virginia woolf</title>
+      <title>Virginia Woolf</title>
       <link>https://un01s.github.io/notes/tags/virginia-woolf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/virginia-woolf/</guid>
       <description></description>
     </item>
     <item>
-      <title>eric fromm</title>
+      <title>Eric Fromm</title>
       <link>https://un01s.github.io/notes/tags/eric-fromm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/eric-fromm/</guid>
@@ -1220,21 +1220,21 @@
       <description></description>
     </item>
     <item>
-      <title>north-light</title>
+      <title>North-Light</title>
       <link>https://un01s.github.io/notes/tags/north-light/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/north-light/</guid>
       <description></description>
     </item>
     <item>
-      <title>loneliness</title>
+      <title>Loneliness</title>
       <link>https://un01s.github.io/notes/tags/loneliness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/loneliness/</guid>
       <description></description>
     </item>
     <item>
-      <title>alumimium pcb</title>
+      <title>Alumimium Pcb</title>
       <link>https://un01s.github.io/notes/tags/alumimium-pcb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/alumimium-pcb/</guid>
@@ -1248,21 +1248,21 @@
       <description></description>
     </item>
     <item>
-      <title>walter benjamin</title>
+      <title>Walter Benjamin</title>
       <link>https://un01s.github.io/notes/tags/walter-benjamin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/walter-benjamin/</guid>
       <description></description>
     </item>
     <item>
-      <title>alex rosenberg</title>
+      <title>Alex Rosenberg</title>
       <link>https://un01s.github.io/notes/tags/alex-rosenberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/alex-rosenberg/</guid>
       <description></description>
     </item>
     <item>
-      <title>atheist</title>
+      <title>Atheist</title>
       <link>https://un01s.github.io/notes/tags/atheist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/atheist/</guid>
@@ -1283,14 +1283,14 @@
       <description></description>
     </item>
     <item>
-      <title>popular but</title>
+      <title>Popular But</title>
       <link>https://un01s.github.io/notes/tags/popular-but/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/popular-but/</guid>
       <description></description>
     </item>
     <item>
-      <title>physics</title>
+      <title>Physics</title>
       <link>https://un01s.github.io/notes/tags/physics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/physics/</guid>
@@ -1304,49 +1304,49 @@
       <description></description>
     </item>
     <item>
-      <title>geometry and code</title>
+      <title>Geometry and Code</title>
       <link>https://un01s.github.io/notes/tags/geometry-and-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/geometry-and-code/</guid>
       <description></description>
     </item>
     <item>
-      <title>bertrand russell</title>
+      <title>Bertrand Russell</title>
       <link>https://un01s.github.io/notes/tags/bertrand-russell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/bertrand-russell/</guid>
       <description></description>
     </item>
     <item>
-      <title>perception illusion</title>
+      <title>Perception Illusion</title>
       <link>https://un01s.github.io/notes/tags/perception-illusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/perception-illusion/</guid>
       <description></description>
     </item>
     <item>
-      <title>quotes</title>
+      <title>Quotes</title>
       <link>https://un01s.github.io/notes/tags/quotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/quotes/</guid>
       <description></description>
     </item>
     <item>
-      <title>idea</title>
+      <title>Idea</title>
       <link>https://un01s.github.io/notes/tags/idea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/idea/</guid>
       <description></description>
     </item>
     <item>
-      <title>book</title>
+      <title>Book</title>
       <link>https://un01s.github.io/notes/tags/book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/book/</guid>
       <description></description>
     </item>
     <item>
-      <title>tool</title>
+      <title>Tool</title>
       <link>https://un01s.github.io/notes/tags/tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/tool/</guid>
@@ -1360,28 +1360,28 @@
       <description></description>
     </item>
     <item>
-      <title>story</title>
+      <title>Story</title>
       <link>https://un01s.github.io/notes/tags/story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/story/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bluetooth LE audio</title>
+      <title>Bluetooth LE Audio</title>
       <link>https://un01s.github.io/notes/tags/bluetooth-le-audio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/bluetooth-le-audio/</guid>
       <description></description>
     </item>
     <item>
-      <title>nRF5340</title>
+      <title>NRF5340</title>
       <link>https://un01s.github.io/notes/tags/nrf5340/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/nrf5340/</guid>
       <description></description>
     </item>
     <item>
-      <title>fight</title>
+      <title>Fight</title>
       <link>https://un01s.github.io/notes/tags/fight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/fight/</guid>
@@ -1395,35 +1395,35 @@
       <description></description>
     </item>
     <item>
-      <title>diary</title>
+      <title>Diary</title>
       <link>https://un01s.github.io/notes/tags/diary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/diary/</guid>
       <description></description>
     </item>
     <item>
-      <title>despair</title>
+      <title>Despair</title>
       <link>https://un01s.github.io/notes/tags/despair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/despair/</guid>
       <description></description>
     </item>
     <item>
-      <title>esp32</title>
+      <title>Esp32</title>
       <link>https://un01s.github.io/notes/tags/esp32/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/esp32/</guid>
       <description></description>
     </item>
     <item>
-      <title>sdcard</title>
+      <title>Sdcard</title>
       <link>https://un01s.github.io/notes/tags/sdcard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/sdcard/</guid>
       <description></description>
     </item>
     <item>
-      <title>arcane</title>
+      <title>Arcane</title>
       <link>https://un01s.github.io/notes/tags/arcane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/arcane/</guid>
@@ -1451,35 +1451,35 @@
       <description></description>
     </item>
     <item>
-      <title>esp32c3</title>
+      <title>Esp32c3</title>
       <link>https://un01s.github.io/notes/tags/esp32c3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/esp32c3/</guid>
       <description></description>
     </item>
     <item>
-      <title>idf</title>
+      <title>Idf</title>
       <link>https://un01s.github.io/notes/tags/idf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/idf/</guid>
       <description></description>
     </item>
     <item>
-      <title>privilege-separation</title>
+      <title>Privilege-Separation</title>
       <link>https://un01s.github.io/notes/tags/privilege-separation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/privilege-separation/</guid>
       <description></description>
     </item>
     <item>
-      <title>update</title>
+      <title>Update</title>
       <link>https://un01s.github.io/notes/tags/update/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/update/</guid>
       <description></description>
     </item>
     <item>
-      <title>wm</title>
+      <title>Wm</title>
       <link>https://un01s.github.io/notes/tags/wm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/wm/</guid>
@@ -1500,35 +1500,35 @@
       <description></description>
     </item>
     <item>
-      <title>funny</title>
+      <title>Funny</title>
       <link>https://un01s.github.io/notes/tags/funny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/funny/</guid>
       <description></description>
     </item>
     <item>
-      <title>quine</title>
+      <title>Quine</title>
       <link>https://un01s.github.io/notes/tags/quine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/quine/</guid>
       <description></description>
     </item>
     <item>
-      <title>quote</title>
+      <title>Quote</title>
       <link>https://un01s.github.io/notes/tags/quote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/quote/</guid>
       <description></description>
     </item>
     <item>
-      <title>hack</title>
+      <title>Hack</title>
       <link>https://un01s.github.io/notes/tags/hack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/hack/</guid>
       <description></description>
     </item>
     <item>
-      <title>music</title>
+      <title>Music</title>
       <link>https://un01s.github.io/notes/tags/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/music/</guid>
@@ -1542,21 +1542,21 @@
       <description></description>
     </item>
     <item>
-      <title>carl sagan</title>
+      <title>Carl Sagan</title>
       <link>https://un01s.github.io/notes/tags/carl-sagan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/carl-sagan/</guid>
       <description></description>
     </item>
     <item>
-      <title>richard feynman</title>
+      <title>Richard Feynman</title>
       <link>https://un01s.github.io/notes/tags/richard-feynman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/richard-feynman/</guid>
       <description></description>
     </item>
     <item>
-      <title>science</title>
+      <title>Science</title>
       <link>https://un01s.github.io/notes/tags/science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/science/</guid>
@@ -1570,14 +1570,14 @@
       <description></description>
     </item>
     <item>
-      <title>chance</title>
+      <title>Chance</title>
       <link>https://un01s.github.io/notes/tags/chance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/chance/</guid>
       <description></description>
     </item>
     <item>
-      <title>statistics</title>
+      <title>Statistics</title>
       <link>https://un01s.github.io/notes/tags/statistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/statistics/</guid>
@@ -1591,7 +1591,7 @@
       <description></description>
     </item>
     <item>
-      <title>natalia ginzburg</title>
+      <title>Natalia Ginzburg</title>
       <link>https://un01s.github.io/notes/tags/natalia-ginzburg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/natalia-ginzburg/</guid>
@@ -1612,7 +1612,7 @@
       <description></description>
     </item>
     <item>
-      <title>plan</title>
+      <title>Plan</title>
       <link>https://un01s.github.io/notes/tags/plan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/plan/</guid>
@@ -1626,49 +1626,49 @@
       <description></description>
     </item>
     <item>
-      <title>Merve emre</title>
+      <title>Merve Emre</title>
       <link>https://un01s.github.io/notes/tags/merve-emre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/merve-emre/</guid>
       <description></description>
     </item>
     <item>
-      <title>right to abortion</title>
+      <title>Right to Abortion</title>
       <link>https://un01s.github.io/notes/tags/right-to-abortion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/right-to-abortion/</guid>
       <description></description>
     </item>
     <item>
-      <title>business</title>
+      <title>Business</title>
       <link>https://un01s.github.io/notes/tags/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/business/</guid>
       <description></description>
     </item>
     <item>
-      <title>competition</title>
+      <title>Competition</title>
       <link>https://un01s.github.io/notes/tags/competition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/competition/</guid>
       <description></description>
     </item>
     <item>
-      <title>will to fight</title>
+      <title>Will to Fight</title>
       <link>https://un01s.github.io/notes/tags/will-to-fight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/will-to-fight/</guid>
       <description></description>
     </item>
     <item>
-      <title>goose</title>
+      <title>Goose</title>
       <link>https://un01s.github.io/notes/tags/goose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/goose/</guid>
       <description></description>
     </item>
     <item>
-      <title>cavafy</title>
+      <title>Cavafy</title>
       <link>https://un01s.github.io/notes/tags/cavafy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/cavafy/</guid>
@@ -1682,7 +1682,7 @@
       <description></description>
     </item>
     <item>
-      <title>learning</title>
+      <title>Learning</title>
       <link>https://un01s.github.io/notes/tags/learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/learning/</guid>
@@ -1703,14 +1703,14 @@
       <description></description>
     </item>
     <item>
-      <title>math</title>
+      <title>Math</title>
       <link>https://un01s.github.io/notes/tags/math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/math/</guid>
       <description></description>
     </item>
     <item>
-      <title>philosopher</title>
+      <title>Philosopher</title>
       <link>https://un01s.github.io/notes/tags/philosopher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/philosopher/</guid>
@@ -1724,35 +1724,35 @@
       <description></description>
     </item>
     <item>
-      <title>action</title>
+      <title>Action</title>
       <link>https://un01s.github.io/notes/tags/action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/action/</guid>
       <description></description>
     </item>
     <item>
-      <title>think</title>
+      <title>Think</title>
       <link>https://un01s.github.io/notes/tags/think/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/think/</guid>
       <description></description>
     </item>
     <item>
-      <title>united</title>
+      <title>United</title>
       <link>https://un01s.github.io/notes/tags/united/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/united/</guid>
       <description></description>
     </item>
     <item>
-      <title>howto</title>
+      <title>Howto</title>
       <link>https://un01s.github.io/notes/tags/howto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/howto/</guid>
       <description></description>
     </item>
     <item>
-      <title>culture</title>
+      <title>Culture</title>
       <link>https://un01s.github.io/notes/tags/culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/culture/</guid>
@@ -1766,21 +1766,21 @@
       <description></description>
     </item>
     <item>
-      <title>kant</title>
+      <title>Kant</title>
       <link>https://un01s.github.io/notes/tags/kant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/kant/</guid>
       <description></description>
     </item>
     <item>
-      <title>philosophy</title>
+      <title>Philosophy</title>
       <link>https://un01s.github.io/notes/tags/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ape that understood the universe</title>
+      <title>Ape That Understood the Universe</title>
       <link>https://un01s.github.io/notes/tags/ape-that-understood-the-universe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/ape-that-understood-the-universe/</guid>
@@ -1794,35 +1794,35 @@
       <description></description>
     </item>
     <item>
-      <title>population</title>
+      <title>Population</title>
       <link>https://un01s.github.io/notes/tags/population/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/population/</guid>
       <description></description>
     </item>
     <item>
-      <title>dairy</title>
+      <title>Dairy</title>
       <link>https://un01s.github.io/notes/tags/dairy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/dairy/</guid>
       <description></description>
     </item>
     <item>
-      <title>abortion right</title>
+      <title>Abortion Right</title>
       <link>https://un01s.github.io/notes/tags/abortion-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/abortion-right/</guid>
       <description></description>
     </item>
     <item>
-      <title>dictionary</title>
+      <title>Dictionary</title>
       <link>https://un01s.github.io/notes/tags/dictionary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/dictionary/</guid>
       <description></description>
     </item>
     <item>
-      <title>vorld</title>
+      <title>Vorld</title>
       <link>https://un01s.github.io/notes/tags/vorld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/vorld/</guid>
@@ -1850,14 +1850,14 @@
       <description></description>
     </item>
     <item>
-      <title>instinct</title>
+      <title>Instinct</title>
       <link>https://un01s.github.io/notes/tags/instinct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/instinct/</guid>
       <description></description>
     </item>
     <item>
-      <title>memory</title>
+      <title>Memory</title>
       <link>https://un01s.github.io/notes/tags/memory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/memory/</guid>
@@ -1878,7 +1878,7 @@
       <description></description>
     </item>
     <item>
-      <title>decrement</title>
+      <title>Decrement</title>
       <link>https://un01s.github.io/notes/tags/decrement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/decrement/</guid>
@@ -1892,7 +1892,7 @@
       <description></description>
     </item>
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>https://un01s.github.io/notes/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/hugo/</guid>
@@ -1906,14 +1906,14 @@
       <description></description>
     </item>
     <item>
-      <title>toit</title>
+      <title>Toit</title>
       <link>https://un01s.github.io/notes/tags/toit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/toit/</guid>
       <description></description>
     </item>
     <item>
-      <title>cron</title>
+      <title>Cron</title>
       <link>https://un01s.github.io/notes/tags/cron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/cron/</guid>
@@ -1955,14 +1955,14 @@
       <description></description>
     </item>
     <item>
-      <title>m5core2</title>
+      <title>M5core2</title>
       <link>https://un01s.github.io/notes/tags/m5core2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/m5core2/</guid>
       <description></description>
     </item>
     <item>
-      <title>wasm3</title>
+      <title>Wasm3</title>
       <link>https://un01s.github.io/notes/tags/wasm3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/wasm3/</guid>
@@ -1990,7 +1990,7 @@
       <description></description>
     </item>
     <item>
-      <title>friendship</title>
+      <title>Friendship</title>
       <link>https://un01s.github.io/notes/tags/friendship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://un01s.github.io/notes/tags/friendship/</guid>

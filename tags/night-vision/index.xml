@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>night vision on un01s notes</title>
+    <title>Night Vision on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/night-vision/</link>
-    <description>Recent content in night vision on un01s notes</description>
-    <generator>Hugo -- 0.120.3</generator>
+    <description>Recent content in Night Vision on un01s notes</description>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 May 2023 19:36:38 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/night-vision/index.xml" rel="self" type="application/rss+xml" />

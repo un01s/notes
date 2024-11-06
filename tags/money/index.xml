@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>money on un01s notes</title>
+    <title>Money on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/money/</link>
-    <description>Recent content in money on un01s notes</description>
-    <generator>Hugo -- 0.120.3</generator>
+    <description>Recent content in Money on un01s notes</description>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 06 Dec 2023 18:52:05 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/money/index.xml" rel="self" type="application/rss+xml" />
