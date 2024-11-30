@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/posts/20241130/</loc>
+    <lastmod>2024-11-30T15:43:50-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/hobbit/</loc>
+    <lastmod>2024-11-30T15:43:50-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2024-11-30T15:43:50-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/shakespeare/</loc>
+    <lastmod>2024-11-30T15:43:50-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2024-11-30T15:43:50-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/thomas-mann/</loc>
+    <lastmod>2024-11-30T15:43:50-07:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2024-11-30T15:43:50-07:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/posts/20241115/</loc>
     <lastmod>2024-11-15T16:44:31-07:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/gruber/</loc>
-    <lastmod>2024-11-15T16:44:31-07:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2024-11-15T16:44:31-07:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2024-11-15T16:44:31-07:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2024-11-15T16:44:31-07:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/carl-sagan/</loc>
@@ -693,9 +705,6 @@
     <lastmod>2023-07-23T16:05:06-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230722/</loc>
-    <lastmod>2023-07-21T07:08:17-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/shakespeare/</loc>
     <lastmod>2023-07-21T07:08:17-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230719/</loc>
