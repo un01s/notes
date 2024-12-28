@@ -1,7 +1,7 @@
 ---
 title: "mind or heart"
 date: 2024-12-28T15:09:08-07:00
-tags: ["mind", "john milton", "thomas mann"]
+tags: ["mind", "john milton", "thomas mann", "louise gluck"]
 draft: false
 ---
 
@@ -23,3 +23,4 @@ and we say the author is a genius.
 — Thomas Mann
 ```
 
+![LouiseGluck](telescope_LouiseGluck.png)
