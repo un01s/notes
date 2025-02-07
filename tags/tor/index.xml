@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tor on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/tor/</link>
+    <description>Recent content in Tor on un01s notes</description>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Feb 2025 13:23:13 -0700</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20250206</title>
+      <link>https://un01s.github.io/notes/posts/20250206/</link>
+      <pubDate>Thu, 06 Feb 2025 13:23:13 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250206/</guid>
+      <description>How to use an captcha image as a sing-in and verification button without JavaScript? &amp;lt;input_type=&amp;#34;image&amp;#34;&amp;gt; this image supplements the &amp;lt;input type=&amp;quot;submit&amp;quot;&amp;gt; element. Click the image submits the form with two query parameters included: ?x=32&amp;amp;y=48. Using CSRF tokens, the server knows where it put your open circle.
+Other sites implement the Captcha in other creative ways. One uses an &amp;lt;input type=&amp;quot;range&amp;quot;&amp;gt; to position an image to the correct place.
+The most impressive one uses a series of checkboxes positioned in the exact same place.</description>
+    </item>
+  </channel>
+</rss>
