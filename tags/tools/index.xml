@@ -6,8 +6,20 @@
     <description>Recent content in Tools on un01s notes</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Aug 2024 09:45:47 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 16:55:22 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 lists</title>
+      <link>https://un01s.github.io/notes/posts/20250121/</link>
+      <pubDate>Tue, 21 Jan 2025 16:55:22 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250121/</guid>
+      <description>book list Time Shelter, Georgi Gospodinov, Translated by Angela Rodel 回忆反而导致失忆，时间在避难所中逐渐失去意义
+The Talented Mr. Ripley, Patricia Highsmith
+Technofeudalism, Yanis Varoufakis, 2023
+Tim O&amp;rsquo;Brien, The things they carried, 1990
+web links and sw tools video transcoder: https://handbrake.fr/
+youtube video downloader: https://github.com/soimort/you-get (cmd in python)</description>
+    </item>
     <item>
       <title>notes on 2024-08-22</title>
       <link>https://un01s.github.io/notes/posts/20240822/</link>
