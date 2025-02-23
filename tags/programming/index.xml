@@ -6,8 +6,16 @@
     <description>Recent content in Programming on un01s notes</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Feb 2025 11:42:55 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 10:26:20 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>no-std Rust and others</title>
+      <link>https://un01s.github.io/notes/posts/20250220/</link>
+      <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250220/</guid>
+      <description>ugly code Perfect code doesn&amp;rsquo;t guarantee success if you haven&amp;rsquo;t solved a real problem for real people. Pursuing elegance in a vacuum leads to abandoned side projects or frameworks nobody uses. By contrast, clunky but functional code often comes with just the right compromises for quick iteration. And that in turn means a lot of messy code powers products that people love — something that&amp;rsquo;s a far bigger challenge.
+Are you shipping a product and racing to meet user needs?</description>
+    </item>
     <item>
       <title>how venture capital works</title>
       <link>https://un01s.github.io/notes/posts/20250210/</link>
