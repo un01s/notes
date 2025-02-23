@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Names on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/names/</link>
+    <description>Recent content in Names on un01s notes</description>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Feb 2025 10:26:20 -0700</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/names/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>no-std Rust and others</title>
+      <link>https://un01s.github.io/notes/posts/20250220/</link>
+      <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250220/</guid>
+      <description>ugly code Perfect code doesn&amp;rsquo;t guarantee success if you haven&amp;rsquo;t solved a real problem for real people. Pursuing elegance in a vacuum leads to abandoned side projects or frameworks nobody uses. By contrast, clunky but functional code often comes with just the right compromises for quick iteration. And that in turn means a lot of messy code powers products that people love — something that&amp;rsquo;s a far bigger challenge.
+Are you shipping a product and racing to meet user needs?</description>
+    </item>
+  </channel>
+</rss>
