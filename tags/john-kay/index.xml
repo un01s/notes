@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>John Kay on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/john-kay/</link>
+    <description>Recent content in John Kay on un01s notes</description>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Mar 2025 13:24:03 -0600</lastBuildDate>
+    <atom:link href="https://un01s.github.io/notes/tags/john-kay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sound advice</title>
+      <link>https://un01s.github.io/notes/posts/20250323/</link>
+      <pubDate>Sun, 23 Mar 2025 13:24:03 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250323/</guid>
+      <description>this is a good piece of advice for investment. it was written in November 2014 by Jason Zweig. I was once asked, at a journalism conference, how I defined my job. I said: My job is to write the exact same thing between 50 and 100 times a year in such a way that neither my editors nor my readers will ever think I am repeating myself.
+That’s because good advice rarely changes, while markets change constantly.</description>
+    </item>
+  </channel>
+</rss>
