@@ -6,8 +6,17 @@
     <description>Recent content in Posts on un01s notes</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Mar 2025 13:24:03 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 12:47:26 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20250330</title>
+      <link>https://un01s.github.io/notes/posts/20250330/</link>
+      <pubDate>Sun, 30 Mar 2025 12:47:26 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250330/</guid>
+      <description>CFG in SSA form A CFG in SSA form is a representation where each variable is assigned a value only once within the CFG, and each use of a variable refers to the most recent definition, ensuring simpler analysis and optimization.
+CFG: control flow graph SSA: static single assignment
+A CFG is a graph that represents the control flow of a program. Nodes in the CFG represent basic blocks (sequences of instructions that execute sequentially without branches), and edges represent the possible execution paths between those blocks.</description>
+    </item>
     <item>
       <title>sound advice and others</title>
       <link>https://un01s.github.io/notes/posts/20250323/</link>
