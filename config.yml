@@ -1,6 +1,6 @@
 baseURL: "https://un01s.github.io/notes"
 title: "un01s notes"
-paginate: 5
+pagination.paperSize: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -95,8 +95,6 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/un01s/"
-        - name: twitter
-          url: "https://twitter.com/un01s"
 
 taxonomies:
     category: categories
@@ -113,11 +111,6 @@ privacy:
         disabled: false
         simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
-
     instagram:
         disabled: false
         simple: true
@@ -128,6 +121,4 @@ privacy:
 
 services:
     instagram:
-        disableInlineCSS: true
-    twitter:
         disableInlineCSS: true
