@@ -27,10 +27,10 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.146.0'
+          hugo-version: '0.146.7'
 
       - name: Build
-        run: hugo --buildDrafts --gc --verbose --minify
+        run: hugo --buildDrafts --gc --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
