@@ -4,7 +4,7 @@
     <title>Hack on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/hack/</link>
     <description>Recent content in Hack on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Sep 2022 12:51:27 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/hack/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,20 @@
       <link>https://un01s.github.io/notes/posts/20220903/</link>
       <pubDate>Sat, 03 Sep 2022 12:51:27 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220903/</guid>
-      <description>news: too many books published According to the Penguin Random House/S&amp;amp;S antitrust trial it was revealed that out of 58,000 trade titles published per year, half of those titles sell fewer than one dozen books. 90 percent of titles sell fewer than 2,000 units.
-video game music archive Garageband can play the mid file.
-tetsuji Something interesting &amp;hellip;
-reference bootNoodle 2020 janus: a polyglot binary for BGGP 2021 remote code execution on a Gameboy Colour Binary Golf Association BGGP 2021 github </description>
+      <description>&lt;h2 id=&#34;news-too-many-books-published&#34;&gt;news: too many books published&lt;/h2&gt;
+&lt;p&gt;According to the Penguin Random House/S&amp;amp;S antitrust trial it was revealed that out of 58,000 trade titles published per year, half of those titles sell fewer than one dozen books. 90 percent of titles sell fewer than 2,000 units.&lt;/p&gt;
+&lt;h2 id=&#34;video-game-music-archive&#34;&gt;&lt;a href=&#34;https://www.vgmusic.com&#34;&gt;video game music archive&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Garageband can play the mid file.&lt;/p&gt;
+&lt;h2 id=&#34;tetsuji&#34;&gt;tetsuji&lt;/h2&gt;
+&lt;p&gt;Something interesting &amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;reference&#34;&gt;reference&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://xcellerator.github.io/posts/bggp/&#34;&gt;bootNoodle 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xcellerator.github.io/posts/bggp21/&#34;&gt;janus: a polyglot binary for BGGP 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xcellerator.github.io/posts/tetsuji/&#34;&gt;remote code execution on a Gameboy Colour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/binarygolf&#34;&gt;Binary Golf Association&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/netspooky/BGGP/tree/main/2021&#34;&gt;BGGP 2021 github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>VC on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/vc/</link>
     <description>Recent content in VC on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Mon, 10 Feb 2025 11:42:55 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/vc/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,12 @@
       <link>https://un01s.github.io/notes/posts/20250210/</link>
       <pubDate>Mon, 10 Feb 2025 11:42:55 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250210/</guid>
-      <description>how VC works? where VCs get their money, a high-risk asset? The job of fund managers is to ensure that giant pile of money grows. At the lowest end, it needs to grow in line with inflation, 9% annually in US for example.
-VC is spread-betting across a large number of startuos. They are trying to deploy a fund into a set of startups that matches their hopes, dreams and ambitions.</description>
+      <description>&lt;h2 id=&#34;how-vc-works&#34;&gt;how VC works?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;where VCs get their money, a high-risk asset?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The job of fund managers is to ensure that giant pile of money grows. At the lowest end, it needs to grow in line with inflation, 9% annually in US for example.&lt;/p&gt;
+&lt;p&gt;VC is spread-betting across a large number of startuos. They are trying to deploy a fund into a set of startups that matches their hopes, dreams and ambitions. Ultimately, there are just two goals. The lowest possible goal is to return the fund.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

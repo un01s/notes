@@ -4,7 +4,7 @@
     <title>Math on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/math/</link>
     <description>Recent content in Math on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 May 2022 15:12:41 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/math/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,12 @@
       <link>https://un01s.github.io/notes/posts/20220531/</link>
       <pubDate>Tue, 31 May 2022 15:12:41 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220531/</guid>
-      <description>Find the value of x and y for the following two equations:
-$$ \sqrt{x} + y = 7 $$ $$ x + \sqrt{y} = 11 $$
-My solutuin is based on a guess. From the above, the instinct is that both x and y are the numbers like 1, 4, 9, 16, etc. If we rewrite the equations as follows:
-$$ x = (7 - y)^2 $$ $$ y = (11 -x)^2 $$</description>
+      <description>&lt;p&gt;Find the value of x and y for the following two equations:&lt;/p&gt;
+&lt;p&gt;$$ \sqrt{x} + y = 7 $$
+$$ x + \sqrt{y} = 11 $$&lt;/p&gt;
+&lt;p&gt;My solutuin is based on a guess. From the above, the instinct is that both x and y are the numbers like 1, 4, 9, 16, etc. If we rewrite the equations as follows:&lt;/p&gt;
+&lt;p&gt;$$ x = (7 - y)^2 $$
+$$ y = (11 -x)^2 $$&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Computer on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/computer/</link>
     <description>Recent content in Computer on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Jun 2024 10:44:03 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/computer/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,10 @@
       <link>https://un01s.github.io/notes/posts/20240614/</link>
       <pubDate>Fri, 14 Jun 2024 10:44:03 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240614/</guid>
-      <description>The empty brain, Aeon Robert Epstein
-Senses, reflexes and learning mechanisms – this is what we start with, and it is quite a lot, when you think about it. If we lacked any of these capabilities at birth, we would probably have trouble surviving.
-computers really do operate on symbolic representations of the world. They really store and retrieve. They really process. They really have physical memories. They really are guided in everything they do, without exception, by algorithms.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer&#34;&gt;The empty brain, Aeon&lt;/a&gt;
+Robert Epstein&lt;/p&gt;
+&lt;p&gt;Senses, reflexes and learning mechanisms – this is what we start with, and it is quite a lot, when you think about it. If we lacked any of these capabilities at birth, we would probably have trouble surviving.&lt;/p&gt;
+&lt;p&gt;computers really do operate on symbolic representations of the world. They really store and retrieve. They really process. They really have physical memories. They really are guided in everything they do, without exception, by algorithms.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

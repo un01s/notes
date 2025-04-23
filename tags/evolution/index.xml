@@ -4,7 +4,7 @@
     <title>Evolution on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/evolution/</link>
     <description>Recent content in Evolution on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 08:18:16 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,42 @@
       <link>https://un01s.github.io/notes/posts/20240908/</link>
       <pubDate>Sun, 08 Sep 2024 08:18:16 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240908/</guid>
-      <description>Changes in assumptions:
-modern synthesis extended evolutionary synthesis the pre-eminance of natural selection reciprocal causation (organisms shape, and shaped by, selective and developmental environments) genetic inheritance inclusive inheritance random genetic variation non-random phenotypic variation gradualism variable rates of change gene-centred perspective organism-centred perspective micro-evolution macro-evolution For classical MS, the major directing or creative influence in evolution is natural selection, which alone explains why the properties of organisms match the properties of their environments (adaptation).</description>
+      <description>&lt;p&gt;Changes in assumptions:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;modern synthesis&lt;/th&gt;
+          &lt;th&gt;extended evolutionary synthesis&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;the pre-eminance of natural selection&lt;/td&gt;
+          &lt;td&gt;reciprocal causation (organisms shape, and shaped by, selective and developmental environments)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;genetic inheritance&lt;/td&gt;
+          &lt;td&gt;inclusive inheritance&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;random genetic variation&lt;/td&gt;
+          &lt;td&gt;non-random phenotypic variation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;gradualism&lt;/td&gt;
+          &lt;td&gt;variable rates of change&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;gene-centred perspective&lt;/td&gt;
+          &lt;td&gt;organism-centred perspective&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;micro-evolution&lt;/td&gt;
+          &lt;td&gt;macro-evolution&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;For classical MS, the major directing or creative influence in evolution is natural selection, which alone explains why the properties of organisms match the properties of their environments (adaptation). Genes constitute the only general inheritance system. Acquired characters are not inherited. There is no relationship between the direction in which mutations occur - and hence the supply of phenotypic variants - and the direction that would lead to enhanced fitness. Evolution via mutations of large effects is unlikely because such mutations have diruptive pleiotropic effects. Phenotypic transitions typically occur through multiple small steps, leading to gradual evolutionary change. Evolution requires, and is often defined as, change in gene frequencies. Populations evolve through changes in gene frequencies brought about through natural selection, drift, mutation and gene flow. Macro-evolutionary patterns are explained by micro-evolutionary processes of selection, drift, mutation and gene flow.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

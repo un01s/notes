@@ -4,7 +4,7 @@
     <title>Bluetooth LE Audio on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/bluetooth-le-audio/</link>
     <description>Recent content in Bluetooth LE Audio on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 27 Oct 2022 15:07:19 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/bluetooth-le-audio/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,11 @@
       <link>https://un01s.github.io/notes/posts/20221027/</link>
       <pubDate>Thu, 27 Oct 2022 15:07:19 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20221027/</guid>
-      <description>use the Toolchain Manager inside nRF Connect for Desktop to automatically install toolchains. After that use the command line to build a project. Current version is v2.1.1.
-$ cd /opt/nordic $ cd ncs/v2.1.1/nrf/applications/nrf5340_audio $ west build -b nrf5340_audio_dk_nrf5340_cpuapp --pristine -- -DCONFIG_AUDIO_DEV=1 -DCONF_FILE=prj_release.conf </description>
+      <description>&lt;p&gt;use the Toolchain Manager inside &lt;a href=&#34;https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-desktop&#34;&gt;nRF Connect for Desktop&lt;/a&gt; to automatically install toolchains. After that use the command line to build a project. Current version is v2.1.1.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ cd /opt/nordic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ cd ncs/v2.1.1/nrf/applications/nrf5340_audio 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ west build -b nrf5340_audio_dk_nrf5340_cpuapp --pristine -- -DCONFIG_AUDIO_DEV=1 -DCONF_FILE=prj_release.conf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

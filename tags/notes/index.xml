@@ -4,46 +4,70 @@
     <title>Notes on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/notes/</link>
     <description>Recent content in Notes on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Apr 2024 06:50:06 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 11:18:17 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20250423</title>
+      <link>https://un01s.github.io/notes/posts/20250423/</link>
+      <pubDate>Wed, 23 Apr 2025 11:18:17 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250423/</guid>
+      <description>&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We must be willing to get rid of the life we’ve planned, so as to have the life that is waiting for us. &amp;ndash; Joseph Campbell (1904-1987)&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We are what we repeatedly do. Excellence, is not an act, but a habit. 我们是我们反复做的事情，卓越不是一种行为，而是一种习惯。亚里士多德（Aristotle）&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+&lt;p&gt;Just remember that we have everything we need to change our life and the world around us.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.campzhe.com/&#34;&gt;https://www.campzhe.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>notes on 20240412</title>
       <link>https://un01s.github.io/notes/posts/20240412/</link>
       <pubDate>Fri, 12 Apr 2024 06:50:06 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240412/</guid>
-      <description>Each of us has a window, that is ourselves. If we sample fast enough according to Nyquist-Shannon&amp;rsquo;s sampling theorem, we may reconstruct the world viewed through this window. Most of time, our views are just partial and approximate. It&amp;rsquo;s not so even because we are not fast enough and long enough.
-It&amp;#39;s in vain to recall the past, unless it works some influence upon the present. -- Charles Dickens. David Copperfield There is nothing in the world so irresistibly contagious as laughter and good humor.</description>
+      <description>&lt;p&gt;Each of us has a window, that is ourselves. If we sample fast enough according to Nyquist-Shannon&amp;rsquo;s sampling theorem, we may reconstruct the world viewed through this window. Most of time, our views are just partial and approximate. It&amp;rsquo;s not so even because we are not fast enough and long enough.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;It&amp;#39;s in vain to recall the past, unless it works some influence upon the present. 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-- Charles Dickens. David Copperfield
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;There is nothing in the world so irresistibly contagious as laughter and good humor.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-- Charles Dickens, A Christmas Carol
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;I loved her against reason, against promise, against peace, against hope, against 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;happiness, against all discouragement that could be.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-- Charles Dickens, Great Expectations
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Last winter, I had this idea and started to design and to experiment. At first I&amp;rsquo;d like its name LEDO (LED origami) and it&amp;rsquo;s close to LEGO. But a quick search revealed that it&amp;rsquo;s taken. Then I&amp;rsquo;d like to name it Light Origami or Origami Pixel. During the winter, I seldom solder. But it&amp;rsquo;s spring now, the concept has been validated after severl iterations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>We are living through the end of the useful internet</title>
       <link>https://un01s.github.io/notes/posts/20230614/</link>
       <pubDate>Wed, 14 Jun 2023 09:10:55 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20230614/</guid>
-      <description>&amp;ldquo;We are living through the end of the useful internet. The future is informed discussion behind closed doors, in Discords and private fora, with the public-facing web increasingly filled with detritus generated by LLMs, bearing only a stylistic resemblance to useful information. Finding unbiased and independent product reviews, expert tech support, and all manner of helpful advice will now resemble the process by which one now searches for illegal sports streams or pirated journal articles.</description>
+      <description>&lt;p&gt;&amp;ldquo;We are living through the end of the useful internet. The future is informed discussion behind closed doors, in Discords and private fora, with the public-facing web increasingly filled with detritus generated by LLMs, bearing only a stylistic resemblance to useful information. Finding unbiased and independent product reviews, expert tech support, and all manner of helpful advice will now resemble the process by which one now searches for illegal sports streams or pirated journal articles. The decades of real human conversation hosted at places like Reddit will provide useful training material for the mindless bots and deceptive marketers that replace it.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Reflection</title>
       <link>https://un01s.github.io/notes/posts/20230401/</link>
       <pubDate>Fri, 31 Mar 2023 12:16:30 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20230401/</guid>
-      <description>The quest for truth seems a noble endeavor. Generally I want to know more about the world and how it works. Why people do something instead of others? How to live your life to its best potentials? At the same time, I know I will have a short life, limited time, limited resources, and there is no way for me to know the world. At most, I am just experiencing my little world, family, a few friends, and a few colleagues.</description>
+      <description>&lt;p&gt;The quest for truth seems a noble endeavor. Generally I want to know more about the world and how it works. Why people do something instead of others? How to live your life to its best potentials? At the same time, I know I will have a short life, limited time, limited resources, and there is no way for me to know the world. At most, I am just experiencing my little world, family, a few friends, and a few colleagues. Still the quest is always on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>what a man-made recession!</title>
       <link>https://un01s.github.io/notes/posts/20220726/</link>
       <pubDate>Tue, 26 Jul 2022 09:24:07 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220726/</guid>
-      <description>“And they laughed a little and were very friendly together, the three of them, Anna, Emanuele and Giustino; and they were pleased to be together, the three of them, thinking of all those who were dead, and of the long war and the sorrow and noise and confusion, and of the long, difficult life which they saw in front of them now, full of all the things they did not know how to do.</description>
+      <description>&lt;p&gt;“And they laughed a little and were very friendly together, the three of them, Anna, Emanuele and Giustino; and they were pleased to be together, the three of them, thinking of all those who were dead, and of the long war and the sorrow and noise and confusion, and of the long, difficult life which they saw in front of them now, full of all the things they did not know how to do.”
+-― Natalia Ginzburg, All Our Yesterdays&lt;/p&gt;</description>
     </item>
     <item>
       <title>language and the world</title>
       <link>https://un01s.github.io/notes/posts/20220610/</link>
       <pubDate>Fri, 10 Jun 2022 10:22:54 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220610/</guid>
-      <description>Life is nothing but a lightning between darkness. Without the words, we can feel the world. This world close to you and within your touch is vorld. To live is just experiencing the vorld. Each vorld is within the world, independent or dependent, with or without overlapping.
-We see the vorld and feel the vorld. We long to know more about the world beyond our senses. We create tools like telescope, microscope, oscilloscope, electroscope to extend our sight.</description>
+      <description>&lt;p&gt;Life is nothing but a lightning between darkness. Without the words, we can feel the world. This world close to you and within your touch is vorld. To live is just experiencing the vorld. Each vorld is within the world, independent or dependent, with or without overlapping.&lt;/p&gt;
+&lt;p&gt;We see the vorld and feel the vorld. We long to know more about the world beyond our senses. We create tools like telescope, microscope, oscilloscope, electroscope to extend our sight. We creates transportation vehicles like cart, automobile, ship, airplane, and spaceship to ease our movement. Language is another tool to communicate about the world.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

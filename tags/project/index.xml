@@ -4,7 +4,7 @@
     <title>Project on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/project/</link>
     <description>Recent content in Project on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Jan 2023 13:30:48 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/project/index.xml" rel="self" type="application/rss+xml" />
@@ -13,18 +13,20 @@
       <link>https://un01s.github.io/notes/posts/20220121/</link>
       <pubDate>Sat, 21 Jan 2023 13:30:48 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220121/</guid>
-      <description>Patrick Yang is a technical director at WCH. 南京沁恒 Here are some links. openwch github RISC-V based microcontrollers. CH32V003 32bit 48MHz 16KB flash, it is less than $0.5 for example. Arduino-wch58x. Another CH32V project.
-Flipping dots
-Kicad panelizing tool KiKit.
-This 3D printing uses UTR-8100 transparent amterial, from PCBWay.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/Patrick_RISCV&#34;&gt;Patrick Yang&lt;/a&gt; is a technical director at &lt;a href=&#34;wch-ic.com&#34;&gt;WCH&lt;/a&gt;. 南京沁恒 Here are some links. &lt;a href=&#34;https://github.com/openwch&#34;&gt;openwch github&lt;/a&gt; RISC-V based microcontrollers. CH32V003 32bit 48MHz 16KB flash, it is less than $0.5 for example. &lt;a href=&#34;https://github.com/ElectronicCats/arduino-wch58x&#34;&gt;Arduino-wch58x&lt;/a&gt;. Another &lt;a href=&#34;https://github.com/bitbank2/CH32V_Experiments&#34;&gt;CH32V project&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pierremuth.wordpress.com/2021/02/17/flipping-dots-fast/&#34;&gt;Flipping dots&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/yaqwsx/KiKit&#34;&gt;Kicad panelizing tool KiKit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/PCBWayOfficial/status/1610194015542218752&#34;&gt;This 3D printing uses UTR-8100 transparent amterial, from PCBWay&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>break through</title>
       <link>https://un01s.github.io/notes/posts/20220917/</link>
       <pubDate>Sat, 17 Sep 2022 12:38:38 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220917/</guid>
-      <description>[2022-09-17] Finally got something wireless &amp;amp; audio working on esp32. This is just a start.
-[2022-10-16] The proof of concept works seamlessly. Two parts, each works and both work together with no problem. Next step, hardware design and more bug fixes.</description>
+      <description>&lt;p&gt;[2022-09-17]
+Finally got something wireless &amp;amp; audio working on esp32. This is just a start.&lt;/p&gt;
+&lt;p&gt;[2022-10-16]
+The proof of concept works seamlessly. Two parts, each works and both work together with no problem. Next step, hardware design and more bug fixes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

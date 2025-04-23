@@ -4,7 +4,7 @@
     <title>Reality on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/reality/</link>
     <description>Recent content in Reality on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Tue, 27 Feb 2024 06:49:05 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/reality/index.xml" rel="self" type="application/rss+xml" />
@@ -13,17 +13,19 @@
       <link>https://un01s.github.io/notes/posts/20240227/</link>
       <pubDate>Tue, 27 Feb 2024 06:49:05 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240227/</guid>
-      <description>To navigate life we create mental models of the world out there, and then we confuse the models for reality.
-What is the explore/exploit tradeoff? The gambler needs to learn new knowledge about the machines and simultaneously use what they have already learned to optimize their decisions. In the literature, these two activities are referred to as exploring and exploiting. You can’t do both things at the same time. When you explore, you are pulling new arms on the bandit trying to figure out their expected payout.</description>
+      <description>&lt;p&gt;To navigate life we create mental models of the world out there, and then we confuse the models for reality.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-exploreexploit-tradeoff&#34;&gt;What is the explore/exploit tradeoff?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The gambler needs to learn new knowledge about the machines and simultaneously use what they have already learned to optimize their decisions. In the literature, these two activities are referred to as exploring and exploiting. You can’t do both things at the same time. When you explore, you are pulling new arms on the bandit trying to figure out their expected payout. When you exploit, you pull the best arm you’ve found. You need to find the right balance. If you spend too little time exploring, you get stuck playing a machine with a low expected payoff. But if you spend too much time exploring, you will earn less than you would if you played the best arm. This is the explore/exploit trade-off.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The despair of Ukraine and others</title>
       <link>https://un01s.github.io/notes/posts/20230629/</link>
       <pubDate>Thu, 29 Jun 2023 13:43:19 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20230629/</guid>
-      <description>There is one commentary on politico.eu on Ukraine by Mariam Naiem.
-On June 6, a catastrophic event unfolded in Ukraine as the dam in Nova Kakhovka was destroyed, another war crime by Russia. I&amp;rsquo;d like to highlight the following paragraph.
-&amp;ldquo;To us (Ukrainians), it feels as though the world is anticipating yet another tragedy, as if we are simply characters in a dystopian series. Only when faced with a concoction of pandemics, floods, bombings, torture and rape can we receive help and support.</description>
+      <description>&lt;p&gt;There is &lt;a href=&#34;https://www.politico.eu/article/ukraine-drowning-in-despair-nova-kakhovka-dam-destruction-war-russia-united-nations/&#34;&gt;one commentary&lt;/a&gt; on politico.eu on Ukraine by Mariam Naiem.&lt;/p&gt;
+&lt;p&gt;On June 6, a catastrophic event unfolded in Ukraine as the dam in Nova Kakhovka was destroyed, another war crime by Russia. I&amp;rsquo;d like to highlight the following paragraph.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;To us (Ukrainians), it feels as though the world is anticipating yet another tragedy, as if we are simply characters in a dystopian series. Only when faced with a concoction of pandemics, floods, bombings, torture and rape can we receive help and support. And not only this, but we have to repeatedly prove to the audience that we are brave, honest, “civilized” and not wasteful. Prove again and again that no, we are not Nazis — contrary to what Russian President Vladimir Putin has claimed. When making a moral case for support, that we are not irrational or too emotional.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

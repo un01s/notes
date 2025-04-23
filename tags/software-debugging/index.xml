@@ -4,7 +4,7 @@
     <title>Software Debugging on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/software-debugging/</link>
     <description>Recent content in Software Debugging on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2024 10:19:41 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/software-debugging/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,13 @@
       <link>https://un01s.github.io/notes/posts/20240228/</link>
       <pubDate>Wed, 28 Feb 2024 10:19:41 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240228/</guid>
-      <description>Today Adam Wolff tweeted a story about deugging FB-Chat. He is a technical fellow at Electric Capital. Below is it.
-Before the major effort to redo the UI, FB Chat was super broken and we had no idea why.
-We didn’t know what was wrong, but we knew the code was a mess. We set about rewriting both the front-end and the back-end in an effort to fix it.
-The front-end rewrite pulled in a whole team of amazing engineers and became one of the big threads that led to reactjs.</description>
+      <description>&lt;p&gt;Today &lt;a href=&#34;https://github.com/wolffiex&#34;&gt;Adam Wolff&lt;/a&gt; tweeted &lt;a href=&#34;https://twitter.com/dmwlff/status/1762885255030259854&#34;&gt;a story about deugging FB-Chat&lt;/a&gt;. He is a technical fellow at Electric Capital. Below is it.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Before the major effort to redo the UI, FB Chat was super broken and we had no idea why.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We didn’t know what was wrong, but we knew the code was a mess. We set about rewriting both the front-end and the back-end in an effort to fix it.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The front-end rewrite pulled in a whole team of amazing engineers and became one of the big threads that led to reactjs.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

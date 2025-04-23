@@ -4,7 +4,7 @@
     <title>Links on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/links/</link>
     <description>Recent content in Links on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Tue, 21 Jan 2025 16:55:22 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/links/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,65 @@
       <link>https://un01s.github.io/notes/posts/20250121/</link>
       <pubDate>Tue, 21 Jan 2025 16:55:22 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250121/</guid>
-      <description>radio, tv and music BBC orbit
-radio garden
-TV garden
-book list Time Shelter, Georgi Gospodinov, Translated by Angela Rodel 回忆反而导致失忆，时间在避难所中逐渐失去意义
-The Talented Mr. Ripley, Patricia Highsmith
-Technofeudalism, Yanis Varoufakis, 2023
-Tim O&amp;rsquo;Brien, The things they carried, 1990
-this is a war story (VietnamWar) like All Quiet on the Western Front (WWI). It talks about truth. the things they carried are their hope, their fear, their guilt, and themselves.
-Norman Maclean, A River run through it, Novel and movie</description>
+      <description>&lt;h2 id=&#34;radio-tv-and-music&#34;&gt;radio, tv and music&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.co.uk/orbitmusic&#34;&gt;BBC orbit&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://radio.garden/&#34;&gt;radio garden&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tv.garden/&#34;&gt;TV garden&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;book-list&#34;&gt;book list&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Time Shelter, Georgi Gospodinov, Translated by Angela Rodel
+回忆反而导致失忆，时间在避难所中逐渐失去意义&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Talented Mr. Ripley, Patricia Highsmith&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Technofeudalism, Yanis Varoufakis, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tim O&amp;rsquo;Brien, The things they carried, 1990&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;this is a war story (VietnamWar) like All Quiet on the Western Front (WWI). It talks about truth. the things they carried are their hope, their fear, their guilt, and themselves.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Norman Maclean, A River run through it, Novel and movie&lt;/p&gt;</description>
     </item>
     <item>
       <title>read</title>
       <link>https://un01s.github.io/notes/posts/20230818/</link>
       <pubDate>Fri, 18 Aug 2023 16:02:45 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20230818/</guid>
-      <description>Proof you can do harder things 20 things I&amp;rsquo;ve learned in my 20 years as a software engineer Advice should go with its context.
-I still don’t know very much
-The hardest part of software is building the right thing
-The best software engineers think like designers
-The best code is no code, or code you don’t have to maintain
-Software is a means to an end
-Sometimes you have to stop sharpening the saw, and just start cutting shit</description>
+      <description>&lt;h2 id=&#34;proof-you-can-do-harder-things&#34;&gt;&lt;a href=&#34;https://blog.nateliason.com/p/proof-you-can-do-hard-things&#34;&gt;Proof you can do harder things&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;20-things-i&#34;&gt;&lt;a href=&#34;https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/&#34;&gt;20 things I&amp;rsquo;ve learned in my 20 years as a software engineer&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Advice should go with its context.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I still don’t know very much&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The hardest part of software is building the right thing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The best software engineers think like designers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The best code is no code, or code you don’t have to maintain&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Software is a means to an end&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sometimes you have to stop sharpening the saw, and just start cutting shit&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

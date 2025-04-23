@@ -4,7 +4,7 @@
     <title>Programming on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/programming/</link>
     <description>Recent content in Programming on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Feb 2025 10:26:20 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/programming/index.xml" rel="self" type="application/rss+xml" />
@@ -13,41 +13,52 @@
       <link>https://un01s.github.io/notes/posts/20250220/</link>
       <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250220/</guid>
-      <description>ugly code Perfect code doesn&amp;rsquo;t guarantee success if you haven&amp;rsquo;t solved a real problem for real people. Pursuing elegance in a vacuum leads to abandoned side projects or frameworks nobody uses. By contrast, clunky but functional code often comes with just the right compromises for quick iteration. And that in turn means a lot of messy code powers products that people love — something that&amp;rsquo;s a far bigger challenge.
-Are you shipping a product and racing to meet user needs?</description>
+      <description>&lt;h2 id=&#34;ugly-code&#34;&gt;&lt;a href=&#34;https://lucumr.pocoo.org/2025/2/20/ugly-code/&#34;&gt;ugly code&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Perfect code doesn&amp;rsquo;t guarantee success if you haven&amp;rsquo;t solved a real problem for real people. Pursuing elegance in a vacuum leads to abandoned side projects or frameworks nobody uses. By contrast, clunky but functional code often comes with just the right compromises for quick iteration. And that in turn means a lot of messy code powers products that people love — something that&amp;rsquo;s a far bigger challenge.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Are you shipping a product and racing to meet user needs? Or are you building a reusable library or framework meant to stand the test of time?&lt;/p&gt;</description>
     </item>
     <item>
       <title>how venture capital works</title>
       <link>https://un01s.github.io/notes/posts/20250210/</link>
       <pubDate>Mon, 10 Feb 2025 11:42:55 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250210/</guid>
-      <description>how VC works? where VCs get their money, a high-risk asset? The job of fund managers is to ensure that giant pile of money grows. At the lowest end, it needs to grow in line with inflation, 9% annually in US for example.
-VC is spread-betting across a large number of startuos. They are trying to deploy a fund into a set of startups that matches their hopes, dreams and ambitions.</description>
+      <description>&lt;h2 id=&#34;how-vc-works&#34;&gt;how VC works?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;where VCs get their money, a high-risk asset?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The job of fund managers is to ensure that giant pile of money grows. At the lowest end, it needs to grow in line with inflation, 9% annually in US for example.&lt;/p&gt;
+&lt;p&gt;VC is spread-betting across a large number of startuos. They are trying to deploy a fund into a set of startups that matches their hopes, dreams and ambitions. Ultimately, there are just two goals. The lowest possible goal is to return the fund.&lt;/p&gt;</description>
     </item>
     <item>
       <title>who win?</title>
       <link>https://un01s.github.io/notes/posts/20240911/</link>
       <pubDate>Wed, 11 Sep 2024 20:01:41 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240911/</guid>
-      <description>Hope it will be proved wrong in the due time. The source is from Kate Manne.
-Three types of programming:
-PS 2024-10-06 it is a year now. the longer the war by Isreal, the less chance of Harris to win. it is unfortunate but that is exactly what Democratic Party is doing now. then it will blame voters for its failure. The Hamas attack last year is terrorism. The war in Gaza by Isreal is genocide.</description>
+      <description>&lt;p&gt;Hope it will be proved wrong in the due time. The source is from &lt;a href=&#34;https://substack.com/@katemanne/p-148785044&#34;&gt;Kate Manne&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;kate manne substack&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/posts/20240911/katemanne.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Three types of programming:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;programming&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/posts/20240911/programming3types.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ps-2024-10-06&#34;&gt;PS 2024-10-06&lt;/h2&gt;
+&lt;p&gt;it is a year now. the longer the war by Isreal, the less chance of Harris to win. it is unfortunate but that is exactly what Democratic Party is doing now. then it will blame voters for its failure. The Hamas attack last year is terrorism. The war in Gaza by Isreal is genocide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>the world versus me</title>
       <link>https://un01s.github.io/notes/posts/20240906/</link>
       <pubDate>Fri, 06 Sep 2024 06:39:02 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240906/</guid>
-      <description>This is from a tweet: knowing about architecture means buildings are legible in a different way; knowing about plants and birds makes hikes more stimulating, playing music makes listening to it richer, etc.
-However, it clicks with me from another perspective. To understand or to know the world better, we have to know some details and have to know it in one or many more abstracted ways. Yes, the world (so vast in both time and space) to us (so tiny, life is so short) is always abstracted one way or another for us.</description>
+      <description>&lt;p&gt;This is from &lt;a href=&#34;https://x.com/economeager/status/1830271859671327153&#34;&gt;a tweet&lt;/a&gt;: knowing about architecture means buildings are legible in a different way; knowing about plants and birds makes hikes more stimulating, playing music makes listening to it richer, etc.&lt;/p&gt;
+&lt;p&gt;However, it clicks with me from another perspective. To understand or to know the world better, we have to know some details and have to know it in one or many more abstracted ways. Yes, the world (so vast in both time and space) to us (so tiny, life is so short) is always abstracted one way or another for us. For example, the capitalism is an abstracted construct in the real world. It is there for real and abstracted. Sometimes, we know it. Sometimes we know its name only. Sometimes we do not know its name yet but just feel its existance like the elephant to the blind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SICP</title>
       <link>https://un01s.github.io/notes/posts/20240220/</link>
       <pubDate>Tue, 20 Feb 2024 10:26:19 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240220/</guid>
-      <description>What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more. &amp;ndash; Alan J. Perlis (1922–1990)
-book SICP</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more. &amp;ndash; Alan J. Perlis (1922–1990)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.mit.edu/6.001/6.037/sicp.pdf&#34;&gt;book SICP&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

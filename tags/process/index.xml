@@ -4,7 +4,7 @@
     <title>Process on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/process/</link>
     <description>Recent content in Process on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Nov 2023 10:05:05 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/process/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,8 @@
       <link>https://un01s.github.io/notes/posts/20231127/</link>
       <pubDate>Mon, 27 Nov 2023 10:05:05 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20231127/</guid>
-      <description>There are several ways to add artistic touch to the PCB. One way is to use SVG2shenzhen to create the KiCAD modules. Another way is Boldport PCBmode. Both use Inkscape to create SVG. The former is a kind of plugin for Inkscape. The latter is a part of interactive process using Python and has nothing to do with KiCAD. Boldport and Inkscape forms its own process.
-Recently I noticed an OSHPark blog that mentioned another blog by Anne Barela from AdaFruit.</description>
+      <description>&lt;p&gt;There are several ways to add artistic touch to the PCB. One way is to use &lt;a href=&#34;https://github.com/badgeek/svg2shenzhen&#34;&gt;SVG2shenzhen&lt;/a&gt; to create the KiCAD modules. Another way is &lt;a href=&#34;https://github.com/boldport/pcbmode&#34;&gt;Boldport PCBmode&lt;/a&gt;. Both use Inkscape to create SVG. The former is a kind of plugin for Inkscape. The latter is a part of interactive process using Python and has nothing to do with KiCAD. Boldport and Inkscape forms its own process.&lt;/p&gt;
+&lt;p&gt;Recently I noticed an OSHPark blog that mentioned &lt;a href=&#34;https://learn.adafruit.com/making-pcb-art-with-gingerbread-and-kicad&#34;&gt;another blog by Anne Barela from AdaFruit&lt;/a&gt;. The approach is different from the above. It uses AffinityDesigner, &lt;a href=&#34;https://gingerbread.wntr.dev&#34;&gt;Gingerbread on Winterbloom&lt;/a&gt;, and KiCad. Basically it creates a KiCAD module designed by AffinityDesigner and transformed by Gingerbread.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Sicp on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/sicp/</link>
     <description>Recent content in Sicp on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 Feb 2024 13:00:41 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/sicp/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <link>https://un01s.github.io/notes/posts/20240224/</link>
       <pubDate>Sat, 24 Feb 2024 13:00:41 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240224/</guid>
-      <description>&amp;hellip; three foci of phenomena: the human mind, collections of computer programs, and the computer. Every computer program is a model, hatched in the mind, of a real or mental process. These processes, arising from human experience and thought, are huge in number, intricate in detail, and at any time only partially understood. They are modeled to our permanent satisfaction rarely by our computer programs. Thus even though our programs are carefully handcrafted discrete collections of symbols, mosaics of interlocking functions, they continually evolve: we change them as our perception of the model deepens, enlarges, generalizes until the model ultimately attains a metastable place within still another model with which we struggle.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; three foci of phenomena: the human mind, collections of computer programs, and the computer. Every computer program is a model, hatched in the mind, of a real or mental process. These processes, arising from human experience and thought, are huge in number, intricate in detail, and at any time only partially understood. They are modeled to our permanent satisfaction rarely by our computer programs. Thus even though our programs are carefully handcrafted discrete collections of symbols, mosaics of interlocking functions, they continually evolve: we change them as our perception of the model deepens, enlarges, generalizes until the model ultimately attains a metastable place within still another model with which we struggle.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

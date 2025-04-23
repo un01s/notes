@@ -4,7 +4,7 @@
     <title>Product Design on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/product-design/</link>
     <description>Recent content in Product Design on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Mar 2025 10:02:43 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/product-design/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,10 @@
       <link>https://un01s.github.io/notes/posts/20250314/</link>
       <pubDate>Fri, 14 Mar 2025 10:02:43 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250314/</guid>
-      <description>design of a product To design a successful product is an iterative process. How to get it right? Here are two pieces of advice. One is from the Gmail creator Paul Buchheit.
-What&amp;rsquo;s the right approach to new products? Pick three key attributes or features, get those things very, very right, and then forget about everything else. Those three attributes define the fundamental essence and value of the product &amp;ndash; the rest is noise.</description>
+      <description>&lt;h2 id=&#34;design-of-a-product&#34;&gt;design of a product&lt;/h2&gt;
+&lt;p&gt;To design a successful product is an iterative process. How to get it right? Here are two pieces of advice. &lt;a href=&#34;https://www.founderstribune.org/p/if-your-product-is-great-it-doesn-t-need-to-be-good-by-paul-buchheit&#34;&gt;One&lt;/a&gt; is from the Gmail creator Paul Buchheit.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What&amp;rsquo;s the right approach to new products? Pick three key attributes or features, get those things very, very right, and then forget about everything else. Those three attributes define the fundamental essence and value of the product &amp;ndash; the rest is noise. For example, the original iPod was: 1) small enough to fit in your pocket, 2) had enough storage to hold many hours of music and 3) easy to sync with your Mac (most hardware companies can&amp;rsquo;t make software, so I bet the others got this wrong). That&amp;rsquo;s it &amp;ndash; no wireless, no ability to edit playlists on the device, no support for Ogg &amp;ndash; nothing but the essentials, well executed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

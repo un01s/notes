@@ -4,7 +4,7 @@
     <title>Auden on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/auden/</link>
     <description>Recent content in Auden on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Tue, 27 Feb 2024 06:49:05 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/auden/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,10 @@
       <link>https://un01s.github.io/notes/posts/20240227/</link>
       <pubDate>Tue, 27 Feb 2024 06:49:05 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240227/</guid>
-      <description>To navigate life we create mental models of the world out there, and then we confuse the models for reality.
-What is the explore/exploit tradeoff? The gambler needs to learn new knowledge about the machines and simultaneously use what they have already learned to optimize their decisions. In the literature, these two activities are referred to as exploring and exploiting. You can’t do both things at the same time. When you explore, you are pulling new arms on the bandit trying to figure out their expected payout.</description>
+      <description>&lt;p&gt;To navigate life we create mental models of the world out there, and then we confuse the models for reality.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-exploreexploit-tradeoff&#34;&gt;What is the explore/exploit tradeoff?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The gambler needs to learn new knowledge about the machines and simultaneously use what they have already learned to optimize their decisions. In the literature, these two activities are referred to as exploring and exploiting. You can’t do both things at the same time. When you explore, you are pulling new arms on the bandit trying to figure out their expected payout. When you exploit, you pull the best arm you’ve found. You need to find the right balance. If you spend too little time exploring, you get stuck playing a machine with a low expected payoff. But if you spend too much time exploring, you will earn less than you would if you played the best arm. This is the explore/exploit trade-off.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

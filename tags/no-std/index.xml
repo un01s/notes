@@ -4,7 +4,7 @@
     <title>No-Std on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/no-std/</link>
     <description>Recent content in No-Std on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Feb 2025 10:26:20 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/no-std/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,11 @@
       <link>https://un01s.github.io/notes/posts/20250220/</link>
       <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250220/</guid>
-      <description>ugly code Perfect code doesn&amp;rsquo;t guarantee success if you haven&amp;rsquo;t solved a real problem for real people. Pursuing elegance in a vacuum leads to abandoned side projects or frameworks nobody uses. By contrast, clunky but functional code often comes with just the right compromises for quick iteration. And that in turn means a lot of messy code powers products that people love — something that&amp;rsquo;s a far bigger challenge.
-Are you shipping a product and racing to meet user needs?</description>
+      <description>&lt;h2 id=&#34;ugly-code&#34;&gt;&lt;a href=&#34;https://lucumr.pocoo.org/2025/2/20/ugly-code/&#34;&gt;ugly code&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Perfect code doesn&amp;rsquo;t guarantee success if you haven&amp;rsquo;t solved a real problem for real people. Pursuing elegance in a vacuum leads to abandoned side projects or frameworks nobody uses. By contrast, clunky but functional code often comes with just the right compromises for quick iteration. And that in turn means a lot of messy code powers products that people love — something that&amp;rsquo;s a far bigger challenge.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Are you shipping a product and racing to meet user needs? Or are you building a reusable library or framework meant to stand the test of time?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

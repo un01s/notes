@@ -4,7 +4,7 @@
     <title>Unity on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/unity/</link>
     <description>Recent content in Unity on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 21 Sep 2023 13:06:23 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/unity/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,12 @@
       <link>https://un01s.github.io/notes/posts/20230921/</link>
       <pubDate>Thu, 21 Sep 2023 13:06:23 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20230921/</guid>
-      <description>Unity claimed that 70% of the top 1000 mobile game developers chose it. Its new policy of installation fee attracts a lot of critism and anger, from indie developers in particular. However, the cause of this is due to the market changes:
-the market of mobile game has its first decline after 7 years&amp;rsquo; expansion. the population of mobile game stops to increase. the growth hey-day of mobile game is over.</description>
+      <description>&lt;p&gt;Unity claimed that 70% of the top 1000 mobile game developers chose it. Its new policy of installation fee attracts a lot of critism and anger, from indie developers in particular. However, the cause of this is due to the market changes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the market of mobile game has its first decline after 7 years&amp;rsquo; expansion.&lt;/li&gt;
+&lt;li&gt;the population of mobile game stops to increase.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;the growth hey-day of mobile game is over. This may be the cause of Unity&amp;rsquo;s new policy, to survive the coming tough time.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

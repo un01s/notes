@@ -4,7 +4,7 @@
     <title>Mac on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/mac/</link>
     <description>Recent content in Mac on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 May 2024 09:05:34 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/mac/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,17 @@
       <link>https://un01s.github.io/notes/posts/20240530/</link>
       <pubDate>Thu, 30 May 2024 09:05:34 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240530/</guid>
-      <description>Come across a blog on how to use OCR on a mac. The steps are as follows.
-open the shortcuts app in the Applications folder click + button to create a new shortcut in the right sidebar, search for &amp;ldquo;extract text&amp;rdquo; drag &amp;ldquo;Extract Text from Image&amp;rdquo; in the list of possible actions from the right side bar into the main area on the left in the &amp;ldquo;Extract Text from Image&amp;rdquo; action, click on the pale &amp;ldquo;Image&amp;rdquo; and pick &amp;ldquo;Shortcut Input&amp;rdquo;, there is a &amp;ldquo;Receive Any Input from Nowhere&amp;rdquo; action appearing above the &amp;ldquo;Extract text from Image&amp;rdquo; back to the right sidebar, search for &amp;ldquo;copy&amp;rdquo; and drag &amp;ldquo;Copy to Clipboard&amp;rdquo; action right below the &amp;ldquo;Extract Text from Image&amp;rdquo;.</description>
+      <description>&lt;p&gt;Come across &lt;a href=&#34;https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html&#34;&gt;a blog on how to use OCR on a mac&lt;/a&gt;. The steps are as follows.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;open the &lt;strong&gt;shortcuts&lt;/strong&gt; app in the Applications folder&lt;/li&gt;
+&lt;li&gt;click &lt;strong&gt;+&lt;/strong&gt; button to create a new shortcut&lt;/li&gt;
+&lt;li&gt;in the right sidebar, search for &amp;ldquo;extract text&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;drag &amp;ldquo;Extract Text from Image&amp;rdquo; in the list of possible actions from the right side bar into the main area on the left&lt;/li&gt;
+&lt;li&gt;in the &amp;ldquo;Extract Text from Image&amp;rdquo; action, click on the pale &amp;ldquo;Image&amp;rdquo; and pick &amp;ldquo;Shortcut Input&amp;rdquo;, there is a &amp;ldquo;Receive Any Input from Nowhere&amp;rdquo; action appearing above the &amp;ldquo;Extract text from Image&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;back to the right sidebar, search for &amp;ldquo;copy&amp;rdquo; and drag &amp;ldquo;Copy to Clipboard&amp;rdquo; action right below the &amp;ldquo;Extract Text from Image&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;name your shortcut as &amp;ldquo;ocr-text&amp;rdquo;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Basically you have setup a shortcut. Now you can try out this shortcut from terminal.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

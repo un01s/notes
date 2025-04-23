@@ -4,7 +4,7 @@
     <title>Chinese on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/chinese/</link>
     <description>Recent content in Chinese on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 03 May 2023 13:24:57 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/chinese/index.xml" rel="self" type="application/rss+xml" />
@@ -13,12 +13,104 @@
       <link>https://un01s.github.io/notes/posts/20230503/</link>
       <pubDate>Wed, 03 May 2023 13:24:57 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20230503/</guid>
-      <description>汉语中数字有三种表达，阿拉伯数字，简体和繁体。繁体的主要用处是在会计记账和书写支票以防涂改。
-PinYin Hanzi Daxie ling 零 零 yī 一 壹 èr 二 贰 sān 三 叁 sì 四 肆 wǔ 五 伍 liù 六 陆 qī 七 柒 bā 八 捌 jiǔ 九 玖 shí 十 拾 bǎi 百 佰 qiān 千 仟 wàn 万 万 yì 亿 亿 zhao 兆 兆 一兆 = 一万亿
-两千两百一十七万四千六百 = 2217,4600
-2,225,250 = 二十二万五千二百五十
-两百零五 = 205
-二 vs. 两 二三四 (two, three, four)</description>
+      <description>&lt;p&gt;汉语中数字有三种表达，阿拉伯数字，简体和繁体。繁体的主要用处是在会计记账和书写支票以防涂改。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;PinYin&lt;/th&gt;
+          &lt;th&gt;Hanzi&lt;/th&gt;
+          &lt;th&gt;Daxie&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ling&lt;/td&gt;
+          &lt;td&gt;零&lt;/td&gt;
+          &lt;td&gt;零&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;yī&lt;/td&gt;
+          &lt;td&gt;一&lt;/td&gt;
+          &lt;td&gt;壹&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;èr&lt;/td&gt;
+          &lt;td&gt;二&lt;/td&gt;
+          &lt;td&gt;贰&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;sān&lt;/td&gt;
+          &lt;td&gt;三&lt;/td&gt;
+          &lt;td&gt;叁&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;sì&lt;/td&gt;
+          &lt;td&gt;四&lt;/td&gt;
+          &lt;td&gt;肆&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;wǔ&lt;/td&gt;
+          &lt;td&gt;五&lt;/td&gt;
+          &lt;td&gt;伍&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;liù&lt;/td&gt;
+          &lt;td&gt;六&lt;/td&gt;
+          &lt;td&gt;陆&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;qī&lt;/td&gt;
+          &lt;td&gt;七&lt;/td&gt;
+          &lt;td&gt;柒&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;bā&lt;/td&gt;
+          &lt;td&gt;八&lt;/td&gt;
+          &lt;td&gt;捌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;jiǔ&lt;/td&gt;
+          &lt;td&gt;九&lt;/td&gt;
+          &lt;td&gt;玖&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;shí&lt;/td&gt;
+          &lt;td&gt;十&lt;/td&gt;
+          &lt;td&gt;拾&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;bǎi&lt;/td&gt;
+          &lt;td&gt;百&lt;/td&gt;
+          &lt;td&gt;佰&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;qiān&lt;/td&gt;
+          &lt;td&gt;千&lt;/td&gt;
+          &lt;td&gt;仟&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;wàn&lt;/td&gt;
+          &lt;td&gt;万&lt;/td&gt;
+          &lt;td&gt;万&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;yì&lt;/td&gt;
+          &lt;td&gt;亿&lt;/td&gt;
+          &lt;td&gt;亿&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;zhao&lt;/td&gt;
+          &lt;td&gt;兆&lt;/td&gt;
+          &lt;td&gt;兆&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;一兆 = 一万亿&lt;/p&gt;
+&lt;p&gt;两千两百一十七万四千六百 = 2217,4600&lt;/p&gt;
+&lt;p&gt;2,225,250 = 二十二万五千二百五十&lt;/p&gt;
+&lt;p&gt;两百零五 = 205&lt;/p&gt;
+&lt;h2 id=&#34;二-vs-两&#34;&gt;二 vs. 两&lt;/h2&gt;
+&lt;p&gt;二三四 (two, three, four)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

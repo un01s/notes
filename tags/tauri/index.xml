@@ -4,7 +4,7 @@
     <title>Tauri on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/tauri/</link>
     <description>Recent content in Tauri on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 07 Sep 2024 09:56:25 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/tauri/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,14 @@
       <link>https://un01s.github.io/notes/posts/20240907/</link>
       <pubDate>Sat, 07 Sep 2024 09:56:25 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240907/</guid>
-      <description>Update rust
-$ rustc --version rustc 1.78.0 (9b00956e5 2024-04-29) $ rustup update $ rustc --version rustc 1.81.0 (eeb90cda1 2024-09-04) Start to play with Tauri: node.js + rust =&amp;gt; GUI App. There are examples of deno and tauri.
-Another interesting thing is WebUI in C with WebSocket, that uses browser as the GUI.</description>
+      <description>&lt;p&gt;Update rust&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ rustc --version
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rustc 1.78.0 (9b00956e5 2024-04-29)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ rustup update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ rustc --version
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rustc 1.81.0 (eeb90cda1 2024-09-04)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Start to play with &lt;a href=&#34;https://github.com/tauri-apps/tauri&#34;&gt;Tauri: node.js + rust =&amp;gt; GUI App&lt;/a&gt;. There are examples of deno and tauri.&lt;/p&gt;
+&lt;p&gt;Another interesting thing is &lt;a href=&#34;https://github.com/webui-dev/webui&#34;&gt;WebUI in C with WebSocket&lt;/a&gt;, that uses browser as the GUI.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

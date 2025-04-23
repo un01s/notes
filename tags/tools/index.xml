@@ -4,7 +4,7 @@
     <title>Tools on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/tools/</link>
     <description>Recent content in Tools on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Tue, 21 Jan 2025 16:55:22 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/tools/index.xml" rel="self" type="application/rss+xml" />
@@ -13,26 +13,61 @@
       <link>https://un01s.github.io/notes/posts/20250121/</link>
       <pubDate>Tue, 21 Jan 2025 16:55:22 -0700</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250121/</guid>
-      <description>radio, tv and music BBC orbit
-radio garden
-TV garden
-book list Time Shelter, Georgi Gospodinov, Translated by Angela Rodel 回忆反而导致失忆，时间在避难所中逐渐失去意义
-The Talented Mr. Ripley, Patricia Highsmith
-Technofeudalism, Yanis Varoufakis, 2023
-Tim O&amp;rsquo;Brien, The things they carried, 1990
-this is a war story (VietnamWar) like All Quiet on the Western Front (WWI). It talks about truth. the things they carried are their hope, their fear, their guilt, and themselves.
-Norman Maclean, A River run through it, Novel and movie</description>
+      <description>&lt;h2 id=&#34;radio-tv-and-music&#34;&gt;radio, tv and music&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.co.uk/orbitmusic&#34;&gt;BBC orbit&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://radio.garden/&#34;&gt;radio garden&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tv.garden/&#34;&gt;TV garden&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;book-list&#34;&gt;book list&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Time Shelter, Georgi Gospodinov, Translated by Angela Rodel
+回忆反而导致失忆，时间在避难所中逐渐失去意义&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Talented Mr. Ripley, Patricia Highsmith&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Technofeudalism, Yanis Varoufakis, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tim O&amp;rsquo;Brien, The things they carried, 1990&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;this is a war story (VietnamWar) like All Quiet on the Western Front (WWI). It talks about truth. the things they carried are their hope, their fear, their guilt, and themselves.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Norman Maclean, A River run through it, Novel and movie&lt;/p&gt;</description>
     </item>
     <item>
       <title>notes on 2024-08-22</title>
       <link>https://un01s.github.io/notes/posts/20240822/</link>
       <pubDate>Thu, 22 Aug 2024 09:45:47 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240822/</guid>
-      <description>Bash scripting
-intro to CPU
-AI to separate lyrics, chords and melody
-duckDB as a command line tool
-duckDB</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bobbyiliev/introduction-to-bash-scripting&#34;&gt;Bash scripting&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://cpu.land/&#34;&gt;intro to CPU&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://lamucal.com/&#34;&gt;AI to separate lyrics, chords and melody&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html&#34;&gt;duckDB as a command line tool&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://duckdb.org/&#34;&gt;duckDB&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

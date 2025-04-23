@@ -4,7 +4,7 @@
     <title>Laughter on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/laughter/</link>
     <description>Recent content in Laughter on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 06:50:06 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/laughter/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,15 @@
       <link>https://un01s.github.io/notes/posts/20240412/</link>
       <pubDate>Fri, 12 Apr 2024 06:50:06 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20240412/</guid>
-      <description>Each of us has a window, that is ourselves. If we sample fast enough according to Nyquist-Shannon&amp;rsquo;s sampling theorem, we may reconstruct the world viewed through this window. Most of time, our views are just partial and approximate. It&amp;rsquo;s not so even because we are not fast enough and long enough.
-It&amp;#39;s in vain to recall the past, unless it works some influence upon the present. -- Charles Dickens. David Copperfield There is nothing in the world so irresistibly contagious as laughter and good humor.</description>
+      <description>&lt;p&gt;Each of us has a window, that is ourselves. If we sample fast enough according to Nyquist-Shannon&amp;rsquo;s sampling theorem, we may reconstruct the world viewed through this window. Most of time, our views are just partial and approximate. It&amp;rsquo;s not so even because we are not fast enough and long enough.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;It&amp;#39;s in vain to recall the past, unless it works some influence upon the present. 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-- Charles Dickens. David Copperfield
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;There is nothing in the world so irresistibly contagious as laughter and good humor.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-- Charles Dickens, A Christmas Carol
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;I loved her against reason, against promise, against peace, against hope, against 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;happiness, against all discouragement that could be.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-- Charles Dickens, Great Expectations
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Last winter, I had this idea and started to design and to experiment. At first I&amp;rsquo;d like its name LEDO (LED origami) and it&amp;rsquo;s close to LEGO. But a quick search revealed that it&amp;rsquo;s taken. Then I&amp;rsquo;d like to name it Light Origami or Origami Pixel. During the winter, I seldom solder. But it&amp;rsquo;s spring now, the concept has been validated after severl iterations.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

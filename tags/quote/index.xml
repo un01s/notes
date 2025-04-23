@@ -4,7 +4,7 @@
     <title>Quote on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/quote/</link>
     <description>Recent content in Quote on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Sep 2022 13:02:40 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/quote/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,15 @@
       <link>https://un01s.github.io/notes/posts/20220904/</link>
       <pubDate>Sun, 04 Sep 2022 13:02:40 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220904/</guid>
-      <description>Definition of Quine A quine program, or quine, is a program that outputs its own source code when runs without taking any input. It is called self-replicating program. Quines are possible in any Turing-complete programming language, as direct consequence of Kleene&amp;rsquo;s rescursion theorem.
-Detour Quine&amp;rsquo;s paradox on self-reference.
-&amp;#34;Yields falsehood when preceded by its quotation&amp;#34; yields falsehood when preceded by its quotation. Another paradox:
-If the human brain were so simple that we could understand it, we would be so si mple that we couldn&amp;#39;t.</description>
+      <description>&lt;h2 id=&#34;definition-of-quine&#34;&gt;Definition of Quine&lt;/h2&gt;
+&lt;p&gt;A quine program, or quine, is a program that outputs its own source code when runs without taking any input. It is called self-replicating program. Quines are possible in any Turing-complete programming language, as direct consequence of Kleene&amp;rsquo;s rescursion theorem.&lt;/p&gt;
+&lt;h2 id=&#34;detour&#34;&gt;Detour&lt;/h2&gt;
+&lt;p&gt;Quine&amp;rsquo;s paradox on self-reference.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;#34;Yields falsehood when preceded by its quotation&amp;#34; yields falsehood when preceded by its quotation.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Another paradox:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;If the human brain were so simple that we could understand it, we would be so si
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mple that we couldn&amp;#39;t. - Emerson M. Pugh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Another amusing quote:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/posts/20250423/</loc>
+    <lastmod>2025-04-23T11:18:17-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/notes/</loc>
+    <lastmod>2025-04-23T11:18:17-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2025-04-23T11:18:17-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2025-04-23T11:18:17-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2025-04-23T11:18:17-06:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/posts/20250330/</loc>
     <lastmod>2025-03-30T12:47:26-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/compiler/</loc>
-    <lastmod>2025-03-30T12:47:26-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2025-03-30T12:47:26-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2025-03-30T12:47:26-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
     <lastmod>2025-03-30T12:47:26-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/advice/</loc>
@@ -527,9 +533,6 @@
     <loc>https://un01s.github.io/notes/tags/love/</loc>
     <lastmod>2024-04-12T06:50:06-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/notes/</loc>
-    <lastmod>2024-04-12T06:50:06-06:00</lastmod>
-  </url><url>
     <loc>https://un01s.github.io/notes/posts/20240412/</loc>
     <lastmod>2024-04-12T06:50:06-06:00</lastmod>
   </url><url>
@@ -545,10 +548,10 @@
     <loc>https://un01s.github.io/notes/tags/%E9%BB%91%E5%A1%9E/</loc>
     <lastmod>2024-04-06T12:18:02-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/bertolt-brecht/</loc>
+    <loc>https://un01s.github.io/notes/posts/20240405/</loc>
     <lastmod>2024-04-05T10:13:21-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20240405/</loc>
+    <loc>https://un01s.github.io/notes/tags/bertolt-brecht/</loc>
     <lastmod>2024-04-05T10:13:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20240327/</loc>
@@ -650,10 +653,10 @@
     <loc>https://un01s.github.io/notes/tags/rilke/</loc>
     <lastmod>2024-01-29T07:10:37-07:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/zinaida-serebriakova/</loc>
+    <loc>https://un01s.github.io/notes/posts/20240127/</loc>
     <lastmod>2024-01-27T18:23:15-07:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20240127/</loc>
+    <loc>https://un01s.github.io/notes/tags/zinaida-serebriakova/</loc>
     <lastmod>2024-01-27T18:23:15-07:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/george-carlin/</loc>
@@ -665,10 +668,10 @@
     <loc>https://un01s.github.io/notes/tags/humor/</loc>
     <lastmod>2024-01-23T20:11:09-07:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/hannah-arendt/</loc>
+    <loc>https://un01s.github.io/notes/posts/20240122/</loc>
     <lastmod>2024-01-22T15:03:22-07:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20240122/</loc>
+    <loc>https://un01s.github.io/notes/tags/hannah-arendt/</loc>
     <lastmod>2024-01-22T15:03:22-07:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/emotions/</loc>
@@ -1073,10 +1076,10 @@
     <loc>https://un01s.github.io/notes/tags/virginia-woolf/</loc>
     <lastmod>2023-03-30T10:10:29-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/eric-fromm/</loc>
+    <loc>https://un01s.github.io/notes/posts/20230322/</loc>
     <lastmod>2023-03-22T18:23:21-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20230322/</loc>
+    <loc>https://un01s.github.io/notes/tags/eric-fromm/</loc>
     <lastmod>2023-03-22T18:23:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230320/</loc>
@@ -1226,10 +1229,10 @@
     <loc>https://un01s.github.io/notes/tags/fight/</loc>
     <lastmod>2022-10-25T22:04:55-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/mike-davis/</loc>
+    <loc>https://un01s.github.io/notes/posts/20221025/</loc>
     <lastmod>2022-10-25T22:04:55-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20221025/</loc>
+    <loc>https://un01s.github.io/notes/tags/mike-davis/</loc>
     <lastmod>2022-10-25T22:04:55-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/diary/</loc>
@@ -1478,10 +1481,10 @@
     <loc>https://un01s.github.io/notes/tags/philosopher/</loc>
     <lastmod>2022-05-29T13:42:51-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/ren%C3%A9-girard/</loc>
+    <loc>https://un01s.github.io/notes/posts/20220529/</loc>
     <lastmod>2022-05-29T13:42:51-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20220529/</loc>
+    <loc>https://un01s.github.io/notes/tags/ren%C3%A9-girard/</loc>
     <lastmod>2022-05-29T13:42:51-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/action/</loc>
@@ -1523,10 +1526,10 @@
     <loc>https://un01s.github.io/notes/posts/20220519/</loc>
     <lastmod>2022-05-19T10:10:34-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/population/</loc>
+    <loc>https://un01s.github.io/notes/posts/20220518/</loc>
     <lastmod>2022-05-18T10:27:15-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20220518/</loc>
+    <loc>https://un01s.github.io/notes/tags/population/</loc>
     <lastmod>2022-05-18T10:27:15-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20220516/</loc>
@@ -1709,10 +1712,10 @@
     <loc>https://un01s.github.io/notes/posts/20211224/</loc>
     <lastmod>2021-12-24T15:24:34-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/tags/emily-dickinson/</loc>
+    <loc>https://un01s.github.io/notes/posts/20211212/</loc>
     <lastmod>2021-12-12T14:34:21-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/20211212/</loc>
+    <loc>https://un01s.github.io/notes/tags/emily-dickinson/</loc>
     <lastmod>2021-12-12T14:34:21-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/david-whyte/</loc>

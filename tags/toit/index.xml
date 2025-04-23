@@ -4,7 +4,7 @@
     <title>Toit on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/toit/</link>
     <description>Recent content in Toit on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Mar 2022 14:44:04 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/toit/index.xml" rel="self" type="application/rss+xml" />
@@ -13,46 +13,87 @@
       <link>https://un01s.github.io/notes/posts/20220303/</link>
       <pubDate>Thu, 03 Mar 2022 14:44:04 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220303/</guid>
-      <description>Toitlang uses import to use code from other libraries.
-local import starting with . $ tree . └── my_lib ├── my_lib.toit ├── other.toit └── sub └── sub.toit Assume we are importing sub.toit into my_lib.toit.
-import .sub.sub Shorten version:
-import .sub global import import math Then for customizations,
-import math as m import math show sin cos </description>
+      <description>&lt;p&gt;Toitlang uses import to use code from other libraries.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;local import starting with .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ tree
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└── my_lib
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ├── my_lib.toit
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ├── other.toit
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    └── sub
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        └── sub.toit
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Assume we are importing sub.toit into my_lib.toit.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;import .sub.sub
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Shorten version:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;import .sub
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;global import&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;import math
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then for customizations,&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;import math as m
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;import math show sin cos
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Reading Toit Code (002)</title>
       <link>https://un01s.github.io/notes/posts/20220301/</link>
       <pubDate>Tue, 01 Mar 2022 14:47:53 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220301/</guid>
-      <description>After toit_start(), we have toit_esp32.cc to read. The first one is toit::start(). Toit here is just a namespace. As we know that toit supports OTA (over-the-air update) through WiFi and esp32 device is set to be a station (STA instead of AP).
-What we have here is as follows:
-RtcMemory::set_up(); FlashRegistry::set_up(); OS::set_up(); esp_partition_find_first(); setup_program(support_ota); Scheduler::ExitState exit_state; VM vm; vm.load_platform_event_sources(); int groud_id = vm.scheduler()-&amp;gt;next_group_id(); exit_state = vm.scheduler()-&amp;gt;run_boot_program(program, null, group_id); OS::tear_down(); FlashRegistry::tear_down(); After these, esp32 may go to deep sleep.</description>
+      <description>&lt;p&gt;After &lt;code&gt;toit_start()&lt;/code&gt;, we have &lt;code&gt;toit_esp32.cc&lt;/code&gt; to read. The first one is &lt;code&gt;toit::start()&lt;/code&gt;. Toit here is just a namespace. As we know that toit supports OTA (over-the-air update) through WiFi and esp32 device is set to be a station (STA instead of AP).&lt;/p&gt;
+&lt;p&gt;What we have here is as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RtcMemory::set_up();&lt;/li&gt;
+&lt;li&gt;FlashRegistry::set_up();&lt;/li&gt;
+&lt;li&gt;OS::set_up();&lt;/li&gt;
+&lt;li&gt;esp_partition_find_first();&lt;/li&gt;
+&lt;li&gt;setup_program(support_ota);&lt;/li&gt;
+&lt;li&gt;Scheduler::ExitState exit_state;&lt;/li&gt;
+&lt;li&gt;VM vm;&lt;/li&gt;
+&lt;li&gt;vm.load_platform_event_sources();&lt;/li&gt;
+&lt;li&gt;int groud_id = vm.scheduler()-&amp;gt;next_group_id();&lt;/li&gt;
+&lt;li&gt;exit_state = vm.scheduler()-&amp;gt;run_boot_program(program, null, group_id);&lt;/li&gt;
+&lt;li&gt;OS::tear_down();&lt;/li&gt;
+&lt;li&gt;FlashRegistry::tear_down();&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After these, esp32 may go to deep sleep.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading Toit Code (001)</title>
       <link>https://un01s.github.io/notes/posts/20220225/</link>
       <pubDate>Fri, 25 Feb 2022 14:51:27 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220225/</guid>
-      <description>When I started to port the code to ESP32S3 following the example of ESP32C3, I realized I had to read the code closely. Here are the notes along the way.
-Where does the code get started on esp32? Based on esp-idf, Toit (I like to pronounce it as tight) creates a new platform with a new programming language for developers.
-For the code to start on the esp32 device, check all the files inside toolchains/esp32/.</description>
+      <description>&lt;p&gt;When I started to port the code to ESP32S3 following the example of ESP32C3, I realized I had to read the code closely. Here are the notes along the way.&lt;/p&gt;
+&lt;h2 id=&#34;where-does-the-code-get-started-on-esp32&#34;&gt;Where does the code get started on esp32?&lt;/h2&gt;
+&lt;p&gt;Based on esp-idf, Toit (I like to pronounce it as tight) creates a new platform with a new programming language for developers.&lt;/p&gt;
+&lt;p&gt;For the code to start on the esp32 device, check all the files inside &lt;code&gt;toolchains/esp32/&lt;/code&gt;. They contains all the building details for esp32. Inside its subfolder &lt;code&gt;main&lt;/code&gt;, there is a &lt;code&gt;toit.c&lt;/code&gt;. The function &lt;code&gt;app_main()&lt;/code&gt; is the entry point. Inside &lt;code&gt;toit_start()&lt;/code&gt; is called.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Use Jaguar to update</title>
       <link>https://un01s.github.io/notes/posts/20220117/</link>
       <pubDate>Mon, 17 Jan 2022 15:05:41 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220117/</guid>
-      <description>Use an Airport to setup a WiFi network. Then download the binary of Jaguar. Run the following commands one after another. The second command requires the WiFi credentials. Use CTRL+C to stop the third one. To run the forth and the fifth command, put your computer on the same WiFi network as the esp32 device.
-$./jag setup $./jag flash $./jag monitor $./jag scan $./jag run hello.toit </description>
+      <description>&lt;p&gt;Use an Airport to setup a WiFi network. Then download the binary of Jaguar. Run the following commands one after another. The second command requires the WiFi credentials. Use &lt;code&gt;CTRL+C&lt;/code&gt; to stop the third one. To run the forth and the fifth command, put your computer on the same WiFi network as the esp32 device.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag setup
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag flash
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag monitor
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag scan
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag run hello.toit
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;Jaguar M5Core2&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/jag-touch0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Jaguar M5Core2&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/jag-touch1.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Toit on m5core2</title>
       <link>https://un01s.github.io/notes/posts/20220115/</link>
       <pubDate>Sat, 15 Jan 2022 15:13:45 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220115/</guid>
-      <description>Build some examples in toit and flash it to M5Core2.
-There is no problem to follow the steps in one toit discussion. While trying the step4 for ft63xx. Found a typo in package.yaml. mpu6886 should be ft63xx.
-Another issue is that the touch seems not working after unplugging the USB cable. Will investigate further. Will try jaguar tool later.</description>
+      <description>&lt;p&gt;Build some examples in &lt;a href=&#34;https://github.com/toitlang/toit&#34;&gt;toit&lt;/a&gt; and flash it to &lt;a href=&#34;https://github.com/m5stack/M5Core2&#34;&gt;M5Core2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Toit on M5Core2&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/toit-esp32a.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Toit on M5Core2b&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/toit-esp32b.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There is no problem to follow the steps in &lt;a href=&#34;https://github.com/toitlang/toit/discussions/5&#34;&gt;one toit discussion&lt;/a&gt;. While trying the step4 for ft63xx. Found a typo in &lt;a href=&#34;https://github.com/imliubo/ft63xx-toit/blob/master/examples/package.yaml&#34;&gt;package.yaml&lt;/a&gt;. mpu6886 should be ft63xx.&lt;/p&gt;
+&lt;p&gt;Another issue is that the touch seems not working after unplugging the USB cable. Will investigate further. Will try jaguar tool later.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

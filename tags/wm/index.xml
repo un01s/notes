@@ -4,7 +4,7 @@
     <title>Wm on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/wm/</link>
     <description>Recent content in Wm on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Sat, 17 Sep 2022 12:38:38 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/wm/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,10 @@
       <link>https://un01s.github.io/notes/posts/20220917/</link>
       <pubDate>Sat, 17 Sep 2022 12:38:38 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220917/</guid>
-      <description>[2022-09-17] Finally got something wireless &amp;amp; audio working on esp32. This is just a start.
-[2022-10-16] The proof of concept works seamlessly. Two parts, each works and both work together with no problem. Next step, hardware design and more bug fixes.</description>
+      <description>&lt;p&gt;[2022-09-17]
+Finally got something wireless &amp;amp; audio working on esp32. This is just a start.&lt;/p&gt;
+&lt;p&gt;[2022-10-16]
+The proof of concept works seamlessly. Two parts, each works and both work together with no problem. Next step, hardware design and more bug fixes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

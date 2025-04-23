@@ -4,7 +4,7 @@
     <title>M5core2 on un01s notes</title>
     <link>https://un01s.github.io/notes/tags/m5core2/</link>
     <description>Recent content in M5core2 on un01s notes</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Jan 2022 15:05:41 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/m5core2/index.xml" rel="self" type="application/rss+xml" />
@@ -13,17 +13,25 @@
       <link>https://un01s.github.io/notes/posts/20220117/</link>
       <pubDate>Mon, 17 Jan 2022 15:05:41 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220117/</guid>
-      <description>Use an Airport to setup a WiFi network. Then download the binary of Jaguar. Run the following commands one after another. The second command requires the WiFi credentials. Use CTRL+C to stop the third one. To run the forth and the fifth command, put your computer on the same WiFi network as the esp32 device.
-$./jag setup $./jag flash $./jag monitor $./jag scan $./jag run hello.toit </description>
+      <description>&lt;p&gt;Use an Airport to setup a WiFi network. Then download the binary of Jaguar. Run the following commands one after another. The second command requires the WiFi credentials. Use &lt;code&gt;CTRL+C&lt;/code&gt; to stop the third one. To run the forth and the fifth command, put your computer on the same WiFi network as the esp32 device.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag setup
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag flash
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag monitor
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag scan
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$./jag run hello.toit
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;Jaguar M5Core2&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/jag-touch0.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Jaguar M5Core2&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/jag-touch1.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Toit on m5core2</title>
       <link>https://un01s.github.io/notes/posts/20220115/</link>
       <pubDate>Sat, 15 Jan 2022 15:13:45 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20220115/</guid>
-      <description>Build some examples in toit and flash it to M5Core2.
-There is no problem to follow the steps in one toit discussion. While trying the step4 for ft63xx. Found a typo in package.yaml. mpu6886 should be ft63xx.
-Another issue is that the touch seems not working after unplugging the USB cable. Will investigate further. Will try jaguar tool later.</description>
+      <description>&lt;p&gt;Build some examples in &lt;a href=&#34;https://github.com/toitlang/toit&#34;&gt;toit&lt;/a&gt; and flash it to &lt;a href=&#34;https://github.com/m5stack/M5Core2&#34;&gt;M5Core2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Toit on M5Core2&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/toit-esp32a.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Toit on M5Core2b&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/toit-esp32b.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There is no problem to follow the steps in &lt;a href=&#34;https://github.com/toitlang/toit/discussions/5&#34;&gt;one toit discussion&lt;/a&gt;. While trying the step4 for ft63xx. Found a typo in &lt;a href=&#34;https://github.com/imliubo/ft63xx-toit/blob/master/examples/package.yaml&#34;&gt;package.yaml&lt;/a&gt;. mpu6886 should be ft63xx.&lt;/p&gt;
+&lt;p&gt;Another issue is that the touch seems not working after unplugging the USB cable. Will investigate further. Will try jaguar tool later.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
