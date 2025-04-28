@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/posts/20250423/</loc>
+    <loc>https://un01s.github.io/notes/tags/carl-jung/</loc>
+    <lastmod>2025-04-23T11:18:17-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/joseph-campbell/</loc>
     <lastmod>2025-04-23T11:18:17-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/notes/</loc>
@@ -15,6 +18,9 @@
     <lastmod>2025-04-23T11:18:17-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2025-04-23T11:18:17-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/20250423/</loc>
     <lastmod>2025-04-23T11:18:17-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20250330/</loc>
@@ -922,9 +928,6 @@
   </url><url>
     <loc>https://un01s.github.io/notes/tags/%E8%81%8A%E6%96%8B/</loc>
     <lastmod>2023-07-24T18:32:05-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/carl-jung/</loc>
-    <lastmod>2023-07-23T16:05:06-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230723/</loc>
     <lastmod>2023-07-23T16:05:06-06:00</lastmod>
