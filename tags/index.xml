@@ -6,8 +6,22 @@
     <description>Recent content in Tags on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Jun 2025 20:21:01 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 12:56:35 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cavafy</title>
+      <link>https://un01s.github.io/notes/tags/cavafy/</link>
+      <pubDate>Mon, 30 Jun 2025 12:56:35 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/cavafy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poem</title>
+      <link>https://un01s.github.io/notes/tags/poem/</link>
+      <pubDate>Mon, 30 Jun 2025 12:56:35 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/poem/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Notes</title>
       <link>https://un01s.github.io/notes/tags/notes/</link>
@@ -461,13 +475,6 @@
       <link>https://un01s.github.io/notes/tags/anne-sexton/</link>
       <pubDate>Thu, 02 Jan 2025 10:58:45 -0700</pubDate>
       <guid>https://un01s.github.io/notes/tags/anne-sexton/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Poem</title>
-      <link>https://un01s.github.io/notes/tags/poem/</link>
-      <pubDate>Thu, 02 Jan 2025 10:58:45 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/tags/poem/</guid>
       <description></description>
     </item>
     <item>
@@ -2134,13 +2141,6 @@
       <link>https://un01s.github.io/notes/tags/goose/</link>
       <pubDate>Sat, 18 Jun 2022 13:52:08 -0600</pubDate>
       <guid>https://un01s.github.io/notes/tags/goose/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cavafy</title>
-      <link>https://un01s.github.io/notes/tags/cavafy/</link>
-      <pubDate>Sat, 11 Jun 2022 09:28:03 -0600</pubDate>
-      <guid>https://un01s.github.io/notes/tags/cavafy/</guid>
       <description></description>
     </item>
     <item>
