@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://un01s.github.io/notes/posts/20250702/</loc>
-    <lastmod>2025-07-02T07:49:17-06:00</lastmod>
+    <loc>https://un01s.github.io/notes/posts/20250725/</loc>
+    <lastmod>2025-07-25T10:01:15-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/physics/</loc>
+    <lastmod>2025-07-25T10:01:15-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/posts/</loc>
+    <lastmod>2025-07-25T10:01:15-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/</loc>
+    <lastmod>2025-07-25T10:01:15-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/</loc>
+    <lastmod>2025-07-25T10:01:15-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/arrival/</loc>
     <lastmod>2025-07-02T07:49:17-06:00</lastmod>
   </url><url>
-    <loc>https://un01s.github.io/notes/posts/</loc>
-    <lastmod>2025-07-02T07:49:17-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/</loc>
-    <lastmod>2025-07-02T07:49:17-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/</loc>
+    <loc>https://un01s.github.io/notes/posts/20250702/</loc>
     <lastmod>2025-07-02T07:49:17-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20250630/</loc>
@@ -1215,9 +1221,6 @@
     <lastmod>2023-01-20T16:31:09-07:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230119/</loc>
-    <lastmod>2023-01-19T15:20:07-07:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/physics/</loc>
     <lastmod>2023-01-19T15:20:07-07:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20230105/</loc>

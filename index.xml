@@ -6,10 +6,30 @@
     <description>Recent content on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Jul 2025 07:49:17 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 10:01:15 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>20250702</title>
+      <title>note0725</title>
+      <link>https://un01s.github.io/notes/posts/20250725/</link>
+      <pubDate>Fri, 25 Jul 2025 10:01:15 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250725/</guid>
+      <description>&lt;h2 id=&#34;satyendra-nath-bose-and-enrico-fermi&#34;&gt;&lt;a href=&#34;https://www.quantamagazine.org/matter-vs-force-why-there-are-exactly-two-types-of-particles-20250623/&#34;&gt;Satyendra Nath Bose and Enrico Fermi&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Everything is made of a set of just 17 fundamental particles, and those particles, though they may differ by mass or charge, come in just two basic types. Each is either a “boson” or a “fermion.”&lt;/p&gt;
+&lt;p&gt;Fermions (matter particles)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quarks: up, down, charm, strange, top and bottom&lt;/li&gt;
+&lt;li&gt;Leptons: electron, electron neutrino, muon, muon neutrino, tau, tau neutrino&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bosons (force-carrying particles)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gauge bosons (vector bosons): Gluon, photon, Z boson, W boson&lt;/li&gt;
+&lt;li&gt;Scalar bosons: Higgs Boson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;terence-eden-weve-got-to-stop-sending-files-to-each-other&#34;&gt;&lt;a href=&#34;https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/&#34;&gt;Terence Eden, We’ve got to stop sending files to each other&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The modern workforce shouldn&amp;rsquo;t be flinging copies to each other. A copy is outdated the moment it is downloaded. A copy has no protection against illicit reading. A copy can never be revoked.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>七月的流水账</title>
       <link>https://un01s.github.io/notes/posts/20250702/</link>
       <pubDate>Wed, 02 Jul 2025 07:49:17 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250702/</guid>
