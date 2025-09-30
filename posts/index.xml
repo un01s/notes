@@ -13,7 +13,7 @@
       <link>https://un01s.github.io/notes/posts/20250929/</link>
       <pubDate>Mon, 29 Sep 2025 18:29:43 -0600</pubDate>
       <guid>https://un01s.github.io/notes/posts/20250929/</guid>
-      <description>&lt;p&gt;There is a strange error &lt;code&gt;Error: &amp;quot;Unrecognized ABI&amp;quot; when downloading UF2 to the pico board. So a total re-installation after removing both &lt;/code&gt;.cargo``` and &lt;code&gt;.rustup\&lt;/code&gt; directories.&lt;/p&gt;
+      <description>&lt;p&gt;There is a strange error &lt;code&gt;Error: &amp;quot;Unrecognized ABI&amp;quot;&lt;/code&gt; when downloading UF2 to the pico board. So a total re-installation after removing both &lt;code&gt;.cargo&lt;/code&gt; and &lt;code&gt;.rustup&lt;/code&gt; directories.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;install rust&lt;/li&gt;
 &lt;/ul&gt;
