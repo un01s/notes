@@ -6,8 +6,32 @@
     <description>Recent content in Rust on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Feb 2025 10:26:20 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 18:29:43 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20250929</title>
+      <link>https://un01s.github.io/notes/posts/20250929/</link>
+      <pubDate>Mon, 29 Sep 2025 18:29:43 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20250929/</guid>
+      <description>&lt;p&gt;There is a strange error &lt;code&gt;Error: &amp;quot;Unrecognized ABI&amp;quot; when downloading UF2 to the pico board. So a total re-installation after removing both &lt;/code&gt;.cargo``` and &lt;code&gt;.rustup\&lt;/code&gt; directories.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;install rust&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ curl --proto &amp;#39;=https&amp;#39; --tlsv1.2 -sSf https://sh.rustup.rs | sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.rust-embedded.org/book/intro/install.html&#34;&gt;install for some embedded targets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ rustup target add thumbv6m-none-eabi 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ rustup target add thumbv7m-none-eabi
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ rustup target add thumbv8m.main-none-eabi
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ rustup target add thumbv8m.main-none-eabihf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;then install cargo-binutils&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;$&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;cargo&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;install&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;cargo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;binutils&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;Installed&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;package&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-binutils v0.4.0`&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;executables&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-cov`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-nm`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-objcopy`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-objdump`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-profdata`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-readobj`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-size`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`cargo-strip`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-ar`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-as`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-cov`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-ld`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-lld`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-nm`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-objcopy`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-objdump`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-profdata`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-readobj`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-size`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;`rust-strip`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>no-std Rust and others</title>
       <link>https://un01s.github.io/notes/posts/20250220/</link>

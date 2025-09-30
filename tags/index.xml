@@ -6,8 +6,15 @@
     <description>Recent content in Tags on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Aug 2025 09:09:27 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 18:29:43 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust</title>
+      <link>https://un01s.github.io/notes/tags/rust/</link>
+      <pubDate>Mon, 29 Sep 2025 18:29:43 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/rust/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Computer</title>
       <link>https://un01s.github.io/notes/tags/computer/</link>
@@ -335,13 +342,6 @@
       <link>https://un01s.github.io/notes/tags/programming/</link>
       <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
       <guid>https://un01s.github.io/notes/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rust</title>
-      <link>https://un01s.github.io/notes/tags/rust/</link>
-      <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/tags/rust/</guid>
       <description></description>
     </item>
     <item>
