@@ -6,8 +6,22 @@
     <description>Recent content in Tags on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Sep 2025 18:29:43 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 08:51:47 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://un01s.github.io/notes/tags/notes/</link>
+      <pubDate>Sun, 12 Oct 2025 08:51:47 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcuts</title>
+      <link>https://un01s.github.io/notes/tags/shortcuts/</link>
+      <pubDate>Sun, 12 Oct 2025 08:51:47 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/shortcuts/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Rust</title>
       <link>https://un01s.github.io/notes/tags/rust/</link>
@@ -90,13 +104,6 @@
       <link>https://un01s.github.io/notes/tags/cavafy/</link>
       <pubDate>Mon, 30 Jun 2025 12:56:35 -0600</pubDate>
       <guid>https://un01s.github.io/notes/tags/cavafy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>https://un01s.github.io/notes/tags/notes/</link>
-      <pubDate>Fri, 27 Jun 2025 20:21:01 -0600</pubDate>
-      <guid>https://un01s.github.io/notes/tags/notes/</guid>
       <description></description>
     </item>
     <item>
