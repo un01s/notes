@@ -6,8 +6,30 @@
     <description>Recent content on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 09:21:49 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 06:09:38 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS DIY</title>
+      <link>https://un01s.github.io/notes/posts/20251019/</link>
+      <pubDate>Sun, 19 Oct 2025 06:09:38 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20251019/</guid>
+      <description>&lt;h2 id=&#34;cs-diy&#34;&gt;&lt;a href=&#34;https://csdiy.wiki/&#34;&gt;CS DIY&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;first class: &lt;a href=&#34;https://www.composingprograms.com/&#34;&gt;https://www.composingprograms.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sicp&#34;&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/&#34;&gt;SICP&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;book-a-philosophy-of-software-design-john-ousterhout-2018&#34;&gt;Book: A philosophy of software design, John Ousterhout, 2018&lt;/h2&gt;
+&lt;p&gt;How to design software systems to minimize their complexity.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;When developing a module, look for opportunities to take a little bit of extra suffering upon yourself in order to reduce the suffering of your users.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;it’s more important for a module to have simple interface than a simple implementation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The best way to eliminate exception handling complexity is to define your APIs so that there are no exceptions to handle: define errors out of existence&lt;/p&gt;</description>
+    </item>
     <item>
       <title>fast-forward time</title>
       <link>https://un01s.github.io/notes/posts/20251018/</link>
