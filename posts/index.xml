@@ -19,7 +19,9 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;On October 29, 2025, the Federal Reserve lowered its benchmark interest rate by 0.25 percentage points, bringing the target range to 3.75% - 4.00%. This marks the second rate cut of the year, following a similar reduction in September.&lt;/p&gt;
-&lt;p&gt;** Economic Conditions: The Fed cited moderate economic expansion but noted that job gains have slowed and the unemployment rate has slightly increased.&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Economic Conditions: The Fed cited moderate economic expansion but noted that job gains have slowed and the unemployment rate has slightly increased.&lt;/p&gt;</description>
     </item>
     <item>
       <title>anti-conservatism and others</title>
@@ -61,6 +63,7 @@
 &lt;p&gt;&lt;a href=&#34;https://insideempire.github.io/CS61A-Website-Archive/&#34;&gt;CS61A repo2&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;open-source-computer-science-diy&#34;&gt;&lt;a href=&#34;https://github.com/ossu/computer-science&#34;&gt;open source computer science DIY&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;book-a-philosophy-of-software-design-john-ousterhout-2018&#34;&gt;Book: A philosophy of software design, John Ousterhout, 2018&lt;/h2&gt;
 &lt;p&gt;How to design software systems to minimize their complexity.&lt;/p&gt;
 &lt;ul&gt;
