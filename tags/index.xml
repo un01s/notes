@@ -6,8 +6,36 @@
     <description>Recent content in Tags on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Oct 2025 09:24:07 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 09:46:55 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://un01s.github.io/notes/tags/ai/</link>
+      <pubDate>Fri, 07 Nov 2025 09:46:55 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://un01s.github.io/notes/tags/code/</link>
+      <pubDate>Fri, 07 Nov 2025 09:46:55 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peter Coviello</title>
+      <link>https://un01s.github.io/notes/tags/peter-coviello/</link>
+      <pubDate>Fri, 07 Nov 2025 09:46:55 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/peter-coviello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://un01s.github.io/notes/tags/programming/</link>
+      <pubDate>Fri, 07 Nov 2025 09:46:55 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/programming/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Interest Rate</title>
       <link>https://un01s.github.io/notes/tags/interest-rate/</link>
@@ -468,13 +496,6 @@
       <link>https://un01s.github.io/notes/tags/no-std/</link>
       <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
       <guid>https://un01s.github.io/notes/tags/no-std/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://un01s.github.io/notes/tags/programming/</link>
-      <pubDate>Thu, 20 Feb 2025 10:26:20 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/tags/programming/</guid>
       <description></description>
     </item>
     <item>
@@ -1213,13 +1234,6 @@
       <description></description>
     </item>
     <item>
-      <title>Code</title>
-      <link>https://un01s.github.io/notes/tags/code/</link>
-      <pubDate>Sat, 24 Feb 2024 13:00:41 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/tags/code/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sicp</title>
       <link>https://un01s.github.io/notes/tags/sicp/</link>
       <pubDate>Sat, 24 Feb 2024 13:00:41 -0700</pubDate>
@@ -1770,13 +1784,6 @@
       <link>https://un01s.github.io/notes/tags/blind/</link>
       <pubDate>Fri, 19 May 2023 11:02:22 -0600</pubDate>
       <guid>https://un01s.github.io/notes/tags/blind/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>https://un01s.github.io/notes/tags/ai/</link>
-      <pubDate>Mon, 15 May 2023 09:44:51 -0600</pubDate>
-      <guid>https://un01s.github.io/notes/tags/ai/</guid>
       <description></description>
     </item>
     <item>
