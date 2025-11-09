@@ -1,5 +1,5 @@
 ---
-title: "the evolution of programming"
+title: "the evolution of programming and others"
 date: 2025-11-07T09:46:55-07:00
 tags: ["peter coviello", "programming", "code", "ai"]
 draft: false
@@ -16,6 +16,8 @@ draft: false
 > It’s not that those things don’t matter: they absolutely goddamn do, and will keep on mattering, and I wouldn’t go on with the whole tedious business of teaching if I thought otherwise. It’s just that they never mattered much to the Times and they are, to appearances, mattering less and less by the day. I should remember that, and so should you.
 
 * Peter Coviello is professor of English at the University of Illinois-Chicago. He has written about the history of sexuality, queer children, pop songs, nineteenth-century American literature, Mormon polygamy, step-parenthood, and much besides. In 2017-18, he was on fellowship at the Institute for Advanced Study in Princeton. His newest book, "Long Players: A Love Story in Eighteen Songs," will appear from Penguin Books in June of 2018.
+
+* [Wussy, Teenage Wasteland, Live on KEXP](https://www.youtube.com/watch?v=8xsgu7mSIOk)
 
 ## [the authoritarian stack](https://www.authoritarian-stack.info/)
 
