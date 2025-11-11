@@ -1,7 +1,7 @@
 ---
 title: "the evolution of programming and others"
 date: 2025-11-07T09:46:55-07:00
-tags: ["peter coviello", "programming", "code", "ai"]
+tags: ["peter coviello", "authoritarian", "programming", "code", "ai"]
 draft: false
 ---
 
@@ -9,11 +9,11 @@ draft: false
 
 ## [Peter Coviello: Maybe don't talk to the New York Times about Zohran Mamdani](https://lithub.com/maybe-dont-talk-to-the-new-york-times-about-zohran-mamdani/)
 
-> For some time I’ve been saying that the storied choice between socialism and barbarism was made exquisitely clear a good many years ago in the United States, and both major parties chose barbarism. They are obviously and consequentially different barbarisms—one had reproductive freedom, vaccines, and trans health care in it, at least for a while—and I can tell you why I have sincerely preferred one to the other. But we oughtn’t to kid ourselves. From the perspective of a world of increasingly unimaginable maldistribution of resources, cascading ecological collapse, a genocide cheered on by a putatively liberal order, **both are barbarisms.** Mamdani seemed to me a small glimmering break in the wall of all that. A part of me wanted to do him a solid.
+> For some time I’ve been saying that the storied choice between socialism and barbarism was made exquisitely clear a good many years ago in the United States, and both major parties chose barbarism. They are obviously and consequentially different barbarisms — one had reproductive freedom, vaccines, and trans health care in it, at least for a while — and I can tell you why I have sincerely preferred one to the other. But we oughtn’t to kid ourselves. From the perspective of a world of increasingly unimaginable maldistribution of resources, cascading ecological collapse, a genocide cheered on by a putatively liberal order, **both are barbarisms.** Mamdani seemed to me a small glimmering break in the wall of all that. A part of me wanted to do him a solid.
 
 > I read it over now with this kind of full-spectrum cringe of the spirit. It’s the rattle of a person going on and professorially on, quite as if the substance of a discipline, or its intellectual trajectory, or even just the nourishing joy of sustained and serious study, mattered at all to the person he was talking to, or to the majestic institution he represents. And honestly, what could be more feeble?
 
-> It’s not that those things don’t matter: they absolutely goddamn do, and will keep on mattering, and I wouldn’t go on with the whole tedious business of teaching if I thought otherwise. It’s just that they never mattered much to the Times and they are, to appearances, mattering less and less by the day. I should remember that, and so should you.
+> It’s not that those things don’t matter: they absolutely goddamn do, and will keep on mattering, and I wouldn’t go on with the whole tedious business of teaching if I thought otherwise. **It’s just that they never mattered much to the Times** and they are, to appearances, mattering less and less by the day. I should remember that, and so should you.
 
 * Peter Coviello is professor of English at the University of Illinois-Chicago. He has written about the history of sexuality, queer children, pop songs, nineteenth-century American literature, Mormon polygamy, step-parenthood, and much besides. In 2017-18, he was on fellowship at the Institute for Advanced Study in Princeton. His newest book, "Long Players: A Love Story in Eighteen Songs," will appear from Penguin Books in June of 2018.
 
@@ -34,4 +34,10 @@ AI will be a great tool for programmers and laymen. Just think about the low-lev
 If you look at the compilers, its output or target moves from machine assembly to intermediate representation. LLVM is basically compiler-as-libraries. 
 
 * [compilers](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)  
+
+* [the tinkering of Robert Noyce](https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html)
+
+## notes
+
+As I grow up the world becomes more hopeless. All news are bad so i need constant distraction to focus on doing something. When I pause to think about, the world is the same all the time while I could see it more directly and clearly. I no longer claim that I know the world like when I was young. I am still wrong about the world but in somewhere deeper level.
 
