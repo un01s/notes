@@ -1,7 +1,7 @@
 ---
 title: "the evolution of programming and others"
 date: 2025-11-07T09:46:55-07:00
-tags: ["peter coviello", "authoritarian", "programming", "code", "ai"]
+tags: ["twin peaks", "peter coviello", "authoritarian", "programming", "code", "ai"]
 draft: false
 ---
 
@@ -22,6 +22,48 @@ draft: false
 ## [the authoritarian stack](https://www.authoritarian-stack.info/)
 
 ![authoritarian stack](authoritarian-stack.png)
+
+## Twin Peaks: the return
+
+> Norma: I gave them all my exact recipes, as per our agreement, but I don't think they are following them.
+
+> Walter: Norma, I assure you they are following your recipes to the letter, but also per the agreement, using their discretion about where they get the ingredients.
+
+> Norma: No. All my ingredients are natural, organic, local.
+
+> Walter: I know. You make them with "love".
+
+> Walter: Norma, you are a real artist. But love doesn't always turn a **profit**. We believe in you 100%, but from a business perspective the board would like you to consider some alternatives without sacrificing any of the high standards you're so well known for.
+
+* the end result is more expensive products of lower quality for profit only. But the capital chasing profit is not new. **Making Quick Money and short-term exploitation** are also not new for private equities.
+
+* Megan Greenwell, Bad Company: Private equity and the death of the American Dream, 2025
+
+  * [2025June05 book excerpt: How private equity helped destroy local news](https://www.rollingstone.com/culture/culture-features/private-equity-destroys-america-1235348956/)
+
+  * [2023June02: Days of plunder](https://prospect.org/2023/06/02/2023-06-02-days-of-plunder-morgenson-rosner-ballou-review/)
+
+  * book: Brendan Ballou, Plunder: private equity's plan to pillage America
+ 
+  * Book: Gretchen Morgenson, These are the plunderers
+
+  * [world after capital](https://github.com/WorldAfterCapital/WorldAfterCapital)
+  
+  * Technological progress has shifted scarcity for humanity. When we were foragers, food was scarce. During the agrarian age, it was land. Following the industrial revolution, capital became scarce. With digital technologies scarcity is shifting from capital to attention. World After Capital suggests ways to expand economic, informational and psychological freedom to go from an industrial to a knowledge society.
+
+## [use value vs exchange value](https://www.metafilter.com/86891/The-Plague-of-Free#2836285)
+
+so the use value for air is very high, without air we would not be able to breathe. but air's economic value is low, because no one as yet has figured out a way to ration air to individuals. because of its commodity status air is freely shared despite its clear value.
+
+however, in an environment where air is scarce, such as underwater or outer space, the control of air is much easier to regulate. those who own the compressors, tanks and regulators (infrastructure) to deliver air to paying customers are able to derive economic value from what nominally is a ubiquitous and free resource.
+
+the same reasoning behind use and economic value can be applied to IP. control of IP in the past was relatively straightforward given the use value of IP was limited in scope to those who had the necessary infrastructure in place to utilize it. in the music industry, recording and selling songs were a function of owning the distribution rights and the facilities to mint IP onto vinyl, tape, CD or whatever media format desired.
+
+high capital costs were a deterrent for widespread multiplication of IP and hence supply was relatively easy to regulate, copyrights enforced and economic value maintained. but with widespread and low cost availability of equipment to record and exhibit all sorts of media, even marginal consumers are now able to gain access to IP (and even produce it), rendering those types of IP essentially free.
+
+the important thing to recognize is how amenable IP is to commodification. given use value for a specified market, if the IP represents a complicated process that only companies with large resources are able to replicate, then its economic value is easily defended. but if fixed and marginal costs to replication are low, the ability to defend IP declines, whether through legal enforcement or otherwise. it becomes like air.
+
+* Book: Marshall Berman, All that is solid melts into air: the experience of modernity, 1988
 
 ## DC Sandwich Guy
 
