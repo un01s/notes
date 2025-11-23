@@ -17,6 +17,8 @@ draft: false
 
 * Peter Coviello is professor of English at the University of Illinois-Chicago. He has written about the history of sexuality, queer children, pop songs, nineteenth-century American literature, Mormon polygamy, step-parenthood, and much besides. In 2017-18, he was on fellowship at the Institute for Advanced Study in Princeton. His newest book, "Long Players: A Love Story in Eighteen Songs," will appear from Penguin Books in June of 2018.
 
+* [nice old photos](https://davidhudson.tumblr.com/)
+
 * [Wussy, Teenage Wasteland, Live on KEXP](https://www.youtube.com/watch?v=8xsgu7mSIOk)
 
 ## [the authoritarian stack](https://www.authoritarian-stack.info/)
@@ -103,6 +105,23 @@ If you look at the compilers, its output or target moves from machine assembly t
 * [compilers](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)  
 
 * [the tinkering of Robert Noyce](https://web.stanford.edu/class/e145/2007_fall/materials/noyce.html)
+
+## Requiem by Robert Louis Stevenson (1850-1894)
+
+```
+Requiem
+Robert Louis Stevenson (1850 –1894)
+
+Under the wide and starry sky,
+    Dig the grave and let me lie.
+Glad did I live and gladly die,
+    And I laid me down with a will.
+
+This be the verse you grave for me:
+    Here he lies where he longed to be;
+Home is the sailor, home from sea,
+    And the hunter home from the hill.
+```
 
 ## notes
 
