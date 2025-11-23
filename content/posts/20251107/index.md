@@ -1,7 +1,7 @@
 ---
 title: "the evolution of programming and others"
 date: 2025-11-07T09:46:55-07:00
-tags: ["twin peaks", "peter coviello", "authoritarian", "programming", "code", "ai"]
+tags: ["twin peaks", "peter coviello", "authoritarian", "peter thiel", "programming", "code", "ai"]
 draft: false
 ---
 
@@ -22,6 +22,31 @@ draft: false
 ## [the authoritarian stack](https://www.authoritarian-stack.info/)
 
 ![authoritarian stack](authoritarian-stack.png)
+
+## [authoritarianism is the bailout](https://theamericanvandal.substack.com/p/authoritarianism-is-the-bailout)
+
+> Ferguson (Charles Ferguson’s Inside Job (2010)) hypothesizes that the “level of criminality” in finance is “somewhat distinctive,” specifically by comparison with the other famously-lucrative sector of the millennial economy: “high tech.” Spitzer agrees with this premise, adding, as explanation, that “tech is a fundamentally creative business, where the value generation and the income derives from actually creating something new and different.”
+
+>  the evasion of financial regulations, and precisely those financial regulations that were designed to prevent economic crises by discouraging fraud.
+
+> In some cases, the financial innovators and the tech entrepreneurs are the very same people. **Peter Thiel** started his career as a derivatives trader for Credit Suisse, whose history, as Duncan Mavin puts it, “reads like a long list of relentless wrongdoings” leading up to a distressed merger in 2023. **Elon Musk** also began his career working for a multinational bank during the securitization boom, and quit because the CEO didn’t see the foolproof genius of his arbitrage scheme involving the sovereign debts of developing nations.
+
+> Here it’s useful to review John Kenneth Galbraith’s common denominators of speculative bubbles:
+
+* “the extreme brevity of financial memory”
+* “the specious association of money and intelligence”
+* “the thought that there is something new in the world”
+* “debt dangerously out of scale with the underlying means of repayment”
+
+> John Kenneth Galbraith: “The investing public is fascinated and captured by the great financial mind. That fascination derives from the scale of the financial operations and the feeling that, with so much money involved, the mental resources behind them cannot be less. Only after the speculative collapse does the truth emerge. What was though to be unusual acuity turns out only to be fortuitous and unfortunate association with assets. Over the long years of history, the result for those who have been thus misjudged (including, invariably, by themselves) has been opprobrium following by personal disgrace or a retreat into the deeper folds of obscurity”
+
+* proximity to and control of capital transactions
+
+* “foolish indifference to legal constraints”
+
+* disguising debt as an asset
+
+> For two decades, Musk, Thiel, and several of their Silicon Valley peers have sustained that illusion which Charles Ferguson and Eliot Spitzer articulate in Inside Job, that they are innovators, value generators, and creators. They are the founders and architects of the new economy.
 
 ## Twin Peaks: the return
 
