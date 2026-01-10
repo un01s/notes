@@ -82,16 +82,10 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Hi There 👋"
+        Title: "side notes on reading"
         Content: >
-            Welcome! Here are some notes and code snippets to myself. Just do my work everyday with ❤️ .
+            "Human nature is not a machine to be built after a model, and set to do exactly the work prescribed for it, but a tree, which requires to grow and develop itself on all sides, according to the tendency of the inward forces which make it a living thing." -- John Stuart Mill
             
-            - [x] programming learning notes
-
-            - [x] electronics project notes
-
-            - [x] whatever reading notes
-
     socialIcons:
         - name: github
           url: "https://github.com/un01s/"
