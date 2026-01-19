@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Market on un01s notes</title>
-    <link>https://un01s.github.io/notes/tags/market/</link>
-    <description>Recent content in Market on un01s notes</description>
+    <title>Politics on un01s notes</title>
+    <link>https://un01s.github.io/notes/tags/politics/</link>
+    <description>Recent content in Politics on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Jan 2026 09:57:14 -0700</lastBuildDate>
-    <atom:link href="https://un01s.github.io/notes/tags/market/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://un01s.github.io/notes/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>market watch 2026</title>
       <link>https://un01s.github.io/notes/posts/20260119/</link>
@@ -20,16 +20,6 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Futures on S&amp;amp;P500 down 1%, Dow Jones Average down 0.8% and Nasdaq100 fell 1.3%.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>notes</title>
-      <link>https://un01s.github.io/notes/posts/20230514/</link>
-      <pubDate>Mon, 15 May 2023 09:44:51 -0600</pubDate>
-      <guid>https://un01s.github.io/notes/posts/20230514/</guid>
-      <description>&lt;h2 id=&#34;two-mini-stories&#34;&gt;Two mini-stories:&lt;/h2&gt;
-&lt;h3 id=&#34;water-bottle&#34;&gt;water-bottle&lt;/h3&gt;
-&lt;p&gt;In a library. Put my water bottle on the foutain stand and went into the restroom. Upon returning, my water bottle was gone. While I have left it this way many many times, the water bottle always stays there without leaving. Where is it?&lt;/p&gt;
-&lt;p&gt;I went outside and saw a man leaving. Ran to him and saw my water bottle in his hand. &amp;ldquo;Excuse me, that water bottle is mine.&amp;rdquo; &amp;ldquo;Oh, I thought somebody lost it.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
