@@ -6,8 +6,15 @@
     <description>Recent content in Tags on un01s notes</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 10:50:41 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 15:21:15 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://un01s.github.io/notes/tags/notes/</link>
+      <pubDate>Thu, 05 Feb 2026 15:21:15 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/notes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>A.D.White</title>
       <link>https://un01s.github.io/notes/tags/a.d.white/</link>
@@ -370,13 +377,6 @@
       <link>https://un01s.github.io/notes/tags/dns-hack/</link>
       <pubDate>Sun, 12 Oct 2025 08:51:47 -0600</pubDate>
       <guid>https://un01s.github.io/notes/tags/dns-hack/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>https://un01s.github.io/notes/tags/notes/</link>
-      <pubDate>Sun, 12 Oct 2025 08:51:47 -0600</pubDate>
-      <guid>https://un01s.github.io/notes/tags/notes/</guid>
       <description></description>
     </item>
     <item>
