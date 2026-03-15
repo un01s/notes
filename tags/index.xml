@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 03 Mar 2026 09:39:54 -0700</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Books</title>
-      <link>https://un01s.github.io/notes/tags/books/</link>
+      <title>Book</title>
+      <link>https://un01s.github.io/notes/tags/book/</link>
       <pubDate>Tue, 03 Mar 2026 09:39:54 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/tags/books/</guid>
+      <guid>https://un01s.github.io/notes/tags/book/</guid>
       <description></description>
     </item>
     <item>
@@ -23,10 +23,24 @@
       <description></description>
     </item>
     <item>
+      <title>Habermas</title>
+      <link>https://un01s.github.io/notes/tags/habermas/</link>
+      <pubDate>Tue, 03 Mar 2026 09:39:54 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/habermas/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Quantum</title>
       <link>https://un01s.github.io/notes/tags/quantum/</link>
       <pubDate>Tue, 03 Mar 2026 09:39:54 -0700</pubDate>
       <guid>https://un01s.github.io/notes/tags/quantum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rachel Maddow</title>
+      <link>https://un01s.github.io/notes/tags/rachel-maddow/</link>
+      <pubDate>Tue, 03 Mar 2026 09:39:54 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/rachel-maddow/</guid>
       <description></description>
     </item>
     <item>
@@ -1500,6 +1514,13 @@
       <description></description>
     </item>
     <item>
+      <title>Books</title>
+      <link>https://un01s.github.io/notes/tags/books/</link>
+      <pubDate>Fri, 09 Feb 2024 12:59:40 -0700</pubDate>
+      <guid>https://un01s.github.io/notes/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fyodor Dostoevsky</title>
       <link>https://un01s.github.io/notes/tags/fyodor-dostoevsky/</link>
       <pubDate>Fri, 09 Feb 2024 12:59:40 -0700</pubDate>
@@ -2190,13 +2211,6 @@
       <link>https://un01s.github.io/notes/tags/idea/</link>
       <pubDate>Sat, 26 Nov 2022 20:09:14 -0700</pubDate>
       <guid>https://un01s.github.io/notes/tags/idea/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Book</title>
-      <link>https://un01s.github.io/notes/tags/book/</link>
-      <pubDate>Fri, 18 Nov 2022 13:49:06 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/tags/book/</guid>
       <description></description>
     </item>
     <item>
