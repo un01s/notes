@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://un01s.github.io/notes/tags/book/</loc>
+    <lastmod>2026-05-25T13:03:43-06:00</lastmod>
+  </url><url>
     <loc>https://un01s.github.io/notes/tags/carpe-diem/</loc>
     <lastmod>2026-05-25T13:03:43-06:00</lastmod>
   </url><url>
@@ -15,6 +18,12 @@
     <lastmod>2026-05-25T13:03:43-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/index-fund/</loc>
+    <lastmod>2026-05-25T13:03:43-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/link/</loc>
+    <lastmod>2026-05-25T13:03:43-06:00</lastmod>
+  </url><url>
+    <loc>https://un01s.github.io/notes/tags/movie/</loc>
     <lastmod>2026-05-25T13:03:43-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/posts/</loc>
@@ -43,9 +52,6 @@
   </url><url>
     <loc>https://un01s.github.io/notes/posts/20260521/</loc>
     <lastmod>2026-05-21T08:09:00-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/book/</loc>
-    <lastmod>2026-05-14T11:44:05-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/coco-jambo/</loc>
     <lastmod>2026-05-14T11:44:05-06:00</lastmod>
@@ -1398,9 +1404,6 @@
     <lastmod>2023-06-14T09:10:55-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/a-river-runs-through-it/</loc>
-    <lastmod>2023-06-10T13:24:17-06:00</lastmod>
-  </url><url>
-    <loc>https://un01s.github.io/notes/tags/movie/</loc>
     <lastmod>2023-06-10T13:24:17-06:00</lastmod>
   </url><url>
     <loc>https://un01s.github.io/notes/tags/norman-maclean/</loc>
