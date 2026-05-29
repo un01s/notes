@@ -6,8 +6,27 @@
     <description>Recent content on un01s notes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 13:03:43 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:26:02 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20260529</title>
+      <link>https://un01s.github.io/notes/posts/20260529/</link>
+      <pubDate>Fri, 29 May 2026 07:26:02 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20260529/</guid>
+      <description>&lt;h3 id=&#34;ai-cost&#34;&gt;AI cost&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Peter Steinberger shows his token usage with &lt;a href=&#34;https://codexbar.app&#34;&gt;codex.bar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;codex.bar&#34; loading=&#34;lazy&#34; src=&#34;https://un01s.github.io/notes/posts/20260529/codex.bar.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun&#34;&gt;Microsoft drops Claude code after budget overrun&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Microsoft&amp;rsquo;s Claude Code pilot burned through its full annual AI budget in months due to token-based billing, triggering a June 30 cancellation.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forbes.com/sites/janakirammsv/2026/05/17/uber-burns-its-2026-ai-budget-in-four-months-on-claude-code/&#34;&gt;Uber burns its 2026 AI budget in 4 months on Claude code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Carpe Diem, life is too short</title>
       <link>https://un01s.github.io/notes/posts/20260525/</link>
