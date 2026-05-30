@@ -7,13 +7,13 @@ draft: false
 
 人们最爱用这一种思想来欺骗自己；往往当我们因为自己行为不慎而遭逢不幸的时候，我们就会把我们的灾祸归怨于日月星辰，好像我们做恶人也是命中注定，做傻瓜也是出于上天的旨意，做无赖，做盗贼，做叛徒，都是受到天体运行的影响，酗酒，造谣，奸淫，都有一颗什么星在那儿主持操纵，我们无论干什么罪恶的行为，全都是因为有一种超自然的力量在冥冥之中驱策着我们。-- [李尔王 第一幕 第二场](https://www.litcharts.com/shakescleare/shakespeare-translations/king-lear)
 
+EDMUND: This is the excellent foppery of the world that when we are sick in fortune — often the surfeit of our own behavior — we make guilty of our disasters the sun, the moon, and the stars, as if we were villains by necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence, and all that we are evil in by a divine thrusting-on. An admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star! My father compounded with my mother under the dragon’s tail and my nativity was under Ursa Major, so that it follows I am rough and lecherous. Fut, I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing. 
+
 ### 林夕(梁伟文)
 
 * book: 曾经 - 林夕90前后, 2009
 
 > 据说狗的一切起居行藏都以气味为依归，而我们人只依重一双眼，所以好色。有一天假如我们都瞎了，所有的感情都只好寄放在气味之中。这是我住的地方，这是我家人朋友情人的气味，永远忠实。 连指头都不大可靠。皮肤会日渐衰老皱折，像一幅颓败剥落的墙。
-
-> 回顾永远是今不如昔。
 
 > 我发觉，原来曾经写下的惘然，亦早已预伏了答案，同一样的风景，不一样的看法，得出不一样的解读，只因我们在莫失莫忘中边走边唱，边唱边成长。 今天由过去一路走来，而未来也为今天而改变，所以，抚摸那可爱或可悯的曾经，就仿如触摸下一个未知无解的将来。
 
@@ -33,10 +33,22 @@ draft: false
 
 > 航空港成了我生活的某种象征，在出发与抵达之间，告别与重逢之间，虚与实之间，生与死之间。 航空港宽敞明亮，四季如春，有如未来世界。 在行走中我们失去很多，失去的往往又成了财富。 
 
-### [Stefan Zweig](https://en.wikipedia.org/wiki/Stefan_Zweig): The World of Yesterday
+
+### notes 
+
+> 有些话留在心里，只有你知道。有些话写在纸上，别人也可以知道。留在时光中的只言片语不知道谁会知道。
+
+* [Stefan Zweig](https://en.wikipedia.org/wiki/Stefan_Zweig): The World of Yesterday
 
 > “Art can bring us consolation as individuals,” he said, “but it is powerless against reality.”
 
+* Book: Selected Letters Of James Joyce, by James Joyce and Richard Ellmann
+
+* 乔伊斯书信集, 作者: (爱尔兰)詹姆斯·乔伊斯, 译者: 蒲隆
+
+* Nora: The Biography of Nora Joyce, by Brenda Maddox
+
+* Story of the Eye by Georges Bataille
 
 ### AI cost: the token for AI/LLM is like the coin for slot machines
 
