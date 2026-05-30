@@ -1,11 +1,11 @@
 ---
-title: "回顾永远是今不如昔"
+title: "回顾总是今不如昔"
 date: 2026-05-29T07:26:02-06:00
-tags: ["AI cost", "林夕", "北岛"]
+tags: ["AI cost", "林夕", "北岛", "Stefan Zweig"]
 draft: false
 ---
 
-人们最爱用这一种思想来欺骗自己；往往当我们因为自己行为不慎而遭逢不幸的时候，我们就会把我们的灾祸归怨于日月星辰，好像我们做恶人也是命中注定，做傻瓜也是出于上天的旨意，做无赖，做盗贼，做叛徒，都是受到天体运行的影响，酗酒，造谣，奸淫，都有一颗什么星在那儿主持操纵，我们无论干什么罪恶的行为，全都是因为有一种超自然的力量在冥冥之中驱策着我们。-- 李尔王 第一幕 第二场
+人们最爱用这一种思想来欺骗自己；往往当我们因为自己行为不慎而遭逢不幸的时候，我们就会把我们的灾祸归怨于日月星辰，好像我们做恶人也是命中注定，做傻瓜也是出于上天的旨意，做无赖，做盗贼，做叛徒，都是受到天体运行的影响，酗酒，造谣，奸淫，都有一颗什么星在那儿主持操纵，我们无论干什么罪恶的行为，全都是因为有一种超自然的力量在冥冥之中驱策着我们。-- [李尔王 第一幕 第二场](https://www.litcharts.com/shakescleare/shakespeare-translations/king-lear)
 
 ### 林夕(梁伟文)
 
@@ -32,6 +32,11 @@ draft: false
 > 如果你是条船，漂泊就是你的命运，可别靠岸。
 
 > 航空港成了我生活的某种象征，在出发与抵达之间，告别与重逢之间，虚与实之间，生与死之间。 航空港宽敞明亮，四季如春，有如未来世界。 在行走中我们失去很多，失去的往往又成了财富。 
+
+### [Stefan Zweig](https://en.wikipedia.org/wiki/Stefan_Zweig): The World of Yesterday
+
+> “Art can bring us consolation as individuals,” he said, “but it is powerless against reality.”
+
 
 ### AI cost: the token for AI/LLM is like the coin for slot machines
 
