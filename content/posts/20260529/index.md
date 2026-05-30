@@ -5,10 +5,15 @@ tags: ["AI cost", "林夕", "北岛", "Stefan Zweig"]
 draft: false
 ---
 
-人们最爱用这一种思想来欺骗自己；往往当我们因为自己行为不慎而遭逢不幸的时候，我们就会把我们的灾祸归怨于日月星辰，好像我们做恶人也是命中注定，做傻瓜也是出于上天的旨意，做无赖，做盗贼，做叛徒，都是受到天体运行的影响，酗酒，造谣，奸淫，都有一颗什么星在那儿主持操纵，我们无论干什么罪恶的行为，全都是因为有一种超自然的力量在冥冥之中驱策着我们。-- [李尔王 第一幕 第二场](https://www.litcharts.com/shakescleare/shakespeare-translations/king-lear)
+> To live is to suffer, to survive is to find some meaning in the suffering. -- Friedrich Nietzsche
 
-EDMUND: This is the excellent foppery of the world that when we are sick in fortune — often the surfeit of our own behavior — we make guilty of our disasters the sun, the moon, and the stars, as if we were villains by necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence, and all that we are evil in by a divine thrusting-on. An admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star! My father compounded with my mother under the dragon’s tail and my nativity was under Ursa Major, so that it follows I am rough and lecherous. Fut, I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing. 
+> To live is the rarest thing in the world. Most people exist, that is all. -- Oscar Wilde
 
+> The deepest form of slavery is the hunger for being understood. - Fyodor Dostoevsky
+
+> 人们最爱用这一种思想来欺骗自己；往往当我们因为自己行为不慎而遭逢不幸的时候，我们就会把我们的灾祸归怨于日月星辰，好像我们做恶人也是命中注定，做傻瓜也是出于上天的旨意，做无赖，做盗贼，做叛徒，都是受到天体运行的影响，酗酒，造谣，奸淫，都有一颗什么星在那儿主持操纵，我们无论干什么罪恶的行为，全都是因为有一种超自然的力量在冥冥之中驱策着我们。-- [李尔王 第一幕 第二场](https://www.litcharts.com/shakescleare/shakespeare-translations/king-lear)
+
+> EDMUND: This is the excellent foppery of the world that when we are sick in fortune — often the surfeit of our own behavior — we make guilty of our disasters the sun, the moon, and the stars, as if we were villains by necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence, and all that we are evil in by a divine thrusting-on. An admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star! My father compounded with my mother under the dragon’s tail and my nativity was under Ursa Major, so that it follows I am rough and lecherous. Fut, I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing. 
 ### 林夕(梁伟文)
 
 * book: 曾经 - 林夕90前后, 2009
@@ -33,10 +38,23 @@ EDMUND: This is the excellent foppery of the world that when we are sick in fort
 
 > 航空港成了我生活的某种象征，在出发与抵达之间，告别与重逢之间，虚与实之间，生与死之间。 航空港宽敞明亮，四季如春，有如未来世界。 在行走中我们失去很多，失去的往往又成了财富。 
 
+### capital and capitalism
 
+* book: [David Harvey](https://en.wikipedia.org/wiki/David_Harvey), The Story of Capital: What Everyone Should Know About How Capital Works (2026)
+
+* book: Empire of Cotton: A Global History, by Sven Beckert
+
+* book: [Sven Beckert](https://en.wikipedia.org/wiki/Sven_Beckert),Capitalism: a global history, 2025
+
+what is capital? what is capitalism? capital is the money that circulates through the power structures? anti-capitalism is not an-ism but enhancing the capitalism while trying against it.
+ 
 ### notes 
 
-> 有些话留在心里，只有你知道。有些话写在纸上，别人也可以知道。留在时光中的只言片语不知道谁会知道。
+> 有些话留在心里，只有你知道。说出来，有人听得到。写在信里，有人可以读道。而留在时光中的只言片语，就不知道谁还会知道。
+
+> 欲望必须寻找一个出口，然后穿上华丽的装扮，才可以粉墨登场。有身子，就以身悦人。有美貌，就以颜值倾城。有思想，就用主意互搏。有聪明才干，就拿机巧切磋。
+
+> Whatever the cost of our libraries, the price is cheap compared to that of an ignorant nation. -- [Walter Kronkite](https://en.wikipedia.org/wiki/Walter_Cronkite)
 
 * [Stefan Zweig](https://en.wikipedia.org/wiki/Stefan_Zweig): The World of Yesterday
 
@@ -49,6 +67,40 @@ EDMUND: This is the excellent foppery of the world that when we are sick in fort
 * Nora: The Biography of Nora Joyce, by Brenda Maddox
 
 * Story of the Eye by Georges Bataille
+
+* [黄正平, 华夏文摘](http://hx.cnd.org/?s=%E9%BB%84%E6%AD%A3%E5%B9%B3)
+
+> [嫉妒与爱欲--记乔伊斯和诺拉, 20260530](http://hx.cnd.org/?p=259245): 当《尤利西斯》中的莫莉呼喊：“给我一个抚摸吧，利奥波德！天哪，我渴望得到它”，乔伊斯让整个世界听见了女性欲望的真实声音。这是诺拉的声音。
+
+> [镜中的女人--记普鲁斯特的女仆塞莱斯特, 20250814](http://hx.cnd.org/?p=248906): "在阿尔贝蒂娜的原型身上，我看到了青春、自然和随性的强大魅力，它能唤起了某种热切而痛苦的回忆，这是一首献给女性青春和美丽的颂歌。" 阿尔贝蒂娜（Albertine）这个名字与塞莱斯特的姓Albaret在发音上很接近，在词源学上是同源的。"我在她身边工作。她对文学作品有一种本能的理解，比许多聪明人更准确，更不要说那些笨人了。”这也让人联想到普鲁斯特身边确实有一个这么通灵性的女仆。
+
+> "普鲁斯特在《追忆》一书里反复表达的一个重要意念，就是失去的天堂才是真正的天堂，想象中的爱情才是真正的爱情。" 生活中的诗意不过是想象中的美好？
+
+> “对德·盖尔芒特公爵夫人，我只有在与她相隔一段距离的时候才能感知她的魅力。一旦来到她身边，这种魅力便烟消云散，因为它只存在于我的记忆和想象之中。” (《盖尔芒特家那边》)
+
+> 对阿尔贝蒂娜，他把她比作一朵玫瑰，但更希望这是一朵遥远的、想象中的玫瑰：“只要有人对我说起她，我就仿佛看到了一朵海边的玫瑰花。……但是，如果没有我的想象力使它在遥远的海边晃动，而是让它静止地呆在我的身边，那么，它对我也常常是一朵可怜的玫瑰花，在它面前，我宁愿闭上双眼，以便不看到花瓣上的某个瑕点，以便相信自己在海滩上呼吸。” （《在少女们身旁》）
+
+> 种种迹象表明，两人关系不仅仅限于主仆，而是有一种家人般的亲切、亲密，甚至还可以说有点暧昧。但同样清楚的是，并没有任何直接的证据可以说明他们之间存在着情人关系。这曾让我感到非常疑惑不解：在这几乎是密闭的空间里这对孤男寡女有可能长期保持这种若即若离的状态吗？
+
+* 致如花的年轻女郎：带刺的蔷薇，镜中天空般的眼睛，圣女贞德般的微笑，似乎在朝我们微笑。但是，错了。他的丈夫，亲爱的奥迪隆俯身持镜，有如提香在他的劳拉·迪安蒂的画中；但她，映照在两面镜子间，不是在对奥迪隆也不是对我微笑，而是在对她自己微笑。马塞尔·普鲁斯特。
+
+> 普鲁斯特提到了十六世纪意大利画家提香的名作《镜中的女人》，画中一位男子（一般认为是提香本人），正拿着两枚镜子，给正在梳妆的年轻情妇从前后两边打照。
+
+> 普鲁斯特在这里用了一个障眼法：他不方便直接把自己当作画中的男人，所以又把女角的丈夫也拉了进来。其实，只有他才是“劳拉”即塞莱斯特真正的欣赏者。不过，他要欣赏的不是现实里的塞莱斯特，而是镜子中的塞莱斯特。
+
+> 我觉得这与中国古典诗学中崇尚的水中月、镜中花的意象理论有不谋而合之处。而普鲁斯特在上述给塞莱斯特书中的题辞要传达的正是同一个境界：他更愿意把塞莱斯特当作一个想象中的红颜知己，一个遥远的意中人，可望不可即。
+
+> 塞莱斯特的微笑，不是在朝男人微笑，而是在对她自己微笑。塞莱斯特是个骄傲、独立的女子，充满了自尊甚至有点自恋。这一点我们在阅读她的回忆录《普鲁斯特先生》时可以明显地感觉出来。全书名义上是介绍普鲁斯特，但在书中占据中心地位的是她本人。
+
+> 普鲁斯特在与塞莱斯特相处的八年里，做到了常人难以做到的事，即维持着场面上的主仆关系，又保持着梦中情人般的精神链接。而塞莱斯特也有着同样的微妙默契，从而达成了文学史上的美谈。在一次电视讨论会上，有个女记者向塞莱斯特发出了一个终极问题：“您当时是否爱上了普鲁斯特 ? ”塞莱斯特有些不知所措了，她一边摇着头否认，一边嘴里说：“我爱他！”没有比这个模棱两可的回答更能说明他俩的关系了。
+
+* [高贵的背叛 -- 卡夫卡逝世百年祭](http://hx.cnd.org/?p=233239)
+
+> 对这种写作狂热，卡夫卡自己的解释是：“我喜欢描绘自己梦幻般的内心世界，我是由文学构成的， 一切非文学的东西都让我厌烦“，”写作是我生命中最明确的方向，一切都朝着它奔涌而去，而一切其它，包括性、吃喝，都变得无足轻重。”孟子的那句“食色，性也 ”似乎对他不适用，他只有“写，性也”。他像上帝派到人间的天使，匆匆忙忙地把要表达的东西写出来，又匆匆忙忙地赶回上帝那里去了。我们在很多英年早逝的艺术家，莫扎特、舒伯特、肖邦那里看到的是同样的情况，他们都仿佛用自己的生命化作音符洒向人间，然后便悄然离去。
+
+> 美籍以色列作家本杰明·巴林特（Benjamin Balint）在他的成名作《卡夫卡的最后审判》里有个精彩的评论，他认为布罗德是“第一个中了卡夫卡魔咒的人”。“卡夫卡魔咒”是指某种神秘力量，被它缠上后，你将沉迷于某事而无法自拔，就像卡夫卡笔下所描绘的角色 。对比布罗德的行为，这个形容也真有点道理。不过我想，最大的可能是布罗德凭他的直觉，感觉到了卡夫卡的文字里存在着了不起的、将颠覆文学传统的东西，但他说不清楚这究竟是什么东西。假如真是这样的话，倒与陶渊明悠然见南山时的心境相合：“此中有真意，欲辩已忘言。”
+
+> 可以肯定，没有布罗德，卡夫卡的作品早就消散殆尽。假如说，卡夫卡是上帝派来人间写作的天使，布罗德则是上帝同时派出的另一个天使，其使命就是把卡夫卡的文字变成印刷品。
 
 ### AI cost: the token for AI/LLM is like the coin for slot machines
 
