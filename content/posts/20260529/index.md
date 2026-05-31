@@ -1,7 +1,7 @@
 ---
 title: "回顾总是今不如昔"
 date: 2026-05-29T07:26:02-06:00
-tags: ["AI cost", "林夕", "北岛", "Stefan Zweig"]
+tags: ["AI cost", "林夕", "北岛", "Stefan Zweig", "anais nin"]
 draft: false
 ---
 
@@ -14,6 +14,20 @@ draft: false
 > 人们最爱用这一种思想来欺骗自己；往往当我们因为自己行为不慎而遭逢不幸的时候，我们就会把我们的灾祸归怨于日月星辰，好像我们做恶人也是命中注定，做傻瓜也是出于上天的旨意，做无赖，做盗贼，做叛徒，都是受到天体运行的影响，酗酒，造谣，奸淫，都有一颗什么星在那儿主持操纵，我们无论干什么罪恶的行为，全都是因为有一种超自然的力量在冥冥之中驱策着我们。-- [李尔王 第一幕 第二场](https://www.litcharts.com/shakescleare/shakespeare-translations/king-lear)
 
 > EDMUND: This is the excellent foppery of the world that when we are sick in fortune — often the surfeit of our own behavior — we make guilty of our disasters the sun, the moon, and the stars, as if we were villains by necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence, and all that we are evil in by a divine thrusting-on. An admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star! My father compounded with my mother under the dragon’s tail and my nativity was under Ursa Major, so that it follows I am rough and lecherous. Fut, I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing. 
+### 
+
+* [读杜欣欣《星辰凝视着潮汐：我的家族故事》](http://hx.cnd.org/?p=155834) 
+
+> “我和暮年的母亲手挽手，走在一条名为科罗拉多的街道上。走着走着，她突然说：‘你小时候，我半夜醒来，看着熟睡的你，总在想不知道你会遭遇什么。’”而欣欣的父亲几年前对她说，他经常在凌晨醒来，“有时醒来，我会想起那些岁月，会很难过。每当此时，我就回想小时候唱过的歌，我小声唱着，就不难过了。”
+
+这样平静、淡然的话，由经历了大江大海的沧桑之人不意间说出来，再由经历了少小颠簸、父母离散的作者忠实而简洁地记下来，令人不忍卒读。初读时骤然涕泗滂沱，日后每每想起，亦必心中惨痛，潸然泪下。
+
+* [跟着杜欣欣探世界――读《此一去万水千山》](http://hx.cnd.org/2013/03/09/%E4%BA%8E%E7%8F%88%EF%BC%9A%E8%B7%9F%E7%9D%80%E6%9D%9C%E6%AC%A3%E6%AC%A3%E6%8E%A2%E4%B8%96%E7%95%8C%E2%80%95%E2%80%95%E8%AF%BB%E3%80%8A%E6%AD%A4%E4%B8%80%E5%8E%BB%E4%B8%87%E6%B0%B4%E5%8D%83%E5%B1%B1/)
+
+> “山脊的褶皱透尽苍凉，若干绿树窝在灰色褶皱里，好像失去母亲的孩子，必须依靠年迈的祖母照抚。”（《班公湖去来》P110）
+
+杜欣欣说到她写作时的两种体验。一种是孕妇分娩般的剧痛，肚子里有货，就是出不来；一种是把巧克力衔在嘴里，让它慢慢融化，细细体味着甜蜜一点点扩散。白纸黑字间，渗透着如许的甜和苦。读者享受到的，却是一次五彩纷呈的环球神游。
+
 ### 林夕(梁伟文)
 
 * book: 曾经 - 林夕90前后, 2009
@@ -101,6 +115,36 @@ what is capital? what is capitalism? capital is the money that circulates throug
 > 美籍以色列作家本杰明·巴林特（Benjamin Balint）在他的成名作《卡夫卡的最后审判》里有个精彩的评论，他认为布罗德是“第一个中了卡夫卡魔咒的人”。“卡夫卡魔咒”是指某种神秘力量，被它缠上后，你将沉迷于某事而无法自拔，就像卡夫卡笔下所描绘的角色 。对比布罗德的行为，这个形容也真有点道理。不过我想，最大的可能是布罗德凭他的直觉，感觉到了卡夫卡的文字里存在着了不起的、将颠覆文学传统的东西，但他说不清楚这究竟是什么东西。假如真是这样的话，倒与陶渊明悠然见南山时的心境相合：“此中有真意，欲辩已忘言。”
 
 > 可以肯定，没有布罗德，卡夫卡的作品早就消散殆尽。假如说，卡夫卡是上帝派来人间写作的天使，布罗德则是上帝同时派出的另一个天使，其使命就是把卡夫卡的文字变成印刷品。
+
+* [意识的飘带 -- 《追忆似水年华》随想之一, 2016](http://hx.cnd.org/?p=130037)
+
+liseré，可译作带子、缎带、花边，等等，主要是指裙子、窗帘等织物上薄薄的镶边纱带。在小说中这个词除了被用作本意外，有三次被作为隐喻使用。
+
+> Quand je voyais un objet extérieur, la conscience que je le voyais restait entre moi et lui, le bordait d’un mince liseré spirituel qui m’empêchait de jamais toucher directement sa matière ; elle se volatilisait en quelque sorte avant que je prisse contact avec elle, comme un corps incandescent qu’on approche d’un objet mouillé ne touche pas son humidité parce qu’il se fait toujours précéder d’une zone d’évaporation. (CS，I，P178)
+
+> 我看见了某物，在我脑海里就产生了关于这某物的意识。这个意识像是一层飘带，横亘在我和物之间，阻碍了我和物的直接接触。在我同此物接上关系前，它又仿佛飘然消散。好比你拿着一件炽热的东西，去碰一件湿淋淋的物体，炽热的东西将接触不到那件物体上的潮湿，因为在触及前水分总是先已气化了。
+
+> Cette belle fille que j’apercevais encore, tandis que le train accélérait sa marche, c’était comme une partie d’une vie autre que celle que je connaissais, séparée d’elle par un liseré, et où les sensations qu’éveillaient les objets n’étaient plus les mêmes ; et d’où sortir maintenant eût été comme mourir à moi-même. （OJF，II， P117）
+
+> 原句源于这么一个场景：清晨，叙述者在火车中醒来，窗外红日东升，一片灿烂；一个美丽的高个子农场姑娘扛着一罐牛奶出现在站台上，向旅客出售牛奶咖啡。此情此景让叙述者精神一振，一幅他从来没有经历过的生活画面展现在他脑海里，一种甜蜜幸福的感觉弥漫全身。而随着火车的启动，场景消失，他的感觉和意识又回到原来的状态。这种“原来的感觉和意识”就成为一种“飘带”，把另一个世界隔了开来，以致使他甚至有了要死去的感觉。
+
+> Car il y a entre nous et les êtres un liséré de contingences, comme j’avais compris, dans mes lectures de Combray, qu’il y en a un de perception et qui empêche la mise en contact absolue de la réalité et de l’esprit. （TR，III，P240）
+
+> 在人与人相互认识的过程中，作为意识一部分的感觉起了某种隔阂的作用，它妨碍我们达到人的本质深处，或者说妨碍我们真正掌握人性的现实。
+
+这个主题就是人的意识和外部世界的关系。这里要表达的不是意识和物质究竟是哪个起决定作用或者相互影响到什么程度的问题，而是我们内心的意识在感知外部世界时是处于一个什么状态，这种状态又是如何影响到我们对外部世界的感知，以及我们在生命意识中建立起来的世界，与它要映射的外部世界是什么关系，或者说它们之间究竟差别到什么程度，而最后，我们在这种差别下如何建立我们“真正的现实” 、体验我们“真正的生活”、找回我们“失去的时光”。说到底就是什么是真实的终极问题。
+
+> 在很长一段时期里，我都是早早就躺下了。有时候，蜡烛才灭，我的眼皮儿随即合上，都来不及咕哝一句：“我要睡着了。”半小时之后，我才想到应该睡觉；这一想，我反倒清醒过来。我打算把自以为还捏在手里的书放好，吹灭灯火。（《在斯万家那边》第一卷，P3）
+
+我们的日常意识只能在时间的序列里毫无意义地流淌，从来不能深入到永恒的现实里，因为我们的日常意识是一层飘带，始终把我们与现实世界分开。对于生命来说，重要的是我们的心灵要找到合适的归宿，要在时间的序列里面找到非时间性的元素，否则的话，一个人即使长命百岁，哪怕身体一直保持健康，那也不能算真正生活过。
+
+> 庄子《秋水》：曰：“何谓天？何谓人？” 北海若曰：“牛马四足，是谓天；落马首，穿牛鼻，是谓人。故曰：无以人灭天，无以故灭命。”
+
+一般的理解是，“天”指天然、自然，“人”指人为，“故”指故意、有意，“命”指自然本性。因此这段话是说，牛马生就四只脚，这就叫天然；用马辔套住马头，用鼻环穿过牛鼻，这就叫人为；所以说，不要用人为去毁灭天然，不要用有意的作为去毁灭自然的禀性。
+
+> 我觉得，普鲁斯特的“意识的飘带”在很大程度上正是指这种意向，它给现实世界增加了本来没有的成份，从而使我们的认知从一开始就脱离了自然。
+
+感知让意识立足于现实，感知将意识指向真实的世界。脱离了感知的思辨可真可假。意识是否给真相蒙上了一层薄纱或一层飘带是不可知的（康德所说的先验知识即不可知），而感知到意识是我们最好的工具来认识现实，科学引入实证是重要的一环。
 
 ### AI cost: the token for AI/LLM is like the coin for slot machines
 
