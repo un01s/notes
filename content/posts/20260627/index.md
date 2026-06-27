@@ -116,6 +116,14 @@ there are moments or periods when the mode of investing is changing. for example
   
 ### notes
 
+* [J.R.R. Tolkien lecture: On Fantasy by Brandon Sanderson](https://tolkienlecture.org/2026/06/19/on-fantasy-by-brandon-sanderson-lecture-recording/)
+
+> [metafilter imagined as fiction, presented as fiction, and accepted as fiction](https://www.metafilter.com/213647/Imagined-as-fiction-presented-as-fiction-and-accepted-as-fiction)
+
+* [Russell Harty interviews Anthony Burgess in 1974: Anthony Burgess on his A Clockwork Orange, Youtube](https://www.youtube.com/watch?v=vESghBLHUac)
+
+* [the pillars of the earth, historical novel by Welsh author Ken Follett, 1989](https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth)
+
 * [Waveshare ESP32-S3-RLCD-4.2 + Solar OS](https://github.com/nilseuropa/solar_os)
 
 
