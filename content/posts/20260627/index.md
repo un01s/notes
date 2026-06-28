@@ -91,13 +91,17 @@ there are moments or periods when the mode of investing is changing. for example
 
 * munificence: the quality or action of being extremely generous
 
-> All I mean by original sin is that History shows us that given an opportunity to do good or to do evil, men will usually do evil. And it's no good blaming it on other people... That we're prone to evil... (after his first was mugged by four Amrican soldiers and died after) but it is a fact that however we pretend that life is all roses and honey, life can be pretty evil on occasions, and it's no good blaming anybody except man himself. We're all like that. Given the chance, we'll all be like that.
+* [Russell Harty interviews Anthony Burgess in 1974, youtube](https://www.youtube.com/watch?v=vESghBLHUac):
+
+> All I mean by original sin is that History shows us that given an opportunity to do good or to do evil, men will usually do evil. And it's no good blaming it on other people... to show what people are really like. That we're prone to evil... (after his first wife was mugged by four Amrican soldiers and died after during World War II) but it is a fact that however we pretend that life is all roses and honey, life can be pretty evil on occasions, and it's no good blaming anybody except man himself. We're all like that. Given the chance, we'll all be like that.
 
 > History shows that given an opportunity, man will do evil. Man goes on doing evil, and our problem is to learn how to live with it. It's not to pretend that there are solutions. There's no political solution, there's no moral solution. 
 
-> A model citizen by being brainwashed and by being made sick by being made nauseous by the very thought of eveil... But if a man cannot do wrong, he cannot do good. Because good is defined in terms of wrong, and wrong is defined in terms of good. It's a matter of choice. Good and evil are opposite. Good and evil are a pair. They, in a sense, are locked together. If we're incapable of doing evil, we're incapable of doing good, because good is only defined in terms of evil.
+> A model citizen by being brainwashed and by being made sick by being made nauseous by the very thought of eveil. This is the state taking over. If the state did take over, and the state can take over, God knows, then we would have a beautiful society in which nobody could do wrong. But if a man cannot do wrong, he cannot do good. Because good is defined in terms of wrong, and wrong is defined in terms of good. It's a matter of choice. Good and evil are opposite. Good and evil are a pair. They, in a sense, are locked together. If we're incapable of doing evil, we're incapable of doing good, because good is only defined in terms of evil... England, my own country, has opted for neutrality. We sit back and wait for things happen. We don't think that we ourselves have any responsibility to make things happen. We think it's a prerogative of the economists or the politicians who are straw men... politicians have proved that they have no answers to the problems we're going through, either the moral problems, the problems of inflation. therefore the answers to these problems must lie somewhere in the individual mind. Must lie in me, in you, in everybody.
 
-> All politicians are straw men. 
+> abstract party programs, abstract political terms. so easy, so simple, (but not right) history proves, our own experience proves, makes no difference to the actual situation. 
+
+> If this is so, we all have intellects. We're all the same. the choice is always ours. It is no good our pretending that the priviledge of thought is given to others not to ourselves. we ourselves have the right and moreover the duty to decide things for ourselves. This we're unwilling to do.
 
 ### [why is it so hard to be ordinary? by Joshua Rothman, May 22, 2026, New Yorker](https://archive.ph/Fa2V6)
 
@@ -204,6 +208,8 @@ One Ending, Ovid
 | ok | 0 | 2026-06-30 |
   
 ### notes
+
+* 1986年的5月9日，以纪念“国际和平年”为宗旨的中国百名歌星演唱会在北京工人体育馆举行，当时名不见经传的崔健穿着一件大长褂子，背着一把吉他，两裤脚一高一低地跑到了简陋的舞台上，吼出了他那首中国摇滚作品的开山之作——《一无所有》，从此，中国的摇滚乐开始了它的艰难之旅。
 
 * [W·B·Yeats 叶芝（1865—1939](https://en.wikipedia.org/wiki/W._B._Yeats）
 
