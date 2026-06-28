@@ -77,6 +77,95 @@ there are moments or periods when the mode of investing is changing. for example
 
 ![MAGS02](stockMAGS_ETF02.png)
 
+### [Anthony Burgess, 1917-1993](https://en.wikipedia.org/wiki/Anthony_Burgess) and his novel A Clockwork Orange (1962)
+
+* [the international Anthony Burgess foundation](https://www.anthonyburgess.org)
+
+> “The important thing is moral choice. Evil has to exist along with good, in order that moral choice may operate. Life is sustained by the grinding opposition of moral entities.” -- Anthony Burgess, A Clockwork Orange
+
+> “It is as inhuman to be totally good as it is to be totally evil.” -- Anthony Burgess, A Clockwork Orange
+
+> “Language exists less to record the actual than to liberate the imagination.” -- Anthony Burgess
+
+> “Art is dangerous. It is one of the attractions, when it ceases to be dangerous you don't want it.” ―- Anthony Burgess
+
+* munificence: the quality or action of being extremely generous
+
+> All I mean by original sin is that History shows us that given an opportunity to do good or to do evil, men will usually do evil. And it's no good blaming it on other people... That we're prone to evil... (after his first was mugged by four Amrican soldiers and died after) but it is a fact that however we pretend that life is all roses and honey, life can be pretty evil on occasions, and it's no good blaming anybody except man himself. We're all like that. Given the chance, we'll all be like that.
+
+> History shows that given an opportunity, man will do evil. Man goes on doing evil, and our problem is to learn how to live with it. It's not to pretend that there are solutions. There's no political solution, there's no moral solution. 
+
+> A model citizen by being brainwashed and by being made sick by being made nauseous by the very thought of eveil... But if a man cannot do wrong, he cannot do good. Because good is defined in terms of wrong, and wrong is defined in terms of good. It's a matter of choice. Good and evil are opposite. Good and evil are a pair. They, in a sense, are locked together. If we're incapable of doing evil, we're incapable of doing good, because good is only defined in terms of evil.
+
+> All politicians are straw men. 
+
+### [why is it so hard to be ordinary? by Joshua Rothman, May 22, 2026, New Yorker](https://archive.ph/Fa2V6)
+
+* compete to be excellent? **Society** as a whole is shaped by the relentless pursuit of excellence in every domain. is it the only problem in capitalism? did it happen before capitalism? If the problem is more, then it is a problem of desire and ambition. Then it's a problem of human nature over a very long time. More is overrated and enough is underrated all the time.
+
+* simply as a matter of statistics, the extraordinary is rare. in the book of The Overseer Class, that is simply "first something" such as first black president and so on.
+
+* "that takes our talents and turns them into a desire to win our spot at the top of competitive hierarchies.” This tendency is “at the heart of much that is wrong in our world.” 
+
+* the desire to be exceptional, or “great,” has been replaced with the aim of being “good enough.” A good-enough life, in Alpert’s view, is characterized by “decency and sufficiency.” It incorporates the idea of limitation—both in the sense that we’re all limited, and in the sense that others’ limitations are opportunities for mutual aid and connection. 
+
+* many people haven't internalized the concept of diminishing marginal utility/returns. but capitalism needs people to be dissatisfied, insecure and chasing the new hotness.
+
+* the diseased principles of maximal efficiency and maximal profit. but we are finite, right? 无为? we have to enjoy what we are doing, so that we could be good enough. Or it is miserable? "the survival of the fittest" rather than the survival of the fitter. But I don't think that success need be defined as being better than your neighbour: good enough is good enough.
+
+* There's a lot of joy in finding peace in having enough. From the Tao Te Ching:There is no greater calamity than not knowing contentment. There is no greater fault than the desire for gain. 
+
+> “知人者智，自知者明；胜人者有力，自胜者强。知足者富。强行者有志。不失其所者久，死而不亡者寿。” 《道德经》第三十三章
+
+> “名與身孰親﹖身與貨孰多﹖得與亡孰病﹖是故甚愛必大費，多藏必厚亡，知足不辱，知止不殆，可以長久。” 《道德经》第四十四章
+
+> “禍莫大於不知足；咎莫大於欲得。故知足之足，常足矣。” 《道德经》第四十六章
+
+* one poem 
+
+```
+When things are troublesome, always remember,
+keep an even mind, and in prosperity
+be careful of too much happiness:
+since my Dellius, you’re destined to die,
+whether you live a life that’s always sad,
+or reclining, privately, on distant lawns,
+in one long holiday, take delight
+in drinking your vintage Falernian.
+Why do tall pines, and white poplars, love to merge
+their branches in the hospitable shadows?
+Why do the rushing waters labour
+to hurry along down the winding rivers?
+Tell them to bring us the wine, and the perfume,
+and all-too-brief petals of lovely roses,
+while the world, and the years, and the dark
+threads of the three fatal sisters allow.
+You’ll leave behind all those meadows you purchased,
+your house, your estate, yellow Tiber washes,
+you’ll leave them behind, your heir will own
+those towering riches you’ve piled so high.
+Whether you’re rich, of old Inachus’s line,
+or live beneath the sky, a pauper, blessed with
+humble birth, it makes no difference:
+you’ll be pitiless Orcus’s victim.
+We’re all being driven to a single end,
+all our lots are tossed in the urn, and, sooner
+or later, they’ll emerge, and seat us
+in Charon’s boat for eternal exile.
+
+One Ending, Ovid
+```
+
+* Book: Fifth Business by Robertson Davies
+
+> Who are you? Where do you fit into poetry and myth? Do you know who I think you are, Ramsay? I think you are Fifth Business. You don't know what that is? Well, in opera in a permanent company of the kind we keep up in Europe you must have a prima donna -- always a soprano, always the heroine, often a fool; and a tenor who always plays the lover to her; and then you must have a contralto, who is a rival to the soprano, or a sorceress or something; and a basso, who is the villain or the rival or whatever threatens the tenor.
+
+> So far, so good. But you cannot make a plot work without another man, and he is usually a baritone, and he is called in the profession Fifth Business, because he is the odd man out, the person who has no opposite of the other sex. And you must have Fifth Business because he is the one who knows the secret of the hero's birth, or comes to the assistance of the heroine when she thinks all is lost, or keeps the hermitess in her cell, or may even be the cause of somebody's death if that is part of the plot. The prima donna and the tenor, the contralto and the basso, get all the best music and do all the spectacular things, but you cannot manage the plot without Fifth Business! It is not spectacular, but it is a good line of work, I can tell you, and those who play it sometimes have a career that outlasts the golden voices. Are you Fifth Business? You had better find out.
+
+* book: Amil Niazi’s Life After Ambition: A “Good Enough” Memoir
+
+* [in praise of leisure](https://www.laphamsquarterly.org/roundtable/praise-leisure)
+
 ### some writers
 
 * [Becky Chambers, 1985-, American science fiction writer](https://en.wikipedia.org/wiki/Becky_Chambers): To be taught, if fortunate (2019), A Psalm for the wild-built (2021)
@@ -116,6 +205,15 @@ there are moments or periods when the mode of investing is changing. for example
   
 ### notes
 
+* [W·B·Yeats 叶芝（1865—1939](https://en.wikipedia.org/wiki/W._B._Yeats）
+
+> 虽然枝条很多，根却只有一条；/穿过我青春的所有说谎的日子/我在阳光下抖掉我的枝叶花朵；/现在我可以枯萎而进入真理. 《随时间而来的智慧》
+
+> 袁可嘉等人主编的《外国现代派作品选》卞之琳、穆旦、袁可嘉、王佐良、杨牧等前辈诗人
+
+> 卞之琳《长时间沉默以后》（“身体的衰老是智慧，年纪轻轻，／我们当时相爱而实在无知”
+
+> 
 * [J.R.R. Tolkien lecture: On Fantasy by Brandon Sanderson](https://tolkienlecture.org/2026/06/19/on-fantasy-by-brandon-sanderson-lecture-recording/)
 
 > [metafilter imagined as fiction, presented as fiction, and accepted as fiction](https://www.metafilter.com/213647/Imagined-as-fiction-presented-as-fiction-and-accepted-as-fiction)
