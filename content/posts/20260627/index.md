@@ -1,7 +1,7 @@
 ---
 title: "fantasy"
 date: 2026-06-27T06:17:15-06:00
-tags: ["orwell", "kant", "Terry Pratchett", "investing", "cooking"]
+tags: ["orwell", "kant", "Terry Pratchett", "investing", "cooking", "Robertson Davies"]
 draft: false
 ---
 
@@ -14,6 +14,8 @@ draft: false
 > “The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.” -― Terry Pratchett, Diggers
 
 > "No... Humans need fantasy to be human. To be the place where the falling angel meets the rising ape." -- Terry Pratchett
+
+> “Happiness is always a by-product. It is probably a matter of temperament, and for anything I know it may be glandular. But it is not something that can be demanded from life, and if you are not happy you had better stop worrying about it and see what treasures you can pluck from your own brand of unhappiness.” -- Robertson Davies, The Enthusiasms of Robertson Davies
 
 ### [Kant and Hume by Emily Fitton](https://blog.apaonline.org/2025/04/09/kant-vs-hume-can-we-access-reality/)
 
@@ -160,7 +162,7 @@ in Charon’s boat for eternal exile.
 One Ending, Ovid
 ```
 
-* Book: Fifth Business by Robertson Davies
+* Book: Fifth Business by [Robertson Davies, 1913-1995, canadian novelist](https://en.wikipedia.org/wiki/Robertson_Davies)
 
 > Who are you? Where do you fit into poetry and myth? Do you know who I think you are, Ramsay? I think you are Fifth Business. You don't know what that is? Well, in opera in a permanent company of the kind we keep up in Europe you must have a prima donna -- always a soprano, always the heroine, often a fool; and a tenor who always plays the lover to her; and then you must have a contralto, who is a rival to the soprano, or a sorceress or something; and a basso, who is the villain or the rival or whatever threatens the tenor.
 
