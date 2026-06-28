@@ -172,6 +172,42 @@ One Ending, Ovid
 
 * [in praise of leisure](https://www.laphamsquarterly.org/roundtable/praise-leisure)
 
+### [Tolkien lecture: On Fantasy by Brandon Sanderson](https://www.brandonsanderson.com/blogs/blog/on-fantasy-tolkien-lecture-oxford-2026)
+
+* innovation 4: stakes
+
+> Stakes aren’t enough to make a story work; it must be stakes mixed with a personal relationship with the characters living them.
+
+> A story is only as thrilling as our worry for the people in it, and a magic is only as intriguing as our curiosity about how it affects people we love. Gollum is, in this, one of the most important people in the whole story—because he let us see the conflict between honor and greed on an individual level. Will be become the person Frodo sees in him, or will be become the person the ring wants? Likewise, the stakes of a world ending only work because we care, and we cry, and we hurt as Sam carries Frodo up the mountain.  
+
+> Epic fantasy is, then, a conundrum. It is a story where often the entire world is threatened, but we can’t care about that as much as we care about a gardener who just wants to go home. As stated by folklorist Jack Zipes, “In fantasy, the little person is raised to the position of God.” 
+
+* innovation 5: immersion
+
+> Many of the pre-Tolkien secondary world fantasies read this way; like a stroll through a portal fantasy, merely without the portal.
+
+> We can all agree that Middle-earth is different. It reads not as a whimsical adventure and more a serious historical record from a world that never actually existed. Part of this is the use of ephemera; the first thing you see when opening the Hobbit, for example, is a map—not just any map, the exact map used in the book, by the characters. 
+
+* In “On Fairy-Stories,” Tolkien talks about three key emotions that come from reading the fantastical: Recovery, Escape, and Consolation. He talks at length in interesting ways about these ideas, and so of course I encourage you to read the essay itself. In short, one core idea of these three is that these stories help us see the world anew. To recover our view of reality, and the inherent wonder in it. 
+
+* Why fantasy? Why do people love this genre so much? Why does it get its hooks in us, inspire us, stay with us? It’s been a hundred years, almost, since Tolkien wrote his famous line about a Hobbit in a hole. Why are we still celebrating what he created with such lively enthusiasm? 
+
+* My first answer to this is simple: Why art at all? Why Starry Night? Why Clair De Lune? Can’t a thing simply be beautiful, and that is the reason?  
+
+* Still, I strive for something more, though I know I cannot answer their question, not fully. Because I can’t speak for a genre, or for art itself. In the end, all I can do is attempt to explain, in the smallest part, why I love fantasy. 
+
+> As a person ages, I like to think they understand that definitions, like people, are fuzzy things, resisting attempts to lock them down. Words, like swords, get worn down over time, the edges resharpened until their shape sometimes only resembles the original forged creation.  
+
+> Imagining the world as different from the way it is now is, after a fashion, a fiction.  We live in the real world, as it exists, no matter how much we dream of a different one. And yet, we dream anyway. Because if the world is to change, if tomorrow is going to be a better version of today, that starts with imagination.  
+
+In the books I read as a young man, same as the books I read today, I learn about the world. More importantly, I learn about people—how they feel, think, dream, and love. Fantasy isn’t about the past, no more than science fiction is about the future.  These books are about learning the minds and hearts of other people. Moreover, fantasy novels are about challenging and improving the reader’s imagination.  
+
+And so these books provide two simple goods we could desperately use more of today. Empathy. And hope. 
+
+Why fantasy? Because every good thing in the world starts as a fantasy, at some point. Then we dream it into reality. Fantasy is the genre of the impossible, I still insist.
+
+But the people it inspires are exquisitely real. 
+
 ### some writers
 
 * [Becky Chambers, 1985-, American science fiction writer](https://en.wikipedia.org/wiki/Becky_Chambers): To be taught, if fortunate (2019), A Psalm for the wild-built (2021)
@@ -220,8 +256,7 @@ One Ending, Ovid
 > 袁可嘉等人主编的《外国现代派作品选》卞之琳、穆旦、袁可嘉、王佐良、杨牧等前辈诗人
 
 > 卞之琳《长时间沉默以后》（“身体的衰老是智慧，年纪轻轻，／我们当时相爱而实在无知”
-
-> 
+ 
 * [J.R.R. Tolkien lecture: On Fantasy by Brandon Sanderson](https://tolkienlecture.org/2026/06/19/on-fantasy-by-brandon-sanderson-lecture-recording/)
 
 > [metafilter imagined as fiction, presented as fiction, and accepted as fiction](https://www.metafilter.com/213647/Imagined-as-fiction-presented-as-fiction-and-accepted-as-fiction)
