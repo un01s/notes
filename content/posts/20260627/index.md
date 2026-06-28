@@ -174,6 +174,12 @@ One Ending, Ovid
 
 ### [Tolkien lecture: On Fantasy by Brandon Sanderson](https://www.brandonsanderson.com/blogs/blog/on-fantasy-tolkien-lecture-oxford-2026)
 
+* [lecture recording](https://tolkienlecture.org/2026/06/19/on-fantasy-by-brandon-sanderson-lecture-recording/)
+
+fantasy is a fiction. fantasy is about impossible. Fantasy uses fantasy aethetic. portal fantasy. heoric fantasy. epic fantasy.
+
+22 minutes
+
 * innovation 4: stakes
 
 > Stakes aren’t enough to make a story work; it must be stakes mixed with a personal relationship with the characters living them.
