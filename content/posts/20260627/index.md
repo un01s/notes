@@ -244,6 +244,14 @@ But the people it inspires are exquisitely real.
 
 * John Steinbeck, The Grapes of wrath
 
+* [France Inter Paris radio](https://www.radiofrance.fr/fip)
+
+* [LoveFIP](https://lovefip.wordpress.com)
+
+* [France Musique](https://www.radiofrance.fr/francemusique)
+
+* [radio france](https://www.radiofrance.fr/franceculture)
+
 ### records
 
 | t | sales | date |
