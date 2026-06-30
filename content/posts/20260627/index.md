@@ -79,6 +79,8 @@ there are moments or periods when the mode of investing is changing. for example
 
 ![MAGS02](stockMAGS_ETF02.png)
 
+![US dollar vs Japanese Yuan](USDJPY0630.png)
+
 ### [Anthony Burgess, 1917-1993](https://en.wikipedia.org/wiki/Anthony_Burgess) and his novel A Clockwork Orange (1962)
 
 * [the international Anthony Burgess foundation](https://www.anthonyburgess.org)
@@ -240,6 +242,8 @@ But the people it inspires are exquisitely real.
 
 * [Adrian Tchaikovsky, 1972-, British fantasy and science fiction writer](https://en.wikipedia.org/wiki/Adrian_Tchaikovsky): Children of Time, 2015
 
+* John Steinbeck, The Grapes of wrath
+
 ### records
 
 | t | sales | date |
@@ -252,6 +256,8 @@ But the people it inspires are exquisitely real.
 | ok | 0 | 2026-06-30 |
   
 ### notes
+
+* [Anji Bridge, 安济桥,595-605](https://en.wikipedia.org/wiki/Anji_Bridge): 赵州桥, 1950年代翻修焕然一新.
 
 * 1986年的5月9日，以纪念“国际和平年”为宗旨的中国百名歌星演唱会在北京工人体育馆举行，当时名不见经传的崔健穿着一件大长褂子，背着一把吉他，两裤脚一高一低地跑到了简陋的舞台上，吼出了他那首中国摇滚作品的开山之作——《一无所有》，从此，中国的摇滚乐开始了它的艰难之旅。
 
