@@ -89,6 +89,10 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/un01s/"
+        - name: bsky
+          url: "https://bsky.app/profile/un01s.bsky.social"
+        - name: fip
+          url: "https://www.radiofrance.fr/fip"
 
 taxonomies:
     category: categories
