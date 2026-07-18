@@ -6,8 +6,87 @@
     <description>Recent content in Ai on un01s notes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 06:45:58 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 05:51:23 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>顿悟需要积累</title>
+      <link>https://un01s.github.io/notes/posts/20260712/</link>
+      <pubDate>Sun, 12 Jul 2026 05:51:23 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/posts/20260712/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;人生天地间，忽如远行客。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;故不积跬步，无以至千里；不积小流，无以成江海。&amp;ndash; 先秦荀子《劝学》&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Life always offers you a second chance. It is called tomorrow. &amp;ndash; Dylan Thomas&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;以前与猫有关的绰号都在我家猫身上一一应验了，比如夜猫子、萌猫、小馋猫或者小懒猫。&lt;/p&gt;
+&lt;h3 id=&#34;earthseed-the-book-of-living&#34;&gt;&lt;a href=&#34;https://godischange.org/the-book-of-the-living/&#34;&gt;Earthseed: the book of living&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;All struggles
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Are essentially
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;power struggles.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Who will rule,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Who will lead,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Who will define,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;refine,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;confine,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;design,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Who will dominate.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;All struggles
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Are essentially power struggles,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;And most are no more intellectual
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;than two rams
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;knocking their heads together.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;investing&#34;&gt;investing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;20260714: IBM stock plunged 25% Tuesday, its worst since 1968 as money rushed to chips and servers from software (Atlassian, ServiceNow, and Adobe) except cybersecurity such as CrowdStrike, PaloAltoNetworks and Fortinet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-art-of-boolean-prefixes-to-name-your-variables&#34;&gt;&lt;a href=&#34;https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/&#34;&gt;the art of boolean prefixes to name your variables&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;prefix&lt;/th&gt;
+          &lt;th&gt;domain&lt;/th&gt;
+          &lt;th&gt;function&lt;/th&gt;
+          &lt;th&gt;examples&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;is&lt;/td&gt;
+          &lt;td&gt;identity and state&lt;/td&gt;
+          &lt;td&gt;what an object is&lt;/td&gt;
+          &lt;td&gt;isActive, isEmpty, isDeleted&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;has&lt;/td&gt;
+          &lt;td&gt;containment and features&lt;/td&gt;
+          &lt;td&gt;ownership or feature presence&lt;/td&gt;
+          &lt;td&gt;hasAccess, hasChildren&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;can&lt;/td&gt;
+          &lt;td&gt;capability&lt;/td&gt;
+          &lt;td&gt;permission or potential action&lt;/td&gt;
+          &lt;td&gt;canEdit, canDelete, canRetry&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;should&lt;/td&gt;
+          &lt;td&gt;intent or logic&lt;/td&gt;
+          &lt;td&gt;a business rule recommendation&lt;/td&gt;
+          &lt;td&gt;shouldRetry, shouldCacheResponse&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;besides these prefixes, never use negation in the variable name. no hasNoAccess or isDisabled. instead use hasAccess and isEnabled.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;notes&#34;&gt;notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://decrypt.co/357527/ai-save-time-instead-created-new-kind-burnout&#34;&gt;AI Promised to Save Time—Instead It&amp;rsquo;s Created a New Kind of Burnout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;UC-Berkeley and Yale researchers found that AI tools don&amp;rsquo;t reduce work: AI is accelerating work, not reducing it. The real shift isn’t job loss—it’s work intensification and reorganization.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>half</title>
       <link>https://un01s.github.io/notes/posts/20260404/</link>
