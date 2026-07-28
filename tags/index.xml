@@ -9,10 +9,31 @@
     <lastBuildDate>Mon, 20 Jul 2026 07:40:41 -0600</lastBuildDate>
     <atom:link href="https://un01s.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Empire</title>
+      <link>https://un01s.github.io/notes/tags/empire/</link>
+      <pubDate>Mon, 20 Jul 2026 07:40:41 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/empire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Idea</title>
+      <link>https://un01s.github.io/notes/tags/idea/</link>
+      <pubDate>Mon, 20 Jul 2026 07:40:41 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/idea/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Kahanism</title>
       <link>https://un01s.github.io/notes/tags/kahanism/</link>
       <pubDate>Mon, 20 Jul 2026 07:40:41 -0600</pubDate>
       <guid>https://un01s.github.io/notes/tags/kahanism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machines</title>
+      <link>https://un01s.github.io/notes/tags/machines/</link>
+      <pubDate>Mon, 20 Jul 2026 07:40:41 -0600</pubDate>
+      <guid>https://un01s.github.io/notes/tags/machines/</guid>
       <description></description>
     </item>
     <item>
@@ -2743,13 +2764,6 @@
       <link>https://un01s.github.io/notes/tags/perception-illusion/</link>
       <pubDate>Sun, 11 Dec 2022 13:55:16 -0700</pubDate>
       <guid>https://un01s.github.io/notes/tags/perception-illusion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Idea</title>
-      <link>https://un01s.github.io/notes/tags/idea/</link>
-      <pubDate>Sat, 26 Nov 2022 20:09:14 -0700</pubDate>
-      <guid>https://un01s.github.io/notes/tags/idea/</guid>
       <description></description>
     </item>
     <item>
