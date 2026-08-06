@@ -18,15 +18,15 @@ For the world's more full of weeping than you can understand.
 
 ### investing
 
-* 20260731: Friday Reedit downs a lot because its earning on Thursday after hour. But it rebounds a lot that Friday and next two days for $157 and $162 in August.
+* 20260731: Friday Reedit downs a lot because of its earning on Thursday after hour. **buy the big drop in the early morning, we do not know when it reaches the lowest, must be multiple buys** Then it rebounds a lot that Friday later and next two days for $157 and $162 in August.
 
 ![RDDT](stockRDDT0731.png)
 
-* 20260804: Palantir reports its earning after hour. 
+* 20260804: Palantir reports its earning after hour. **buy before the market close. it's a bet on its great result, we may be wrong for this.**
 
 ![PLTR](stockPLTR5days.png)
 
-* 20260805: SHOP reports its Q2 earning in the morning before hour, it reaches its high around US$159.5 and downs and ups to around US$145. It's about $124 yesterday. It's up more than 20% but it does not last.  
+* 20260805: SHOP reports its Q2 earning in the morning before hour, it reaches its high around US$159.5 and downs and ups to around US$145. It's about $124 yesterday. **It's up more than 20% but it does not last. anything could happen.**  
 
 ![SHOP](stockSHOP1day.png)
 
