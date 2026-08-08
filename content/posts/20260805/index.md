@@ -23,7 +23,7 @@ For the world's more full of weeping than you can understand.
 >  Richard Feynman said: The first principle is that you must not fool yourself
 and you are the easiest person to fool.
 
-### investing
+### investing : how to gamble with stocks
 
 * 20260731: Reddit downs a lot due to its earning on Thursday after hour. **buy this big drop in the early morning, since it's hard to know when it reaches the lowest, it has to be multiple buys. buy more lowers. so divide the budget at least by three** Then it rebounds a lot that Friday later and next two days for $157 and $162 in August.
 
@@ -112,7 +112,7 @@ and you are the easiest person to fool.
 
 > 20260806 @corbden@defcon.social: It's worse than gambling when said bros also have control over the magnet under the roulette wheel, and can use it to steal your money and put it in their pocket.
 
-> 20260806 @eestileib@tech.lgbt: The stock market looks like gambling, but it's actually fraud
+> 20260806 @eestileib@tech.lgbt: **The stock market looks like gambling, but it's actually fraud.**
 
 > 20260806 @normjess@tech.lgbt: [Everybody Knows - Sigrid, youtube](https://www.youtube.com/watch?v=wfLOt5P6nSk)
   
