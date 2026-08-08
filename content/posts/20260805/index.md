@@ -41,7 +41,7 @@ and you are the easiest person to fool.
 
 > **等 -- 大道至简**：返璞归真的无为投资。市场本无序，绝大多数人试图通过复杂的工具和信息战胜市场，却往往适得其反。不试图去预测和选择进场时机，不触碰看跌或看涨期权这些充满投机与毁灭性的杠杆工具，不被纷繁复杂的K线图、财务报表所困扰，也彻底屏蔽来自财经媒体以及各类专家的噪音。**投资的至高境界是不动如山**，只买入代表美国国运和核心经济的宽基指数大盘，比如S&P500或全市场指数，**采取只买不卖、长期持有的策略。把复杂的操作归零，把时间当成最深厚的朋友**。
 
-> **好的股票一定会有好的回报，低买的股票一定会涨高**
+> **好的股票一定会有好的回报，低买的股票一定会涨高**: the stock market is always cyclic, from undervalue to overvalue and reverse, from panic to greedy and back. in this way, a stock goes hot from cold and back again. any undervalued stock is a good stock. any undervalued stock of a good company is a great one. buy any good stock and wait. 
 
 ### notes
 
