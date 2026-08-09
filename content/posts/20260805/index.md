@@ -1,7 +1,7 @@
 ---
 title: "诗人天生"
 date: 2026-08-05T09:16:23-06:00
-tags: ["poem", "w.b.yeats", "聂绀弩"]
+tags: ["poem", "w.b.yeats", "stefan zweig", "聂绀弩"]
 draft: false
 ---
 
@@ -23,6 +23,22 @@ For the world's more full of weeping than you can understand.
 >  Richard Feynman said: The first principle is that you must not fool yourself
 and you are the easiest person to fool.
 
+> Be the aim however high, Youth will find away ...
+
+### Stefan Zweig
+
+> Only the person who has experienced light and darkness, war and peace, rise and fall, only that person has truly experienced life. -- the world of yesterday
+
+> “For I regard memory not as a phenomenon preserving one thing and losing another merely by chance, but as a power that deliberately places events in order or wisely omits them. Everything we forget about our own lives was really condemned to oblivion by an inner instinct long ago.” -- The World of Yesterday
+
+> “Even from the abyss of horror in which we try to feel our way today, half-blind, our hearts distraught and shattered, I look up again and again to the ancient constellations that shone on my childhood, comforting myself with the inherited confidence that, some day, this relapse will appear only an interval in the eternal rhythm of progress onward and upward.” -- The World of Yesterday
+
+> “We are happy when people/things conform and unhappy when they don't. People and events don't disappoint us, our models of reality do. It is my model of reality that determines my happiness or disappointments.” -- Chess Story
+
+> For the first time in my life I began to realize that it is not evil and brutality, but nearly always weakness, that is to blame for the worst things that happen in this world.
+
+> Freedom is not possible without authority - otherwise it would turn into chaos and authority is not possible without freedom - otherwise it would turn into tyranny.
+
 ### investing : how to gamble with stocks
 
 * 20260731: Reddit downs a lot due to its earning on Thursday after hour. **buy this big drop in the early morning, since it's hard to know when it reaches the lowest, it has to be multiple buys. buy more lowers. so divide the budget at least by three** Then it rebounds a lot that Friday later and next two days for $157 and $162 in August.
@@ -41,9 +57,35 @@ and you are the easiest person to fool.
 
 > **等 -- 大道至简**：返璞归真的无为投资。市场本无序，绝大多数人试图通过复杂的工具和信息战胜市场，却往往适得其反。不试图去预测和选择进场时机，不触碰看跌或看涨期权这些充满投机与毁灭性的杠杆工具，不被纷繁复杂的K线图、财务报表所困扰，也彻底屏蔽来自财经媒体以及各类专家的噪音。**投资的至高境界是不动如山**，只买入代表美国国运和核心经济的宽基指数大盘，比如S&P500或全市场指数，**采取只买不卖、长期持有的策略。把复杂的操作归零，把时间当成最深厚的朋友**。
 
-> **好的股票一定会有好的回报，低买的股票一定会涨高**: the stock market is always cyclic, from undervalue to overvalue and reverse, from panic to greedy and back. in this way, a stock goes hot from cold and back again. any undervalued stock is a good stock. any undervalued stock of a good company is a great one. buy any good stock and wait. 
+> **信 -- 好的股票一定会有好的回报，低买的股票一定会涨高**: the stock market is always cyclic, from undervalue to overvalue and reverse, from panic to greedy and back. in this way, a stock goes hot from cold and back again. any undervalued stock is a good stock. any undervalued stock of a good company is a great one. buy any good stock and wait. 
 
+### John Crowley
+
+> [Bowiesongs](https://bsky.app/profile/bowiesongs.bsky.social): "It was anyway all a long time ago; the world, we know now, is as it is and not different; if there was ever a time when there were passages, doors, the borders open and many crossing, that time is not now. The world is older than it was. Even the weather isn’t as we remember it clearly once being; never lately does there come a summer day such as we remember, never clouds as white as that, never grass as odorous or shade as deep and full of promise as we remember they can be, as once upon a time they were.”  from Little, Big.
+
+> [John Crowley, "On Not Being Well Read" 2015, Harpers](https://harpers.org/archive/2015/03/on-not-being-well-read/): Knowing books, in that broad view, is like knowing people or social circles. Some people you are intimate with: you remember their pasts and know their private thoughts, you know the people they know; they form the texture of your life and your days. Other people stand farther off in time and space, but you feel you know them, even if superficially, and can ponder them usefully; they are your context. Others are still farther off. They are like those books you’ve only heard of but whose authors you know and can make reference to, nodding in recognition when others do.
+
+> John Crowley: E. M. Forster writes in Aspects of the Novel that when his “brain decays entirely” he won’t bother any more with great literature; he’ll return to the “eternal summer” of a book he read and reread in boyhood, The Swiss Family Robinson. Not all books are classics. Not all books are even books.
+
+This links to Francis Bacon on some books are to be tasted, others to be swallowed, and some few to be chewed and digested. That is, you read what you love to read and stop whenever you'd like.
+ 
 ### notes
+
+* [Paul Heaton, 1962-, singer-songwriter, the Housemartins](https://en.wikipedia.org/wiki/Paul_Heaton)
+
+> [Fish n chips supper](https://www.youtube.com/watch?v=jQcW5Di8IaE)
+
+* [高善文,1971-2026,经济学家](https://zh.wikipedia.org/wiki/%E9%AB%98%E5%96%84%E6%96%87)
+
+* [高善文：2025年可能是一个重要的转折点](http://hx.cnd.org/?p=261620)
+
+> 我们以全部上市公司为基础（A股、港股，中概股），把这些公司分为三类，①支持类2500家，政府支持鼓励，支持经济转型引导方向；②限制类500家，政府试图加以规范管理和限制，行业自身也在走向衰落；③中性类2600家，商贸零售社会服务，和转型过程没有很紧密的联系，整体属于中性。上市公司营业收入占2024GDP总量50%以上，具有一定代表性。
+
+> 2016年至今，中性类行业的营业收入/总市值占比总体稳定，2018-2020年之间，限制类行业占比明显收缩，支持类行业占比明显扩张，政府试图限制的行业在收缩，政府试图支持的行业在扩张，营业收入和总市值维度都是如此。2018年以来，支持类板块的股价上升，限制类板块的股价大幅下跌，二者之间的裂口是过去十几年没有看到的，这说明政府引导经济转型的努力在金融市场的定价反映出来。
+
+> 我们通过观察中性行业的表现，去剥离转型和政策的影响。2017年以来，中性行业的营业收入大幅下滑，从这个指标来看，中性行业营业收入的下滑不是转型的影响，而是周期的力量；从雇佣员工数据来看也是如此。
+
+> 疫情前：年轻人占比与消费不相关。疫情后：年轻人占比越高的省份消费越差。疫情前，消费和房价几乎不相关。疫情后，房价下跌严重的地区消费更差。
 
 * 20260805: [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean), [Sanjay Ghemawat](https://en.wikipedia.org/wiki/Sanjay_Ghemawat), Oriol Vinyals and Quoc Le left Google to co-found a new company, Discovery Loop, to do scientific research based on AI.
 
@@ -76,7 +118,7 @@ and you are the easiest person to fool.
 
 > 尝试用一个病因解释所有异常、诊断要具体、化验图像检查不等于100% 确诊。
 
-> book: How doctors think
+> book: How doctors think, by Jerome Groopman, M.D. 2008
 
 > book: Every patient tells a story
 
@@ -84,7 +126,7 @@ and you are the easiest person to fool.
 
 > Medicine is a science of uncertainty and an art of probability （医学是不确定性的科学和可能性的艺术）。 -- William Osler
 
-> 不确定性分两种：1) 认识的不确定性（Epistemic）: 病人实际情况、医学科学本身、诊断预测和治疗，太多信息我不知道，无法知道。自然界和人体太多秘密，科学知识本身也不知道。2) 随机性带来的不确定性 (Stochastic)。个体差异无法预测。统计、流行病学调查，可以发现一组人群，冠心病发病率多高，老年痴呆可能性多大。但是那个人群的具体每一个人，你无法知道他/她会不会患冠心病，会不会发生老年痴呆。福尔摩斯说过：一个人群，他可以预料。但是一个人，他无法预料。侦探和医生一样，总是和不确定性打交道。医生面临的是一个病人。而侦探面临的不仅是人，还有这个人所处的大环境。为什么有那么多不确定性？简单地说：因为人是地球上最高级的生物，**太多变量。这些变量，或者不知道，或者无法控制，因此无法确定。**
+> 不确定性分两种：1) 认识的不确定性（**Epistemic**）: 病人实际情况、医学科学本身、诊断预测和治疗，太多信息我不知道，无法知道。自然界和人体太多秘密，科学知识本身也不知道。2) 随机性带来的不确定性 (**Stochastic**)。个体差异无法预测。统计、流行病学调查，可以发现一组人群，冠心病发病率多高，老年痴呆可能性多大。但是那个人群的具体每一个人，你无法知道他/她会不会患冠心病，会不会发生老年痴呆。福尔摩斯说过：一个人群，他可以预料。但是一个人，他无法预料。侦探和医生一样，总是和不确定性打交道。医生面临的是一个病人。而侦探面临的不仅是人，还有这个人所处的大环境。为什么有那么多不确定性？简单地说：因为人是地球上最高级的生物，**太多变量。这些变量，或者不知道，或者无法控制，因此无法确定。**
 
 > 懂得不确定性，医生才不至于思维僵化；不至于先入为主，匆忙下结论；不至于死守既定方针，诊断治疗一成不变；不至于总是理所当然；不至于过分自信。虽然总是面临不确定性， 医生们不能以此作为偷懒的借口，而应该追求确定性，诊断、治疗、预后，同时对确定性的范围有一个现实的估计。
 
@@ -171,7 +213,7 @@ I may never see
 
 * [iPhone models](https://support.apple.com/en-us/108044)
 
-* [聂绀弩](https://zh.wikipedia.org/zh-hans/%E8%81%82%E7%BB%80%E5%BC%A9)
+* [聂绀弩, 1903-1986](https://zh.wikipedia.org/zh-hans/%E8%81%82%E7%BB%80%E5%BC%A9)
 
 > 聂绀弩，散宜生诗
 
@@ -186,6 +228,8 @@ I may never see
 > “男儿脸刻黄金印，一笑心轻白虎堂”（《林冲题壁》）
 
 > “天寒岁暮归何处，涌血成诗喷土墙”（《林冲题壁》）
+
+> 题林冲题壁图寄巴人: 家有娇妻匹夫死，世无好友百身戕。男儿脸刻黄金印，一笑心轻白虎堂。高太尉头耿魂梦，酒葫芦颈系花枪。天寒岁暮归何处，涌血成诗喷土墙。
 
 > “青眼高歌望吾子，红心大干管他妈”《钟三四清归》
 
