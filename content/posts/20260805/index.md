@@ -1,7 +1,7 @@
 ---
 title: "诗人天生"
 date: 2026-08-05T09:16:23-06:00
-tags: ["poem", "w.b.yeats", "stefan zweig", "聂绀弩"]
+tags: ["poem", "w.b.yeats", "stefan zweig", "聂绀弩", "investing", "gamble", "john crowley", "paul heaton"]
 draft: false
 ---
 
@@ -53,11 +53,11 @@ and you are the easiest person to fool.
 
 ![SHOP](stockSHOP1day.png)
 
-> **买 -- 顺应物极必反的逆向重仓**：事物向对立面转化、循环往复的运行规律。这要求投资者在美股遭遇悲观情绪笼罩、市场陷入惨烈熊市时，敢于逆着大众恐慌的潮流而动，果断加仓、甚至加上重仓。大自然与经济周期皆遵循盛极必衰、衰极必盛的法则。历史反复证明，并将继续证明，真正改变财富量级、赚到巨大财富的机遇，从来不是在牛市人声鼎沸的追涨中获得，而是**来自熊市深渊里冷静而坚决的逆势播种**。
+> **买 -- 顺应物极必反的逆向重仓**：事物向对立面转化、循环往复的运行规律。这要求投资者在美股遭遇悲观情绪笼罩、市场陷入惨烈熊市时，敢于逆着大众恐慌的潮流而动，果断加仓、甚至加上重仓。大自然与经济周期皆遵循盛极必衰、衰极必盛的法则。历史反复证明，并将继续证明，真正改变财富量级、赚到巨大财富的机遇，从来不是在牛市人声鼎沸的追涨中获得，而是**来自熊市深渊里冷静而坚决的逆势播种**。（如果敢在熊市中买跌，那么也不要错过牛市中的闪跌。）
 
 > **等 -- 大道至简**：返璞归真的无为投资。市场本无序，绝大多数人试图通过复杂的工具和信息战胜市场，却往往适得其反。不试图去预测和选择进场时机，不触碰看跌或看涨期权这些充满投机与毁灭性的杠杆工具，不被纷繁复杂的K线图、财务报表所困扰，也彻底屏蔽来自财经媒体以及各类专家的噪音。**投资的至高境界是不动如山**，只买入代表美国国运和核心经济的宽基指数大盘，比如S&P500或全市场指数，**采取只买不卖、长期持有的策略。把复杂的操作归零，把时间当成最深厚的朋友**。
 
-> **信 -- 好的股票一定会有好的回报，低买的股票一定会涨高**: the stock market is always cyclic, from undervalue to overvalue and reverse, from panic to greedy and back. in this way, a stock goes hot from cold and back again. any undervalued stock is a good stock. any undervalued stock of a good company is a great one. buy any good stock and wait. 
+> **信 -- 好的股票一定会有好的回报，低买的股票一定会涨高**: the stock market is always cyclic, from undervalued to overvalued and reverse and seldom in-between, from panic to greedy and back. in this way, a stock goes hot from cold and back again. any undervalued stock is a good stock. any undervalued stock of a good company is a great one. buy any good stock and wait. 
 
 ### John Crowley
 
@@ -77,6 +77,8 @@ This links to Francis Bacon on some books are to be tasted, others to be swallow
 
 * [高善文,1971-2026,经济学家](https://zh.wikipedia.org/wiki/%E9%AB%98%E5%96%84%E6%96%87)
 
+> 上联是“解释过去头头是道，似乎有理”，下联是“预测未来躲躲闪闪，误差惊人”，横批是“经济分析”。
+
 * [高善文：2025年可能是一个重要的转折点](http://hx.cnd.org/?p=261620)
 
 > 我们以全部上市公司为基础（A股、港股，中概股），把这些公司分为三类，①支持类2500家，政府支持鼓励，支持经济转型引导方向；②限制类500家，政府试图加以规范管理和限制，行业自身也在走向衰落；③中性类2600家，商贸零售社会服务，和转型过程没有很紧密的联系，整体属于中性。上市公司营业收入占2024GDP总量50%以上，具有一定代表性。
@@ -86,6 +88,10 @@ This links to Francis Bacon on some books are to be tasted, others to be swallow
 > 我们通过观察中性行业的表现，去剥离转型和政策的影响。2017年以来，中性行业的营业收入大幅下滑，从这个指标来看，中性行业营业收入的下滑不是转型的影响，而是周期的力量；从雇佣员工数据来看也是如此。
 
 > 疫情前：年轻人占比与消费不相关。疫情后：年轻人占比越高的省份消费越差。疫情前，消费和房价几乎不相关。疫情后，房价下跌严重的地区消费更差。
+
+> 2024年12月初深圳高善文：老年人朝气蓬勃，年轻人死气沉沉，中年人生无可恋。
+
+> 谈到中国的经济增长数字。中国官方的数字是增长5%。但高善文根据各种经济指标推算，实际增长率可能只有2%左右。
 
 * 20260805: [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean), [Sanjay Ghemawat](https://en.wikipedia.org/wiki/Sanjay_Ghemawat), Oriol Vinyals and Quoc Le left Google to co-found a new company, Discovery Loop, to do scientific research based on AI.
 
