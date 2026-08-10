@@ -59,6 +59,14 @@ and you are the easiest person to fool.
 
 > **信 -- 好的股票一定会有好的回报，低买的股票一定会涨高**: the stock market is always cyclic, from undervalued to overvalued and reverse and seldom in-between, from panic to greedy and back. in this way, a stock goes hot from cold and back again. any undervalued stock is a good stock. any undervalued stock of a good company is a great one. buy any good stock and wait. 
 
+* 20260807 Friday: just look at the above three stocks on Aug 10, 2026 before hour. Last Friday and last week, the speculation is very active. During the weekend, Iran makes sure that the strait of Hormuz closed and oil prices rise. This week more data is coming out for inflation such as CPI. [Reddit](https://finance.yahoo.com/quote/RDDT/), [Palantir](https://finance.yahoo.com/quote/PLTR/), and [Shopify](https://finance.yahoo.com/quote/SHOP/) Last week, job data is not so good but the sentiment is there because the rate hike has to wait for Fed. Will AI continue to rise? This Tuseday both [CoreWeave](https://finance.yahoo.com/quote/CRWV/) and [Super Micro Computer](https://finance.yahoo.com/quote/SMCI/) will report their earnings after hour. 
+  
+![RDDT](sRDDT0807.png)
+
+![PLTR](sPLTR0807.png)
+
+![SHOP](sSHOP0807.png)
+
 ### John Crowley
 
 > [Bowiesongs](https://bsky.app/profile/bowiesongs.bsky.social): "It was anyway all a long time ago; the world, we know now, is as it is and not different; if there was ever a time when there were passages, doors, the borders open and many crossing, that time is not now. The world is older than it was. Even the weather isn’t as we remember it clearly once being; never lately does there come a summer day such as we remember, never clouds as white as that, never grass as odorous or shade as deep and full of promise as we remember they can be, as once upon a time they were.”  from Little, Big.
@@ -70,6 +78,20 @@ and you are the easiest person to fool.
 This links to Francis Bacon on some books are to be tasted, others to be swallowed, and some few to be chewed and digested. That is, you read what you love to read and stop whenever you'd like.
  
 ### notes
+
+* [Andrew Ross Sorkin, American journalist and author](https://en.wikipedia.org/wiki/Andrew_Ross_Sorkin)
+
+> book: Too big to fall, 2009 for an overview of the 2008 financial crisis
+
+> book: 1929: Inside the Greatest Crash in Wall Street History — and How It Shattered a Nation, a history of the Crash based on hundreds of documents, many previously unpublished. (**错失恐惧症FOMO**)
+
+```
+1929/10/24 Thursday start
+1929/10/28 -13%
+1929/10/29 Tuesday -12% 
+```
+
+* [ESP32-S3 Dev board with 1.8" AMOLED touch display 368x448, Waveshare, SKU; WAV-29957](https://www.waveshare.com/product/esp32-related/boards-kits/esp32-s3/esp32-s3-touch-amoled-1.8.htm?___SID=U)
 
 * [Paul Heaton, 1962-, singer-songwriter, the Housemartins](https://en.wikipedia.org/wiki/Paul_Heaton)
 
