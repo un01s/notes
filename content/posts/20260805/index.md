@@ -23,7 +23,7 @@ For the world's more full of weeping than you can understand.
 >  Richard Feynman said: The first principle is that you must not fool yourself
 and you are the easiest person to fool.
 
-> Be the aim however high, Youth will find away ...
+> Be the aim however high, Youth will find a way...
 
 ### Stefan Zweig
 
@@ -144,6 +144,12 @@ This links to Francis Bacon on some books are to be tasted, others to be swallow
 
 > 教育的目的应该是教会我们如何思考，而不是教会我们思考什么；是提高我们的心智，使我们能独立思考，而不是把别人的想法塞进我们的记忆里。 -- 约翰·杜威 John Dewey (1859-1952)
 
+> book: How we think, John Dewey
+
+> Causes of bad mental habits are social as well as inborn… Over and above the sources of misbelief that reside in the natural tendencies of the individual (like those toward hasty and too far-reaching conclusions), social conditions tend to instigate and confirm wrong habits of thinking by authority, by conscious instruction, and by the even more insidious half-conscious influences of language, imitation, sympathy, and suggestion. **Education has accordingly not only to safeguard an individual against the besetting erroneous tendencies of his own mind — its rashness, presumption, and preference of what chimes with self-interest to objective evidence — but also to undermine and destroy the accumulated and self-perpetuating prejudices of long ages.** When social life in general has become more reasonable, more imbued with rational conviction, and less moved by stiff authority and blind passion, educational agencies may be more positive and constructive than at present, for they will work in harmony with the educative influence exercised willy-nilly by other social surroundings upon an individual’s habits of thought and belief. -- John Dewey
+
+> While it is not the business of education to prove every statement made, any more than to teach every possible item of information, it is its business to cultivate deep-seated and effective habits of discriminating tested beliefs from mere assertions, guesses, and opinions; to develop a lively, sincere, and open-minded preference for conclusions that are properly grounded, and to ingrain into the individual’s working habits methods of inquiry and reasoning appropriate to the various problems that present themselves. No matter how much an individual knows as a matter of hearsay and information, if he has not attitudes and habits of this sort, he is not intellectually educated. He lacks the rudiments of mental discipline. And since these habits are not a gift of nature (no matter how strong the aptitude for acquiring them); since, moreover, the casual circumstances of the natural and social environment are not enough to compel their acquisition, the main office of education is to supply conditions that make for their cultivation. The formation of these habits is the Training of Mind. -- Carl Sagan
+
 > 尝试用一个病因解释所有异常、诊断要具体、化验图像检查不等于100% 确诊。
 
 > book: How doctors think, by Jerome Groopman, M.D. 2008
@@ -152,7 +158,9 @@ This links to Francis Bacon on some books are to be tasted, others to be swallow
 
 * [清衣江：微侃医林（186）临床思维（二） 不确定性与量化可能性一一概率](http://hx.cnd.org/?p=244330)
 
-> Medicine is a science of uncertainty and an art of probability （医学是不确定性的科学和可能性的艺术）。 -- William Osler
+> Medicine is a science of uncertainty and an art of probability （医学是不确定性的科学和可能性的艺术）。 -- [William Osler](https://en.wikipedia.org/wiki/William_Osler)
+
+>> Live neither in the past nor in the future. But let each day's work absorb all your interest, energy, and enthusiasm. The best preparation for tomorrow is to do today's work superbly well. -- Sir William Osler
 
 > 不确定性分两种：1) 认识的不确定性（**Epistemic**）: 病人实际情况、医学科学本身、诊断预测和治疗，太多信息我不知道，无法知道。自然界和人体太多秘密，科学知识本身也不知道。2) 随机性带来的不确定性 (**Stochastic**)。个体差异无法预测。统计、流行病学调查，可以发现一组人群，冠心病发病率多高，老年痴呆可能性多大。但是那个人群的具体每一个人，你无法知道他/她会不会患冠心病，会不会发生老年痴呆。福尔摩斯说过：一个人群，他可以预料。但是一个人，他无法预料。侦探和医生一样，总是和不确定性打交道。医生面临的是一个病人。而侦探面临的不仅是人，还有这个人所处的大环境。为什么有那么多不确定性？简单地说：因为人是地球上最高级的生物，**太多变量。这些变量，或者不知道，或者无法控制，因此无法确定。**
 
