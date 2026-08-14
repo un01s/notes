@@ -1,7 +1,7 @@
 ---
 title: "learn to think and question everything"
 date: 2026-08-10T11:39:15-06:00
-tags: ["john crowley", "tom disch", "fantasy"]
+tags: ["john crowley", "tom disch", "fantasy", "verdi"]
 draft: false
 ---
 
@@ -29,7 +29,7 @@ over the darkened city —
 
 Why is there not a single course to teach how to think like Math or Physics, if thinking critically is so important for education and life? I guess the issue is with thinking itself. As Kant was developing his philosophy, he realized that our mind is not a clean slate but with the faculty to generate patterns or ideas or concepts from sensory inputs for the mind to reason (or imagine something for the mind to entertain). Still why everyone could not think like Einstein? The reason is that our minds need some material to think with. To borrow one line from Confucius, "Learning without thought ends in a blur. Thought without learning will soon totter. 学而不思则罔，思而不学则殆。（论语）" Another translation could be "Learning without thinking is fruitless; thinking without learning is perplexing." That is, to think something has to go hands with to learn something specific to answer your curiosity and for you to question everything along the road.
 
-life is desire and desire is life. it is a common problem for everyone that not all desire could be fulfilled. That causes frustration and sense of failure, and more desire to be desired. all religions have something to deal with desire as bit evil and bit enemy and bit friend. but to get rid of desire is not possible, so many ways to channel desire instead of blocking it are invented. faith for a better life, maybe. buddhism advocates less desire and so less pain. that is hard because everyone wants a full life and it is always full of desire. to channel it, there are work, rituals, institutions, art, code, law, and so on. everything is setup as barriers to desire like dams to river, good ways and legal ways after everything is codified if possible.
+life is desire and desire is life. it is a common problem for everyone that not all desire could be fulfilled. That causes frustration and sense of failure, and more desire to be desired. all religions have something to deal with desire as bit evil and bit enemy and bit friend. but to get rid of desire is not possible, so many ways to channel desire instead of blocking it are invented. faith for a better life, maybe. buddhism advocates less desire and so less pain. that is hard because everyone wants a full life and it is always full of desire. to channel it, there are work, rituals, institutions, art, code, law, and so on. everything is setup as barriers to desire like dams to river, good ways and legal ways after everything is codified if possible. like freedom, desire is there but not all of it is allowed.
 
 ### investing
 
@@ -41,7 +41,11 @@ life is desire and desire is life. it is a common problem for everyone that not 
 
 ### notes
 
-* [Va, pensiero by Verdi](https://en.wikipedia.org/wiki/Va,_pensiero)
+* 李欧梵: 《我的二十世纪：李欧梵回忆录》 
+
+> 多莱热尔: 没有好的作家和作品，不可能产生好的文学理论！
+
+* [wiki: Va, pensiero by Verdi, or Chorus of the Hebrew Slaves](https://en.wikipedia.org/wiki/Va,_pensiero)
 
 > [Va, pensiero from Verdi's opera Nabucco, act III](https://www.youtube.com/shorts/jNGsyxyV3rY)
 
@@ -91,11 +95,11 @@ grep -rni "text string" /path/to/directory
 
 > 以瞿秋白的革命资历和曾经的政治地位，以瞿秋白在文学艺术上的修养造诣，很快便成为”左联”的精神领袖和实际上的领导人之一。瞿秋白则更是在文艺理论问题上笔耕不缀。这一点已足以令王明团伙嫉恨了。更糟糕的是，在实际的政治问题和理论性的政治问题上，瞿秋白仍然坚持发言。
 
-* 拉赫玛尼诺夫 
+* Rachmaninoff 拉赫玛尼诺夫 
 
-> [帕格尼尼主题狂想曲 Rhapsody on a Theme of Paganini](https://en.wikipedia.org/wiki/Rhapsody_on_a_Theme_of_Paganini) Rachmaninoff variation 18 on Themes of Paganini Valentina Lisitsa 
+> [帕格尼尼主题狂想曲 Rhapsody on a Theme of Paganini](https://en.wikipedia.org/wiki/Rhapsody_on_a_Theme_of_Paganini) [youtube: Rachmaninoff variation 18 on Themes of Paganini Valentina Lisitsa](https://www.youtube.com/watch?v=yTyiwtfpO8s)
 
-> [交响舞曲 Symphonic Dances, 1940](https://en.wikipedia.org/wiki/Symphonic_Dances_(Rachmaninoff))
+> [wiki: 交响舞曲 Symphonic Dances, 1940](https://en.wikipedia.org/wiki/Symphonic_Dances_(Rachmaninoff)) [youtube](https://www.youtube.com/watch?v=paKhgI9JoTQ)
 
 > 流亡中的拉赫玛尼诺夫骨子里依然是个俄罗斯人。他说俄语，吃俄餐，家里更布置成俄罗斯风格。在他仅有的几部流亡国外后写成的作品中，总是忽隐忽现着俄罗斯山川原野的广袤辽远和传统艺术的多彩细腻，教堂的钟声此起彼伏。他难忘故国，撇不下自己长于其中的土地，解不开深入骨髓的俄罗斯情怀。这浪漫中的悲凉与忧伤，成为他的后期作品的底韵。
 
