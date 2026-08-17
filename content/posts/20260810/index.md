@@ -1,7 +1,7 @@
 ---
 title: "learn to think and question everything"
 date: 2026-08-10T11:39:15-06:00
-tags: ["john crowley", "tom disch", "fantasy", "verdi"]
+tags: ["john crowley", "tom disch", "fantasy", "verdi", "arthur miller"]
 draft: false
 ---
 
@@ -39,13 +39,89 @@ life is desire and desire is life. it is a common problem for everyone that not 
 
 ![CRWV](sCRWV0811.png)
 
-### notes
+### [on politics and the art of acting by Arthur Miller, 2001](https://web.archive.org/web/20010907200127/http://www.neh.gov/whoweare/miller/lecture.html)
 
-* 李欧梵: 《我的二十世纪：李欧梵回忆录》 
+> The fact is that acting is inevitable as soon as we walk out our front doors into society.
 
-> 多莱热尔: 没有好的作家和作品，不可能产生好的文学理论！
+> Aristotle thought man was by nature a social animal, and in fact we are ruled more by the arts of performance, by acting in other words, than anybody wants to think about for very long.
 
-* [wiki: Va, pensiero by Verdi, or Chorus of the Hebrew Slaves](https://en.wikipedia.org/wiki/Va,_pensiero)
+> In other periods, a person might confront the arts of performance once a year in a church ceremony or a rare appearance by a costumed prince or king and their ritualistic gestures; it would have seemed a very strange idea that ordinary folk would be so subjected every day to the persuasions of professionals whose studied technique, after all, is to **assume the character of someone who is not them**.
+
+> **it gets harder and harder for a lot of people to locate reality anymore.** Admittedly, we live in an age of entertainment, but is it a good thing that our political life, for one, be so profoundly governed by the modes of theatre, from tragedy to vaudeville to farce? 
+
+> Political leaders everywhere have come to understand that to govern they must learn how to act.
+
+> I daresay that if he (Gore) seemed so awkward it was partly because the image was not really his, he had cast himself in a role that was wrong for him. 
+
+> I was far more naive then, and so I still found it hard to believe that henceforth we were to be wooed and won by rouge, lipstick and powder rather than ideas and positions on public issues. It was almost as though he was getting ready to go on in the role of General Eisenhower instead of simply being him. In politics, of course, what you see is rarely what you get, but in fact Eisenhower was not a good actor, especially when he ad-libbed, disserving himself as a nearly comical bumbler with the English language when in fact he was actually a lot more literate and sophisticated than his fumbling public speaking style suggested. As his biographer, a Time editor named Hughes, once told me, Colonel Eisenhower was the author of all those smoothly liquid, rather Roman-style speeches that had made his boss, Douglas MacArthur, so famous. Then again, I wonder if Eisenhower's syntactical stumbling in public made him seem more convincingly sincere.
+
+>> ad lib, adv. without previous preparation. I spoke ad lib. adj. spoken or performed without previous preparation. an ad-lib commentary. occuring, used or distributed as often as necessary or desired. the pigs are fed on an ad-lib basis.
+
+> "My problem with this scene," Ben Ami explained, "was that I personally could never blow my brains out, I am just not suicidal, and I can't imagine ending my life. So I could never really know how that man was feeling and I could never play such a person authentically. For weeks I went around trying to think of some parallel in my own life that I could draw on. What situation could I be in where first of all I am standing up, I am alone, I am looking straight ahead, and something I feel I must do is making me absolutely terrified, and finally that whatever it is I can't do it?"
+
+> "Yes," Lewis said, hungry for this great actor's cue to greatness. "And what is that?"
+
+> "Well," Ben Ami said, "I finally realized that the one thing I hate worse than anything is washing in cold water. So what I'm really doing with that gun to my head is, I'm trying to get myself to step into an ice cold shower."
+
+>> scion, descendant, child, esp. a descendant of a wealth aristocratic or influential family
+
+> One remarkable thing did happen, though -- that single split second shot which revealed Gore shaking his head in helpless disbelief at some inanity Bush had spoken; significantly, this gesture earned him many bad press reviews for what was called his superior airs, his sneering disrespect -- **in short, he had stepped out of costume and revealed his reality.** This, in effect,was condemned as a failure of acting. The American press is made up of disguised theatre critics; substance counts for next to nothing compared to style and inventive characterization. For a millisecond Gore had been inept enough to have gotten real! And this clown wanted to be President yet! Not only is all the world a stage, but we have all but obliterated the fine line between the feigned and the real.
+
+>> inanity, n. 1. the quality or state of being inane, such as a) vapid, pointless or fatuous character: shallowness. b) lack of substance: emptiness. 2. something that is inane. synonyms of inanity: insanity, idiocy, or absurdity
+
+>> inept, adj. 1. generally incompetent: bungling. 2. lacking in fitness or apitude: unfit. 3. not suitable to the time, place or occasion. 4.lcking sense or reason: foolish
+
+> Is it imaginable that any of our candidates could have such conviction, and more importantly such self-assured candor as to move him to pour out his heart this way? To be sure, Lincoln and Douglas, at least in the record of their remarks, were civil to one another, but the attack on each other's ideas was sharp and thorough, revealing of their actual approaches to the nation's problems. As for their styles, they had to have been very different than the current laid-back cool before the lense. 
+
+> Given the camera's tendency to exaggerate any movement, it may in itself have a dampening effect on spontaneity and conflict.
+
+> No differently than with actors, the single most important characteristic a politician needs to display is relaxed sincerity. Ronald Reagan disarmed his opponents by never showing the slightest sign of inner conflict about the truth of what he was saying. Simple-minded though his critics found his ideas and remarks, cynical and manipulative as he may have been in actuality, he seemed to believe every word he said; he could tell you that atmospheric pollution came from trees or that ketchup was a vegetable in school lunches, or leave the implication that he had seen action in World War II rather than in a movie he had made or perhaps only seen, and if you didn't believe these things you were still kind of amused by how sincerely he said them. Sincerity implies honesty, an absence of moral conflict in the mind of its possessor. Of course this can also indicate insensitivity or even stupidity. It is hard, for example, to think of another American official whose reputation would not have been stained by saluting a cemetery of Nazi dead with heartfelt solemnity while failing to mention the tens of millions of victims of their vile regime, including Americans. But Reagan was not only an actor, he loved acting and it can be said that at least in public he not only acted all the time but did so sincerely. 
+
+> The second best actor is Clinton, who does occasionally seem to blush, but then again he was caught in an illicit sexual act which is far more important than illegally shipping restricted weapons to foreign countries. Reagan's tendency to confuse events in films with things that really happened is often seen as intellectual weakness but in reality it was -- unknowingly of course -- a Stanislavskian triumph, the very consummation of the actor's ability to incorporate reality into the fantasy of his role; in Reagan the dividing line between acting and actuality was simply melted, gone. Human beings, as the poet said, cannot bear very much reality, and the art of politics is our best proof. The trouble is that a leader somehow comes to symbolize his country, and so the nagging question is whether, when real trouble comes, we can act ourselves out of it.
+
+> The parallels between acting and politics are really innumerable and, depending on your point of view, as discouraging as they are inevitable. The first obligation of the actor, for example, just as with a politician, is to get himself known. 
+
+> The reporter asked if this ploy wouldn't anger people and ruin his reputation. Barnum gave his historic reply, "I don't care what they say about me as long as they mention my name." If there is a single rubric to express the most basic requirement for political or theatrical success, this is it. (in politics infamous equals famous.)
+
+> Whether admitting or not, the actor wants to be not only believed and admired but loved.
+
+> It occurs to me at this point that I ought to confess that I have known only one president who I feel confident about calling The President of the United States, and that was Franklin Roosevelt. My impulse is to say that he alone was not an actor, but I probably think that because he was such a good one.
+
+> The mystery of the star performer can only leave the inquiring mind confused, resentful, or blank, something that of course has the greatest political importance. Many Republicans have blamed the press for the attention Bill Clinton continued to get even out of office. 
+
+> Obviously, this is not very encouraging news for rational people trying to uplift society by reasoned argument. But then not many of us rational folk are immune to the star's power to rule.
+
+> What Brando had done was not ask the audience to merely love him, that is only charm; he had made them wish that he would deign to love them. That is a star. On stage or off, that is power, not different in its essence than the power that can lead nations.
+
+>> deign, v. to condescend reluctantly and with a strong sense of the affront to one's superiority that is involved : stoop. to condescend to give or offer.
+
+>> stoop, v. 1. a) to descend from a superior rank, dignity or status. b) to lower oneself morally. 2. a) to bend the body or a part of the body forward and downward sometimes simultaneously bending the knees. b) to stand or walk with a forward inclination of the head, body or shoulders. 3. yield, submit.
+
+> And of course on stage or in the White House, power changes everything, even including how the aspirant looks after he wins. 
+
+> And once having ascended to power, so to speak, it became hard even for me to remember him when he was real. Not that he wasn't real, just that he was real plus. And the plus is the mystery of the patina, the glow that power paints on the human being.
+
+>> patina, n. 1a. a usually green film formed naturally on copper and bronze by long exposure or artificially (as by acids) and often valued aesthetically for its color. 1b: a surface appearance of something grown beautiful especially with age or use. 2: an appearance or aura that is derived from association, habit, or established character. 3: a superficial covering or exterior.
+
+> An election, not unlike a classic play, has a certain strict form which requires that it pass through certain ordained steps to a logical conclusion. When, instead, the form dissolves and chaos reigns, what is left behind -- no differently than in the theatre -- is a sense in the audience of having been cheated and even mocked. After [this last, most hallucinatory of our elections](https://en.wikipedia.org/wiki/2000_United_States_presidential_election), it was said that in the end the system worked when clearly it hadn't at all. And one of the signs that it had collapsed popped up even before the decision was finally made in Bush's favor; it was when a Republican leader, one Dick Armey, declared that if Gore were elected he would simply not attend his inauguration despite immemorial custom and his obligation to do so as one of the leaders of the Congress. In short, Mr. Armey had reached the limits of his actor's imagination and could only collapse into playing himself. But in the middle of a play you can't have a major performer deciding to leave the scene without utterly destroying the whole illusion. For the system to be said to have worked, no one is allowed to stop acting.
+
+> The absence of any great affection or love for the candidates also suggests some distinct correlations in the theatre. The play without a character we can really root for is in trouble. Shakespeare's "Coriolanus" is an example. It is not often produced, powerful though it is as playwriting and poetry, no doubt because, as a totally honest picture of power hunger in a frightening human being, the closest he ever gets to love is his subservience to his mother. In short, it is a truthful play without sentimentality, and: truthfulness, I'm afraid, doesn't sell a whole lot of tickets or draw votes.
+
+> Which inevitably brings me to Clinton. Until the revulsion brought on by the pardon scandal, he was leaving office with the highest rating for his performance and the lowest for his personal character. Translated -- people had prospered under his leadership, and with whatever reluctance they still connected with his humanity as they glimpsed it, ironically enough, through his sins. We are back, I think, with the mystery of the star. Clinton, except for those few minutes when lying about Lewinsky, was relaxed on camera in a way any actor would envy. And relaxation is the soul of the art, for one thing because it arouses receptivity rather than defensiveness in an audience.
+
+> That receptivity brings to mind a friend of mine who many years ago won the prize for selling more Electrolux vacuum cleaners in the Bronx than any other door-to-door salesman. He explained once how he did it. "You want them to start saying 'yes.' So you ask questions that they can't say no to. 'Is this 1350 Jerome Avenue? Yes. Is your name Smith? Yes. Do you have carpets? Yes. A vacuum cleaner? Yes." Once you've got them on a 'yes' roll a kind of psychological fusion takes place, you're both on the same side, its almost like some kind of love and they feel it's impolite for them to say no, and in no time you're in the house unpacking the machine. 
+
+> What Clinton projects is his personal interest in the customer, which comes across as a sort of love. There can be no doubt that like all great performers he loves to act, he is most alive when he's on; his love of acting may be his most authentic emotion, the realest thing about him, and as with Reagan there is no dividing line between his performance and himself -- he is his performance. There is no greater contrast than with Gore or Bush, both of whom projected a kind of embarrassment at having to perform, an underlying tension between themselves and the role, and tension, needless to say, shuts down love on the platform no less than it does in bed.
+
+> [Eulenspiegel](https://en.wikipedia.org/wiki/Till_Eulenspiegel):  the mythical arch prankster of 13th Century Germany, who was a sort of mischievous and loveable folk spirit, half child- half man. Eulenspiegel challenged society with his enviable guile and a charm so irresistible that he could blurt out embarrassing truths about the powerful now and then, earning the gratitude of the ordinary man.
+
+> [Brer Rabbit](https://en.wikipedia.org/wiki/Br%27er_Rabbit): 
+
+> The ultimate foundation of political power, of course, has never changed and it is the leader's willingness to resort to violence should the need arise.
+
+> Then, I'm afraid, we can only turn to the release of art, to the other theatre, the theatre-theatre where you can tell the truth without killing anybody, and may even illuminate the awesomely durable dilemma of how to lead without lying too much. The release of art will not forge a cannon or pave a street but it may remind us again and again of the corruptive essence of power, its immemorial tendency to enhance itself at the expense of humanity. 
+
+### [wiki: Va, pensiero by Verdi, or Chorus of the Hebrew Slaves](https://en.wikipedia.org/wiki/Va,_pensiero)
 
 > [Va, pensiero from Verdi's opera Nabucco, act III](https://www.youtube.com/shorts/jNGsyxyV3rY)
 
@@ -70,6 +146,50 @@ life is desire and desire is life. it is a common problem for everyone that not 
 > 全曲结尾尤耐寻味。多数歌剧合唱喜以强音收束，而《Va, pensiero》偏偏择极弱而终，声渐轻，若远行之队徐徐没于地平，在心理上造出距离与延展。文辞虽止，画面未停；歌声虽逝，思念反因”不可闻”而愈发明晰。
 
 > 《Va, pensiero》之伟大，不在其繁，而在其以最简之法，触人情最深之处。世人常观此曲结构至简、和声至朴，倘易一庸手写之，极易沦为平淡无奇；然出自威尔第之手，首演即惊动天下，传唱为时代强音。盖庸手之“简”，乃技穷而致苍白；大师之“简”，乃洗尽铅华后之至纯，是深谙人声生理、听觉心理与情感爆破点后之极致收敛。同等作品，出自不同人之手，效果天差地别，古今皆然，此属于社会心理与传播学研究范畴，笔者无意深谈。
+
+### notes
+
+* [an apology from a Japanese volleyball player](https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3mt76rka2ba27)
+
+> There is something very special about the respect for others in Japan
+
+* book: the nerd reich: silicon valley fascism and the war on democracy, by Gil Duran
+
+* book: The Heart Of Rock & Soul, by [Dave Marsh, 1950-2026, American music critic](https://en.wikipedia.org/wiki/Dave_Marsh)
+
+> Rock & Soul is essential still: a defense of & a love letter to pop music.
+
+* book: the myth of the negro past, by Melville Herskovits
+
+> founded the first African Studies program in the country at Northwestern and its largest library. now Northwestern University is reportedly shuttering its 80-year-old Program of African Studies, laying off staff and keeping students in the dark.
+
+* [Ralph Marston, 1907-1967, American football player](https://en.wikipedia.org/wiki/Ralph_Marston)
+
+> The keys to patience are acceptance and faith. Accept things as they are, and look realistically at the world around you. Have faith in yourself and in the direction you have chosen. -- Ralph Martson
+
+> Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy. No person will make you happy unless you decide to be happy. Your happiness will not come to you. It can only come from you.
+
+> Just because the road ahead is long, is no reason to slow down. Just because there is much work to be done, is no reason to get discouraged. It is a reason to get started, to grow, to find new ways, to reach within yourself and discover strength, commitment, and determination. The road ahead is long and difficult, but it’s filled with opportunity. Start what needs starting. Finish what needs finishing. Get on the road. Stay on the road. Don’t give up.
+
+> What you hold in your heart, you will see in your world.
+
+> Life does not owe you anything, because life  has already given you everything.
+
+* Faith is taking the first step even when you don't see the whole staircase. -- Martin Luther King, Jr.
+
+* [Symphony No. 8 (Dvořák)](https://en.wikipedia.org/wiki/Symphony_No._8_(Dvo%C5%99%C3%A1k))
+
+> [youtube](https://www.youtube.com/watch?v=8KsXPq3nedY&list=RD8KsXPq3nedY&start_radio=1)
+
+* 瑞士大雪山
+
+> 瑞士有一多半国土在阿尔卑斯山脉上。此山脉的最高峰勃朗峰（海拔4810米）却在瑞士之外的法国意大利边境上。面前的少女峰（海拔4158米）、僧侣峰（海拔4107米），还有另几座高峰，都白雪皑皑，景色非凡。
+
+> 山太高会导致壮观有余而美丽不足。四千米以上就没树了，甚至草都不多，除了白色山峰就是裸露的岩石，满是荒漠景观。阿尔卑斯山的雪峰之下紧接绿色的草甸和苍翠的森林。高山牧场上牛羊的铃铛声，还有山间的湖泊映照着雪峰，湖光山色，美不胜收。
+
+* 李欧梵: 《我的二十世纪：李欧梵回忆录》 
+
+> 多莱热尔: 没有好的作家和作品，不可能产生好的文学理论！
 
 * idea: a device to capture MAC address of all wireless devices around you such as WiFi, Bluetooth, RFID and so on. why? know people around you.
 
