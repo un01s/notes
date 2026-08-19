@@ -1,7 +1,7 @@
 ---
 title: "learn to think and question everything"
 date: 2026-08-10T11:39:15-06:00
-tags: ["john crowley", "tom disch", "fantasy", "verdi", "arthur miller"]
+tags: ["Ezekiel Emanuel", "john crowley", "tom disch", "fantasy", "verdi", "arthur miller"]
 draft: false
 ---
 
@@ -148,6 +148,47 @@ life is desire and desire is life. it is a common problem for everyone that not 
 > 《Va, pensiero》之伟大，不在其繁，而在其以最简之法，触人情最深之处。世人常观此曲结构至简、和声至朴，倘易一庸手写之，极易沦为平淡无奇；然出自威尔第之手，首演即惊动天下，传唱为时代强音。盖庸手之“简”，乃技穷而致苍白；大师之“简”，乃洗尽铅华后之至纯，是深谙人声生理、听觉心理与情感爆破点后之极致收敛。同等作品，出自不同人之手，效果天差地别，古今皆然，此属于社会心理与传播学研究范畴，笔者无意深谈。
 
 ### notes
+
+* book: Eat Your Ice Cream: Six Simple Rules for a Long and Healthy Life by Ezekiel J Emanuel
+
+> Remember the first rule of life: **We’re all going to die**. You can waste all your time trying to extend your life by a few minutes, obsessing over scores of adjustments to your diet or exercise routines, or you can follow six straightforward, smart wellness behaviors and make the time you have healthier and more meaningful.
+
+> These six wellness behaviors are really about your joy and happiness, and about living better. Dr. Emanuel uses them to structure the six chapters of his book:
+
+1. Don’t be a schmuck — avoid self-destructive risks.
+2. Talk to people — cultivate family, friends, and other social relations.
+3. Expand your mind — stay mentally sharp.
+4. Eat your ice cream — consume healthy food and drink.
+5. Move it! — exercise well and regularly.
+6. Sleep like a baby — get the rest you need.
+
+> My … most important message is this: **Wellness and living long are only a means to a good life**. They are not, themselves, the essence of a good life, as so many influencers and wellness gurus make them out to be. An unfulfilling life, no matter how long and healthy, is not the ideal. It will cause more suffering than satisfaction. A long life is worthwhile only if it is filled with meaningful relationships and activities…. Be a mensch. Keep sight of the reasons you want to live longer. Don’t just try to accumulate years of life without appreciating their value.
+
+> willpower is an essential resource on the road to wellness. but it diminishes with repeated use. if relied on over and over, your willpower will fatigue and become depleted, making it harder to make good wellness choices. How, then, can we make changes to our routines without exhausting our willpower?
+
+> keep the routines simple and specific and repeat them at least 4 times a week and in about 6 weeks you'll seem to have a habit.
+
+1. set a specific goal to start on specific date, time and place
+
+2. identify the triggers that might make you give up the new action and plan what you will do when confronted by them.
+
+3. have social support. 
+
+4. reward yourself with a job well done.
+
+> notes: life has more dimensions than just its length. change is hard. **turn something good for yourself and you like to do into your daily habits or routines** like exercise, like no smoking, like making friends and like eating ice creams. why? we have limited attention, energy and willpower to make decisions or choices for all little things. If you draw too much from your reserves, you will get fatigues and burn-outs. remember **happiness is not a goal, it's a by-product of a life well lived**, said Eleanor Roosevelt. 
+ 
+* [Kamome Shirahama's Witch Hat Atelier](https://www.animefeminist.com/who-gets-to-learn-education-power-and-feminist-pedagogy-in-witch-hat-atelier/)
+
+> Unlike many fantasy stories where magical ability is determined by birth or destiny, Witch Hat Atelier reveals that magic is not an inherited gift but a learned practice built on symbology, technique, and observation -- and thus, anyone can theoretically become a witch. The true divide between witches and ordinary people is therefore not talent, but access to knowledge. 
+
+> Likewise, Coco’s journey repeatedly demonstrates that there is not a single, universal pathway to knowledge, and the greatest obstacle she faces is not a lack of intelligence or moral character but the simple fact that she was born outside the magical community. Once she receives access to education, she grows into a capable apprentice through persistence, curiosity, and reflection. Her success suggests that exclusion often creates the very inequalities it later uses to justify itself. If people are never allowed to learn, their lack of knowledge cannot fairly be treated as evidence that they were unfit to learn in the first place.
+
+> Seen through this lens, Witch Hat Atelier presents education as both an ethical practice and a political one. Decisions about who may study, who may teach, and which forms of knowledge remain restricted are never neutral. They shape whose voices are heard, whose abilities are recognized, and whose futures become possible. 
+
+* [iphone: remove or switch sim card](https://support.apple.com/en-ca/109357)
+
+* 屈原《远游》: 惟天地之无穷兮，哀人生之长勤。往者余弗及兮，来者吾不闻。
 
 * [an apology from a Japanese volleyball player](https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3mt76rka2ba27)
 
