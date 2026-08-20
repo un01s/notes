@@ -31,6 +31,8 @@ Why is there not a single course to teach how to think like Math or Physics, if 
 
 life is desire and desire is life. it is a common problem for everyone that not all desire could be fulfilled. That causes frustration and sense of failure, and more desire to be desired. all religions have something to deal with desire as bit evil and bit enemy and bit friend. but to get rid of desire is not possible, so many ways to channel desire instead of blocking it are invented. faith for a better life, maybe. buddhism advocates less desire and so less pain. that is hard because everyone wants a full life and it is always full of desire. to channel it, there are work, rituals, institutions, art, code, law, and so on. everything is setup as barriers to desire like dams to river, good ways and legal ways after everything is codified if possible. like freedom, desire is there but not all of it is allowed.
 
+how to teach critical thinking is like how to teach creative writing. the starting point is actually finding a problem interesting for you to probe or explore or asking a unique question for you to supply an answer. the process of this exploration is the one to create your method, build your thinking from trial-and-error and the result you get, that is, the solution to your problem or the answer to your question.
+
 ### investing
 
 * need to spend some time to make [the heatmap](https://finance.yahoo.com/markets/stocks/most-active/heatmap/) better. the hotness radar?
@@ -38,6 +40,14 @@ life is desire and desire is life. it is a common problem for everyone that not 
 * 20260811 Tuesday: today both Super Micro Computer and CoreWeave are reporting their earnings after hour. Follow CoreWeave. Its price keeps falling this Monday and Tuesday. With indices of S&P500 (-0.32%), Dow30 (-0.34%) and Nasdaq (-0.6%) all down slightly, worried if its earning missed. The bet is hard and the result turns out great.
 
 ![CRWV](sCRWV0811.png)
+
+* 20260819 Wednesday: the story is crazy. the breakthrough to use mRNA tech to create Melanoma vaccine. the stock price of Moderna is more than doubled, a rise of 176%. This brings 10% price rising of both Merck and Novavax stocks.
+ 
+![MRNA](sMRNA0819.png)
+
+![MRK](sMRK0819.png)
+
+![NVAX](sNVAX0819.png)
 
 ### [on politics and the art of acting by Arthur Miller, 2001](https://web.archive.org/web/20010907200127/http://www.neh.gov/whoweare/miller/lecture.html)
 
