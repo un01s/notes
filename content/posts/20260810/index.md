@@ -159,6 +159,12 @@ how to teach critical thinking is like how to teach creative writing. the starti
 
 ### notes
 
+* [陈光甫,1881-1976](https://zh.wikipedia.org/w/index.php?title=%E9%99%B3%E5%85%89%E7%94%AB&oldformat=true&variant=zh-cn)
+
+> [朱圣源：我敬爱的姑父母：陈光甫与朱守德](http://hx.cnd.org/?p=262063)
+
+> 他们的风骨，与当今社会一些人盲目追求物质享受、一切向钱看的作风截然相反。后者从短期来看，容易诱发人心的浮躁与社会的不稳；从长远来看，甚至会逐渐摧毁人类赖以生存的精神世界。
+
 * book: Eat Your Ice Cream: Six Simple Rules for a Long and Healthy Life by Ezekiel J Emanuel
 
 > Remember the first rule of life: **We’re all going to die**. You can waste all your time trying to extend your life by a few minutes, obsessing over scores of adjustments to your diet or exercise routines, or you can follow six straightforward, smart wellness behaviors and make the time you have healthier and more meaningful.
