@@ -249,6 +249,8 @@ I may never see
 
 * [iPhone models](https://support.apple.com/en-us/108044)
 
+> A3408: iPhone16e a SIM tray to hold one physical nano-SIM card.
+
 * [聂绀弩, 1903-1986](https://zh.wikipedia.org/zh-hans/%E8%81%82%E7%BB%80%E5%BC%A9)
 
 > 聂绀弩，散宜生诗
