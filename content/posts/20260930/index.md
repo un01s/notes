@@ -69,6 +69,12 @@ draft: false
 
 > Erich Maria Remarque: This book is to be neither an accusation nor a confession, and least of all an adventure, for death is not an adventure to those who stand face to face with it. It will try simply to tell of a generation of men who, even though they may have escaped shells, were destroyed by the war. 
 
+> Toni Morrison: Clever, but schoolteacher beat him anyway to show him that definitions belonged to the definers — not the defined.
+
+> Marcel Proust: The only true voyage of discovery . . . would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is. 
+
+> Viktor Frankl: Everything can be taken from a man but one thing: the last of the human freedoms — to choose one’s attitude in any given set of circumstances, to choose one’s own way.
+
 * book: Why It’s Better To Be Struggling Half-way Up A High Hill On Your Own: A Poetry Collection by Aidan Parr
 
 * [kagi, a better way to use the web](https://kagi.com)
