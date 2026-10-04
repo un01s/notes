@@ -37,7 +37,11 @@ draft: false
 
 > 10/02: nonfarm data: jobs 2.9m vs 9m expected. jobless rate in September is 4.2% vs 4.1% expected.
 
-* Michael Hartnett, Flow show: 市场涨势极度分化 in march 2000 tech and telecoms, 2026 mag7 represented AI.
+* [Michael Hartnett, Flow show: 市场涨势极度分化 in march 2000 tech and telecoms, 2026 mag7 represented AI](https://www.roic.ai/news/bofas-hartnett-risk-off-mood-to-persist-until-dollar-peaks-and-bond-yields-retreat-10-02-2026)
+
+> Bank of America (BAC) strategist Michael Hartnett advises investors to avoid riskier trades until the dollar peaks and bond yields retreat from multidecade highs. The Bloomberg dollar index has risen 3% from its September low as investors rebuild cash and reduce leverage. Hartnett recommends starting to add bonds, while warning that deeper declines in small caps and banks could signal weakening growth optimism and eventually pressure technology stocks.
+
+> The global bond selloff intensified into October. The U.S. 10-year Treasury yield briefly reached 5.34% on October 1, its highest level since 2002, before easing to roughly 5.25% early October 2. The U.S. dollar index rose to 102.08, a 17-month high, and was on pace for a third straight weekly gain. The immediate driver is no longer only expected short-term Fed policy; market commentary increasingly attributes rising long-end yields to a higher term premium—extra compensation for holding long bonds amid inflation, Treasury-supply, and fiscal-risk concerns.
 
 ### notes
 
