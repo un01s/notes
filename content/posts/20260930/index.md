@@ -1,7 +1,7 @@
 ---
 title: "20260930"
 date: 2026-09-30T15:41:41-06:00
-tags: ["struggle", "prague", "robert palmer"]
+tags: ["struggle", "prague", "robert palmer", "Wittgenstein"]
 draft: false
 ---
 
@@ -11,15 +11,39 @@ draft: false
 
 人上有人人压人，山外有山山连山。为什么生活中总有一种挣扎的感觉？欲求太多而时间和精力有限。
 
+[id: 4dku5YT](4dku5YT5b2BK5y8ozAv3RkNiupRbe)
+
 ### investing
 
 * 20261001: The 10-year Treasury yield, used as a benchmark for mortgages and other loans, rose to 5.33%, its highest level since 2002. Brent oil futures for November delivery reed relatively unchanged near $103 a barrel.
+
+* [日币“崩跌”，不止美元裂缝一条](https://bbs.wenxuecity.com/financenews/34595.html)
+
+> 短期内，日元面临三重压制：日美利差仍高达2.5个百分点以上，日本央行缺乏激进加息的财政空间，以及日本政府干预效果的持续衰减。这三重力量在可预见的未来不会发生根本性逆转。日本相关人士表示，中性利率水平“较难准确判断”，需要避免“加息过快导致金融环境收紧过度”，市场将此解读为日本央行将在加息路径上保持极度审慎的态度。
+
+> 但有一个变量值得持续关注。如果日元持续逼近160甚至突破这一关口，日本财务省可能被迫再次启动大规模干预，而美国参与联合行动的可能性也并非不存在。
+
+> 需要提醒的是，这场日元的漫长下坠，早已不再是日本一国的货币故事。它是全球高债务体系的一次压力测试，美元的储备货币特权，建立在全球债权人持续购买美债的基础之上，而日本作为最重要的海外债权人之一，其财政与货币困境，正在撕开旧全球金融秩序的裂缝。日元的每一次震荡，都会沿着美债、套息交易、区域汇率链条传导至世界各个角落。
+
+> 对于全球投资者而言，日元的行情不只是外汇盘面的数字波动，更是观测全球债务、流动性与地缘风险最直观的窗口。更需铭记的是，“总有一天，市场会彻底无视这些干预措施。”
+
+* next rate hike?
+
+> 09/29: New York Fed President John Williams sees no urgency for next rate hike at Buffalo. “With the policy action we took at our September meeting, there is no need for urgency, and we have time to gather more information. The accumulation of more data should provide greater clarity on the underlying trends in the economy and the associated risks to achieving our goals—and thereby the appropriate setting of monetary policy.” “If the economy evolves in a manner broadly consistent with my forecast, one further upward adjustment of the federal funds target range may be appropriate late this year to support a timelier return of inflation to target. But that is just my forecast, and time—and the totality of the data—will tell.”
+ 
+> 09/30 August PCE data: 0.2 percent at a monthly rate lower than the expected 0.3 percent. 
+
+> 10/02: France has **proposed** plan to release 50 million barrels of diesel reserve from Europe and 50 million barrels of crude oil reserve across IEA members.
+
+> 10/02: nonfarm data: jobs 2.9m vs 9m expected. jobless rate in September is 4.2% vs 4.1% expected.
+
+* Michael Hartnett, Flow show: 市场涨势极度分化 in march 2000 tech and telecoms, 2026 mag7 represented AI.
 
 ### notes
 
 * [蒙克：北越上校回忆越战、解放军和美国战俘]()
 
-> book: 裴信（Bùi Tín）Bui Tin, Following Hi Chi Minh: memoirs of a north vietnamese colonel
+> book: 裴信（Bùi Tín）Bui Tin, Following Ho Chi Minh: memoirs of a north vietnamese colonel
 
 > 裴信后来担任过越共党报《人民日报》的副总编。他在80年代中期开始对越南战后的腐败和在国际上的孤立感到失望。1990年裴信离开越南开始了在巴黎的流亡生涯。他一直公开表达对越共领导层和越南政治制度不满。
 
@@ -27,7 +51,7 @@ draft: false
  
 * [马四维：意义、幸福源于抉择与行动](http://hx.cnd.org/?p=252181)
 
-> 《维特根斯坦传：天才之为责任》这本传记展示的，是一个把“说清楚”与“活认真”当作同一件事的人：在界限前保持诚实，在实践中寻找明白。这本书对今天人的价值，在于把几个简单而坚硬的命题重新推到面前：幸福从何而来？意义如何安放？当生命遭遇不可承受之痛，是否可以把“理性”化为终局的决定？
+> 《维特根斯坦传：天才之责任》这本传记展示的，是一个把“说清楚”与“活认真”当作同一件事的人：在界限前保持诚实，在实践中寻找明白。这本书对今天人的价值，在于把几个简单而坚硬的命题重新推到面前：幸福从何而来？意义如何安放？当生命遭遇不可承受之痛，是否可以把“理性”化为终局的决定？
 
 > book: Ludwig Wittgenstein: The Duty of Genius, by Ray Monk, 1990
 
