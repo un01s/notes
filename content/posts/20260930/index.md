@@ -15,6 +15,16 @@ draft: false
 
 ### investing
 
+* debt problem
+
+> one explanation: investors are losing faith in the dollar. rising yields and record gold prices are two symptoms of the same disease: Uncle Sam printing dollars to cover its debt.
+
+> A $4 billion operation cannot move a market measured in trillions. While debt management can smooth market liquidity, it cannot create savings. The only real solution is to put fiscal policy on a sustainable trajectory. That will require a combination of tax increases and spending cuts.
+
+> A 3 percent long-term real yield means capital scarcity is binding again. Near-zero rates from 2008 to 2020 taught borrowers, Congress most of all, to treat capital as basically free. Those days are gone.
+
+> Bondholders are the only remaining check on federal borrowing. And they are unforgiving. While they may tolerate profligacy for a while, they will eventually punish it, and there is little voters and politicians can do to prevent it.
+
 * 20261001: The 10-year Treasury yield, used as a benchmark for mortgages and other loans, rose to 5.33%, its highest level since 2002. Brent oil futures for November delivery reed relatively unchanged near $103 a barrel.
 
 * [日币“崩跌”，不止美元裂缝一条](https://bbs.wenxuecity.com/financenews/34595.html)
