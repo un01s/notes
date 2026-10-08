@@ -15,6 +15,13 @@ draft: false
 
 ### investing
 
+* debt and AI
+
+> 20261007 Singapore. IMF chief Kristalina Georgieva: Skyrocketing energy costs from two devastating wars. Record-high public debt amid ballooning government bond yields. Debilitating inflation rates, sluggish fiscal growth, and new artificial intelligence investment risks. The global economy is in for a tough 2027, International Monetary Fund (IMF) chief Kristalina Georgieva warned on Wednesday.   
+> Last week, G-7 nations agreed to release 100 million barrels of diesel and crude from their reserves over the next four months to try to rein in high fuel prices. Yet Brent crude still exceeded $100 per barrel on Wednesday, and West Texas Intermediate rose to nearly $90 per barrel.
+
+> Further worrying economists is the global bond sell-off, whose resumption on Wednesday pushed long-term borrowing costs to some of their highest levels in decades. France’s 10-year yields hit 4.93 percent; Britain’s 30-year gilt reached a 28-year high of roughly 6 percent; and 30-year U.S. Treasurys climbed to 5.73 percent, their highest level since 2002.
+
 * debt problem
 
 > one explanation: investors are losing faith in the dollar. rising yields and record gold prices are two symptoms of the same disease: Uncle Sam printing dollars to cover its debt.
@@ -53,7 +60,29 @@ draft: false
 
 > The global bond selloff intensified into October. The U.S. 10-year Treasury yield briefly reached 5.34% on October 1, its highest level since 2002, before easing to roughly 5.25% early October 2. The U.S. dollar index rose to 102.08, a 17-month high, and was on pace for a third straight weekly gain. The immediate driver is no longer only expected short-term Fed policy; market commentary increasingly attributes rising long-end yields to a higher term premium—extra compensation for holding long bonds amid inflation, Treasury-supply, and fiscal-risk concerns.
 
+* AI bubble and US debt
+
+> 纳斯达克的预估盈余收益率约为4%，S&P500整体的预估盈余收益率为约5.12%，两者都低于10年期美债收益率5.24%。这意味着投资人在买股票与买国债之间会更为犹豫，股价将因此承受压力，特别是高估值的科技股。
+
+> 国债收益率愈高，未来的钱就“愈不值钱”，那现在的估值就高估了。买股票就是买公司的未来，如果趋势是，未来的钱比想象中更不值钱，那现在就应降低公司估值。所以才说，国债收益率飙升，最不利于高估值企业，尤其是那些没有本业兜底的新创公司如Anthropic和OpenAI。
+
+> 9月28日，英伟达宣布1500亿美元回购自家股票的计划，提振市场信心，并意图抵销美债收益率上升带来的股价压力。股价基本是由本益比（P/E）与每股盈余（EPS）所组成，回购股票有助于减少流通股数，增加每股盈余，以支撑股价。美债收益率上升，会使折现率上升（未来的钱愈贬值），降低本益比，致使股价承压。因此，英伟达此举是试图最大程度抵销美债收益率上升对股价的负面因素。由于英伟达是赚钱的公司，因此仍有充沛的自由现金流可以回购股票。
+
+> 美债问题是全球性的大问题，这个泡沫的风险远比AI泡沫更严峻，影响更大，因此，为了防止美债泡沫破裂，AI产业成了缓解美债危机的解药之一，这才是“AI泡沫不会破”论的最大底气。
+
 ### notes
+
+* [吴鑫岩：宽松枷锁](http://hx.cnd.org/?p=263566)
+
+> “人生而自由，却无往不在枷锁之中”是卢梭的名著《社会契约论》的开篇词。当年选择来美国并且坚持在这里工作和生活，实际上是选择了一具“宽松的枷锁”。
+
+> 人可以被分为两类：一类是“聚人”，可以专注于一件事而无视其他任何事，这类人做科研工作往往比较出色；另一类是“散人”，其兴趣十分广泛，这类人适合做信息传播和管理工作。这种现象大概与早期人类的狩猎采集生活方式有关：做科研类似于钻进深山老林去打猎，而兴趣广泛的人则与当年采集果实的过程相关。
+
+> 古人云：“大道至简至易。”
+
+> 在李嘉诚的办公室里有一副对联：“发上等愿，结中等缘，享下等福；择高处立，寻平处坐，向宽处行。”
+
+> 做金融的人，对经济最敏感。所谓春江水暖鸭先知，鸭子知道了，鸡还不知道，狗更没感觉嘛。
 
 * Robert D. Kaplan: 美国误判中国
 
