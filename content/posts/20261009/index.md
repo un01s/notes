@@ -56,6 +56,8 @@ Maybe not, oh, but we can only try
 
 ### investing
 
+* 2026-10-14: Inflation heated up in September as energy prices soared, according to the latest Consumer Price Index data. Annual inflation jumped to 3.7%, accelerating from 3.4% in August and outpacing economists' expected 3.6% jump. On a monthly basis, prices rose 0.6% in September from 0.4% a month earlier. Gas prices were a particularly large contributor to September's inflation figures, rising 9.1%. "Core" inflation, which strips out volatile food and energy prices and is watched more closely by Federal Reserve officials, was also **hotter than expected, rising 2.6% annually, up from 2.4% in August.** Monthly core inflation was unchanged from August's higher-than-expected 0.3% but also came in above the expected 0.2%. [this will raise the concern of rate hike. the index futures down immediately. Around 0710am Mountain Time, INTC down 2.85%, NVDA -1.1%, RDDT -0.9%. UNH, PFE, NFLX all up a bit. BAC down 7.4% while earning call. JPM -1.27%. Bond up. oil up. gold down.]
+
 * 投资指数20年比10年赢的概率要大，时间越短，指数股赢的概率越小，这就是短期交易，甚至是日交易的投资者可以打败大盘的信心，这是有统计数据支持的。
 
 * France default?
