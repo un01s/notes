@@ -8,6 +8,11 @@ draft: false
 ![Quebec MontMorencyFalls](montMorencyFalls.png)
 
 时有春秋黄绿叶，运无好坏明暗星。
+时有春秋黄绿叶，运无好坏星明灭。
+
+年少时侯，正是不知天高地厚的时候。比如那时不知道随机性、不知道世界的复杂性和那些藏在细节中的多样性。经历的事多了，同时又多少知道了自己的局限和偏见。人生不过百年，宇宙无垠星河浩瀚，不论从时间还是空间上来看，一个人又是怎样的渺小和不足道？人生而自由，却无往不在枷锁之中。这枷锁有社会给的，也有自然带的，更有每个人的认知局限和无知。可是这生命却是你我所有的一切，如何面对如何度过？在李嘉诚的办公室里有一副对联：“发上等愿，结中等缘，享下等福；择高处立，寻平处坐，向宽处行。”马克吐温说，Climate is what we expect, weather is what we get。而古诗这样写道：时来天地皆同力，运去英雄不自由。
+
+另一个问题：世界为什么不是永远五五开？一个偶然被不断放大。
 
 ```
 [verse 1]
@@ -41,6 +46,8 @@ Of my sweetheart's souvenirs
 
 > [john prine souvenirs on youtube](https://www.youtube.com/watch?v=2xhmPectY9U)
 
+> [the best of John Prine, Angel from Montgomery](https://www.youtube.com/watch?v=bYy4BQgPRQo&list=RDbYy4BQgPRQo&start_radio=1)
+ 
 ```
 I have often asked myself the reason for the sadness
 In a world where tears are just a lullaby
