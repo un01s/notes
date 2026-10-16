@@ -75,17 +75,23 @@ Maybe not, oh, but we can only try
 
 ### notes
 
-* TODO: [李向伟：闭关](http://hx.cnd.org/?p=263663)
+* [李向伟：闭关](http://hx.cnd.org/?p=263663)
 
 > 南朝宋人颜延之作《五君咏》，其中有“刘伶善闭关，怀清灭闻见”句，“灭闻见”就是断绝外界的信息来源。唐代诗人王维作《答张五弟》诗，其中也有“终年无客长闭关，终日无心长自闲”的句子，描写作者在终南山中闭关隐居的情景。
 
-* TODO: [the value of not getting to the point](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+> 南朝刘宋时期，谢灵运与颜延之先后出任永嘉太守。
 
-* TODO: [thinking will beocme a hobby?](https://www.spinellis.gr/blog/20261008/?li261008)
+* [the value of not getting to the point](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
 
-* TODO: [tool: reverse anyhting](https://github.com/morluto/rea)
+> the purpose of people getting together for a conversation over a beer or coffee or lunch or dinner is that it the food and drink spare us from the burden of needing to have something to say throughout the whole conversation.
 
-* TODO: [head orbit](https://github.com/Cogria-AI/HeadOrbit)
+* [thinking will beocme a hobby?](https://www.spinellis.gr/blog/20261008/?li261008)
+
+> AI is here. but we still have to think!
+
+* [tool: reverse anyhting](https://github.com/morluto/rea)
+
+* [tool: head orbit](https://github.com/Cogria-AI/HeadOrbit)
 
 * [OldHorse：今年诺贝尔化学奖，奖给了“世界为什么偏向一边”](http://hx.cnd.org/?p=263851)
 
