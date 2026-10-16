@@ -75,6 +75,18 @@ Maybe not, oh, but we can only try
 
 ### notes
 
+* TODO: [李向伟：闭关](http://hx.cnd.org/?p=263663)
+
+> 南朝宋人颜延之作《五君咏》，其中有“刘伶善闭关，怀清灭闻见”句，“灭闻见”就是断绝外界的信息来源。唐代诗人王维作《答张五弟》诗，其中也有“终年无客长闭关，终日无心长自闲”的句子，描写作者在终南山中闭关隐居的情景。
+
+* TODO: [the value of not getting to the point](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+
+* TODO: [thinking will beocme a hobby?](https://www.spinellis.gr/blog/20261008/?li261008)
+
+* TODO: [tool: reverse anyhting](https://github.com/morluto/rea)
+
+* TODO: [head orbit](https://github.com/Cogria-AI/HeadOrbit)
+
 * [OldHorse：今年诺贝尔化学奖，奖给了“世界为什么偏向一边”](http://hx.cnd.org/?p=263851)
 
 > 诺贝尔化学奖颁给 Henri B. Kagan 和 Kenso Soai。表面上看，这是一个相当专业的化学问题：手性、不对称催化以及手性放大。
