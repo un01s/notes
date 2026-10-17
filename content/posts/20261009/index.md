@@ -14,6 +14,8 @@ draft: false
 
 和偶然性及随机性相关的一个问题：世界为什么不是永远五五开？一个偶然被不断放大。
 
+[If it stays, it is love. If it ends, it’s a love story. If it never begins, it is poetry.](https://bsky.app/profile/fravery.bsky.social)
+
 ```
 [verse 1]
 All the snow has turned to water
@@ -74,6 +76,10 @@ Maybe not, oh, but we can only try
 > [Paul Krugman](https://paulkrugman.substack.com/p/whats-the-matter-with-france): France is on a fiscally unsustainable path. Debt is already very high as a percentage of GDP, and the French government is adding to that debt by running large budget deficits even though there is no emergency like a war, a severe recession, or a pandemic to justify such deficits. Furthermore, France has an aging population, which means that pension costs will, other things equal, grow much faster than revenue.
 
 ### notes
+
+* [Stan Laurel, 1890-1965, English actor, comedian, director and writer](https://en.wikipedia.org/wiki/Stan_Laurel)
+
+* [Peter Sellers, 1925-1980, English actor and comedian](https://fr.wikipedia.org/wiki/Peter_Sellers)
 
 * [吴鑫岩：无理有化](http://hx.cnd.org/?p=263925)
 
