@@ -161,3 +161,40 @@ Maybe not, oh, but we can only try
 
 > 显微镜发明以前，争论细胞是什么东西可以争几百年；望远镜出来以后，许多关于天体的哲学争论突然变成了可以观察的问题。现在给神经元装上“光开关”，也许我们还不知道它最终能把意识之谜推进多远，但至少以后争论“哪一群神经元究竟干了什么”，可以少靠一点哲学，多开几次灯。
 
+* [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan): [Orthogonal triology](https://en.wikipedia.org/wiki/Orthogonal_(series))
+
+> [the clockwork rocket](https://en.wikipedia.org/wiki/The_Clockwork_Rocket)
+
+> [The Eternal Flame](https://en.wikipedia.org/wiki/The_Eternal_Flame_(novel))
+
+> [the arrows of time](https://en.wikipedia.org/wiki/The_Arrows_of_Time)
+
+* 李白：梦游天姥吟留别
+
+```
+海客谈瀛洲，烟涛微茫信难求；
+越人语天姥，云霞明灭或可睹。(云霞 一作：云霓)
+天姥连天向天横，势拔五岳掩赤城。
+天台四万八千丈，对此欲倒东南倾。(四万 一作：一万)
+
+我欲因之梦吴越，一夜飞度镜湖月。
+湖月照我影，送我至剡溪。
+谢公宿处今尚在，渌水荡漾清猿啼。
+脚著谢公屐，身登青云梯。
+半壁见海日，空中闻天鸡。
+千岩万转路不定，迷花倚石忽已暝。
+熊咆龙吟殷岩泉，栗深林兮惊层巅。(栗 一作：慄)
+云青青兮欲雨，水澹澹兮生烟。
+列缺霹雳，丘峦崩摧。
+洞天石扉，訇然中开。
+青冥浩荡不见底，日月照耀金银台。
+霓为衣兮风为马，云之君兮纷纷而来下。
+虎鼓瑟兮鸾回车，仙之人兮列如麻。
+忽魂悸以魄动，恍惊起而长嗟。
+惟觉时之枕席，失向来之烟霞。
+
+世间行乐亦如此，古来万事东流水。
+别君去兮何时还？且放白鹿青崖间，须行即骑访名山。
+安能摧眉折腰事权贵，使我不得开心颜？
+```
+
