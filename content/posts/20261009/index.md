@@ -14,7 +14,7 @@ draft: false
 
 和偶然性及随机性相关的一个问题：世界为什么不是永远五五开？一个偶然被不断放大。
 
-[If it stays, it is love. If it ends, it’s a love story. If it never begins, it is poetry.](https://bsky.app/profile/fravery.bsky.social)
+[If it stays, it is love. If it ends, it’s a love story. If it never begins, it is poetry. -- Nichomachus](https://bsky.app/profile/fravery.bsky.social)
 
 ```
 [verse 1]
