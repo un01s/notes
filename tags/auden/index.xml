@@ -16,7 +16,8 @@
       <description>&lt;p&gt;To navigate life we create mental models of the world out there, and then we confuse the models for reality.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-the-exploreexploit-tradeoff&#34;&gt;What is the explore/exploit tradeoff?&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The gambler needs to learn new knowledge about the machines and simultaneously use what they have already learned to optimize their decisions. In the literature, these two activities are referred to as exploring and exploiting. You can’t do both things at the same time. When you explore, you are pulling new arms on the bandit trying to figure out their expected payout. When you exploit, you pull the best arm you’ve found. You need to find the right balance. If you spend too little time exploring, you get stuck playing a machine with a low expected payoff. But if you spend too much time exploring, you will earn less than you would if you played the best arm. This is the explore/exploit trade-off.&lt;/p&gt;</description>
+&lt;p&gt;The gambler needs to learn new knowledge about the machines and simultaneously use what they have already learned to optimize their decisions. In the literature, these two activities are referred to as exploring and exploiting. You can’t do both things at the same time. When you explore, you are pulling new arms on the bandit trying to figure out their expected payout. When you exploit, you pull the best arm you’ve found. You need to find the right balance. If you spend too little time exploring, you get stuck playing a machine with a low expected payoff. But if you spend too much time exploring, you will earn less than you would if you played the best arm. This is the explore/exploit trade-off.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>
