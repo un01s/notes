@@ -66,6 +66,34 @@ Maybe not, oh, but we can only try
 
 ### investing
 
+* 2026-10-20: rebound: CRWV +4.2%. NBIS +2.2%. TSM +1.4%. IREN +0.1%
+
+* AI companies are borrowing at junk-bond rates as capital dries up, drawing direct comparisons to the 2000 dot-com collapse. CoreWeave pays 13% on new debt, Elice's AI data center IPO crashed 33%, and OpenAI scrambles to raise capital before Anthropic's IPO. Anthropic targets a $2 trillion IPO valuation but remains GAAP-unprofitable, and a nonprofit trust controlling its board clouds the offering.
+
+* 2026-10-19 Monday: NBIS, closed at $170.24. $165~170. $140 buy, $100 buy more. target $300. CRWV, closed at $61.12. target $95. IREN, closed at $27.73. top $76 last year.
+
+> 2026/01/26: CoreWeave (AI infrastructure provider) stock jumps 6% as Nvidia invests $2 billion to expand AI data center capacity. Nvidia purchased CoreWeave Class A common stock at $87.20 per share, according to a release.
+
+> 在最兴奋的时候卖，在最恐慌的时候买，听起来简单，做起来最难。
+
+* TSM
+
+> 1997年10月8日，台积电正式在纽交所挂牌TSM。这是历史上第一家在纽交所上市的台湾企
+业。初始大股东荷兰飞利浦电子（Philips Electronics）释出 1.05 亿股台积电普通股，>转化为 2100 万单位的 ADR（每单位 ADR 代表 5 股台积电台股普通股）。初始发行价定为
+每 ADR 24.78 美元（经拆股调整后折合最初价格约合 $5.27），首发募资总额达到 5.20 >亿美元（若计入随后的超额配售权，最终达 5.95 亿美元）。
+
+> 1997 年下半年正值席卷全亚洲的金融风暴暴发，东南亚多国汇率与股市崩盘，台湾市场>也开始受到波及（新台币对美元面临贬值压力）。在这样动荡的宏观环境下，海外投资者对
+亚洲资产普遍持谨慎甚至恐慌态度。然而，台积电凭借其独特的晶圆代工（Foundry）商业>模式和强劲的财务表现，依然成功完成了定价，其发行价紧贴当时台股本地的收盘价，反映
+出华尔街对其基本面的高度认可。
+
+> 随着 2020 年后全球 AI 热潮爆发，华尔街（尤其是追踪费城半导体指数SOX、VanEck 半
+导体 ETF(SMH) 等指标的被动资金）必须强制买入美股 TSM，导致需求极度放大而供给受限
+。在市场狂热期，台积电 ADR 较台股的溢价率常常飙升至 20% 甚至 28% 以上，成为了美>股半导体与 AI 供应链情绪的晴雨表和放大器。
+
+* SKHY (SK hynix Inc)
+
+> SK海力士（SK Hynix）于 2026 年 7 月 10 日正式在纳斯达克挂牌 ADR
+
 * 2026-10-14: Inflation heated up in September as energy prices soared, according to the latest Consumer Price Index data. Annual inflation jumped to 3.7%, accelerating from 3.4% in August and outpacing economists' expected 3.6% jump. On a monthly basis, prices rose 0.6% in September from 0.4% a month earlier. Gas prices were a particularly large contributor to September's inflation figures, rising 9.1%. "Core" inflation, which strips out volatile food and energy prices and is watched more closely by Federal Reserve officials, was also **hotter than expected, rising 2.6% annually, up from 2.4% in August.** Monthly core inflation was unchanged from August's higher-than-expected 0.3% but also came in above the expected 0.2%. [this will raise the concern of rate hike. the index futures down immediately. Around 0710am Mountain Time, INTC down 2.85%, NVDA -1.1%, RDDT -0.9%. UNH, PFE, NFLX all up a bit. BAC down 7.4% while earning call. JPM -1.27%. Bond up. oil up. gold down.]
 
 * 投资指数20年比10年赢的概率要大，时间越短，指数股赢的概率越小，这就是短期交易，甚至是日交易的投资者可以打败大盘的信心，这是有统计数据支持的。
