@@ -20,7 +20,7 @@ minify:
 
 languages:
     en:
-        languageName: "English"
+        label: "English"
         weight: 1
         menu:
             main:
