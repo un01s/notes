@@ -43,6 +43,14 @@ The name of current cause for stock market movements is AI and debt. But the rea
 
 ### investing
 
+* 2026-10-30: GOOG -13% due to its revenue miss after-market on Wednesday and Thursday. Then INTC -25% from $92 to $68 and AMZN -6% pre-market Friday and both are worse than Thursday after-market. Bitcoin -2500 or -3.1%. (RDDT -21% from $129 to $102. It's $135 a day before. On July 31, 2026 after earning report RDDT down from $180 to $135.) Oil up. Gold down. This is another tech black-day: Nasdaq futures -2.3% pre-market.
+
+![RDDT26-07-31](RDDT260731.png)
+
+![RDDT26-08-03](RDDT260803.png)
+
+![RDDT26-08-04](RDDT260804.png)
+
 * 2026-10-28: Yesterday SKHY +8% after earnings report. Today premarket MU +4%, CRWV +3.8%, TSM +0.45%, UNH -1%, PFE -0.7%. Oil steady above $100. Gold down. S&P futures and Nasdaq futures up, Dow down a bit. Today MSFT and GOOG will report earnings after market. 
 
 * "The plain fact is that inflation is too high and has been for too long," Federal Reserve Chair Kevin Warsh said at his September press conference, after policymakers raised their benchmark rate by a quarter percentage point to 3.75%–4%. And borrowing costs could climb further. Minutes of the Fed's September meeting showed that most participants believed another rate increase "would likely be appropriate by year end." **That could mean another rate hike in December**.
