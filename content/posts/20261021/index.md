@@ -45,7 +45,7 @@ The name of current cause for stock market movements is AI and debt. But the rea
 
 * 2026-10-30: GOOG -13% due to its revenue miss after-market on Wednesday and Thursday. Then INTC -25% from $92 to $68 and AMZN -6% pre-market Friday and both are worse than Thursday after-market. Bitcoin -2500 or -3.1%. (RDDT -21% from $129 to $102. It's $135 a day before. On July 31, 2026 after earning report RDDT down from $180 to $135.) Oil up. Gold down. This is another tech black-day: Nasdaq futures -2.3% pre-market.
 
-* 2026-10-30: use RDDT as an example. The below is its last quarter report on July 30, 2026.
+* 2026-10-30: use RDDT as an example. The below is its last quarter report on July 30, 2026. On July 31, 2026, down from $178 to $135, the lowest down is about 24% then up a bit. 
 
 ![RDDT26-07-30](RDDT260730.png)
 
@@ -62,6 +62,17 @@ The name of current cause for stock market movements is AI and debt. But the rea
 * book: High Returns from Low Risk: A Remarkable Stock Market Paradox by Pim van Vliet, Jan de Koning, 2016
  
 ### notes
+
+* 
+
+> “自然权利”概念不属于经典的共和主义传统，而是启蒙运动的产物。因此严格来说，美国的建国先贤们是启蒙运动与共和传统的“双轨”继承者：启蒙运动为他们提供了“自然权利”的武器，用以对抗英国王权并为个人自由辩护；而共和主义传统，则为他们注入了警惕政治腐败的危机意识，并贡献了防范暴政的制度设计。美国革命的伟大之处，不仅在于北美殖民地脱离英国独立、建立了一个史无前例的国家，更在于它达成了一次伟大的政治妥协，用一部卓越的宪法，成功地将启蒙运动所倡导的个人权利，植入了经文艺复兴重振的共和主义制度框架之中。（当然，伯纳德·贝林（Bernard Bailyn）会为美国建国的思想资源再加上新教传统，不过那超出了本文的范围。）
+
+> 从这段历史来看，自由在于不被奴役的共和主义理念，的确在英国宪政的确立和美国独立建国的伟业中起到了关键的指导和激励的作用，且一直是占主导地位的意识形态。一个直观的例子：伫立在纽约港口外的自由女神像所礼赞的“自由”，肯定是摆脱奴役获得独立的共和自由。没人会把她解释为是在宣扬个人不被干涉的消极自由。
+
+> 在英国宪政确立和美国独立功成之后，霍布斯在18世纪末就强势回归。他的自由观迅速地取代了共和自由观，成为主流意识形态，以至于到了19世纪，英国所有主要的、且自诩为自由主义者的政治理论家——包括约翰·斯图亚特·密尔、 赫伯特·斯宾塞和亨利·西季威克——都采纳了霍布斯的立场：自由，就其本义而言，就是无外界阻碍的状态。这个政治价值观的大转变，被马克斯·舍恩斯伯格（Max Skjönsberg）称为自由理想的“霍布斯转向”（the Hobbesian Turn）。
+
+> 对于霍布斯转向发生的原因和时机，法国政治家/学者本杰明·康斯坦（Benjamin Constant）在1819年发表的著名演讲《古代人的自由与现代人的自由之对比》中做出了一个说明。康斯坦说的“古代人的自由”，就是指共和自由，而他说的“现代人的自由”，就是霍布斯的消极自由。按照他的说法，共和自由已经不适用于现代社会，其根源在于商业社会的兴起——战争获利下降、私人经济活动的价值上升，使人们不再愿意把大量时间投入政治参与，转而珍视私人生活的安宁与不受干涉。现代人的自由，是建立在个体对私生活的掌控和免于外部干涉之上。
+
 
 * [bitchat: p2p messaging mesh with bluetooth](https://github.com/permissionlesstech/bitchat)
 
