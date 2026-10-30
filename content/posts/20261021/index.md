@@ -45,6 +45,10 @@ The name of current cause for stock market movements is AI and debt. But the rea
 
 * 2026-10-30: GOOG -13% due to its revenue miss after-market on Wednesday and Thursday. Then INTC -25% from $92 to $68 and AMZN -6% pre-market Friday and both are worse than Thursday after-market. Bitcoin -2500 or -3.1%. (RDDT -21% from $129 to $102. It's $135 a day before. On July 31, 2026 after earning report RDDT down from $180 to $135.) Oil up. Gold down. This is another tech black-day: Nasdaq futures -2.3% pre-market.
 
+* 2026-10-30: use RDDT as an example. The below is its last quarter report on July 30, 2026.
+
+![RDDT26-07-30](RDDT260730.png)
+
 ![RDDT26-07-31](RDDT260731.png)
 
 ![RDDT26-08-03](RDDT260803.png)
