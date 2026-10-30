@@ -275,6 +275,12 @@ Maybe not, oh, but we can only try
 
 > 显微镜发明以前，争论细胞是什么东西可以争几百年；望远镜出来以后，许多关于天体的哲学争论突然变成了可以观察的问题。现在给神经元装上“光开关”，也许我们还不知道它最终能把意识之谜推进多远，但至少以后争论“哪一群神经元究竟干了什么”，可以少靠一点哲学，多开几次灯。
 
+* [微侃医林 212： 2026 诺贝尔医学奖—神经细胞光开关](https://bbs.wenxuecity.com/health/1219950.html)
+
+> 用光来研究神经系统的设想，来自英国分子生物学家、生物物理学家和神经学家弗朗西斯·克里克 （Francis Crick），DNA双螺旋发现者之一，1962年诺贝尔生理/医学奖获得者。他在70年代末提出：神经细胞传递信号速度特别快，只能用光来操纵，因为光的速度更快。
+
+> Optogenetics，中文翻译是光遗传学。光基因工程也许更适合。
+
 * [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan): [Orthogonal triology](https://en.wikipedia.org/wiki/Orthogonal_(series))
 
 > [the clockwork rocket](https://en.wikipedia.org/wiki/The_Clockwork_Rocket)
