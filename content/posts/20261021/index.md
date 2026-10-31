@@ -1,9 +1,11 @@
 ---
 title: "20261021"
 date: 2026-10-21T18:07:06-06:00
-tags: ["Mikhail Sholokhov"]
+tags: ["Mikhail Sholokhov", "Kirkjufell"]
 draft: false
 ---
+
+![Kirkjufell](icelandChurchMt.png)
 
 > The grass grows over the graves, time overgrows the pain. The wind blew away the traces of those who had departed; time blows away the bloody pain and the memory of those who did not live to see their dear ones again—and will not live, for brief is human life, and not for long is any of us granted to tread the grass. ―- Mikhail Sholokhov, And Quiet Flows the Don
 
@@ -55,6 +57,15 @@ The name of current cause for stock market movements is AI and debt. But the rea
 
 ![RDDT26-08-04](RDDT260804.png)
 
+| date | ref | low | high | open/close(%) | delta | notes |
+| ---- | --- | --- | ---- | ------------- | ----- | ----- |
+| 25/03/31 | | 82.80 | 113.75 | 102.29 / 86.91 | | history low, 51M |
+| 26/07/30 | | 175.00 | 182.42 | 180.00/178.04 | | Q2'26, 11M |
+| 26/07/31 | 178.04 | 135.22 (-24.05%) | 151.38 (-14.97%) | 147.70/140.67 (-20.99%) | ~40 | 29M, crash |
+| 26/08/03 | 178.04 | 140.05 (-21.34%) | 157.72 (-11.41%) | 141.90/154.71 (-13.10%) | ~30 | 11M, 1st day |
+| 26/08/04 | 178.04 | 152.78 (-14.19%) | 162.82 (-8.55%) | 153.62/159.97 (-10.15%) | ~20 | 6M, 2nd day |
+| 26/08/14 | | 174.00 | 184.28 | 175.78/178.09 | | history high, 21M |
+
 * 2026-10-28: Yesterday SKHY +8% after earnings report. Today premarket MU +4%, CRWV +3.8%, TSM +0.45%, UNH -1%, PFE -0.7%. Oil steady above $100. Gold down. S&P futures and Nasdaq futures up, Dow down a bit. Today MSFT and GOOG will report earnings after market. 
 
 * "The plain fact is that inflation is too high and has been for too long," Federal Reserve Chair Kevin Warsh said at his September press conference, after policymakers raised their benchmark rate by a quarter percentage point to 3.75%–4%. And borrowing costs could climb further. Minutes of the Fed's September meeting showed that most participants believed another rate increase "would likely be appropriate by year end." **That could mean another rate hike in December**.
@@ -63,7 +74,9 @@ The name of current cause for stock market movements is AI and debt. But the rea
  
 ### notes
 
-* 
+* 翦一休：自由的历程：共和自由与霍布斯转向 
+
+> 上世纪80年代，消极自由和积极自由的两分法受到由菲利普·佩蒂特（Philip Pettit）和昆廷·斯金纳（Quentin Skinner）等人倡导“共和”自由(“republican” liberty)的挑战。佩蒂特的《共和主义：一种自由和政府的理论》（1997）是共和自由的代表作。斯金纳的新书《自由之为独立：一种政治理想的生成与瓦解》（2025）真实地记录了从古至今共和主义的兴衰，堪称”语境主义“的范本。两位作者宣称，消极自由和积极自由的对立，不仅在哲学上，而且在历史上，都是具有误导性的。
 
 > “自然权利”概念不属于经典的共和主义传统，而是启蒙运动的产物。因此严格来说，美国的建国先贤们是启蒙运动与共和传统的“双轨”继承者：启蒙运动为他们提供了“自然权利”的武器，用以对抗英国王权并为个人自由辩护；而共和主义传统，则为他们注入了警惕政治腐败的危机意识，并贡献了防范暴政的制度设计。美国革命的伟大之处，不仅在于北美殖民地脱离英国独立、建立了一个史无前例的国家，更在于它达成了一次伟大的政治妥协，用一部卓越的宪法，成功地将启蒙运动所倡导的个人权利，植入了经文艺复兴重振的共和主义制度框架之中。（当然，伯纳德·贝林（Bernard Bailyn）会为美国建国的思想资源再加上新教传统，不过那超出了本文的范围。）
 
@@ -73,6 +86,9 @@ The name of current cause for stock market movements is AI and debt. But the rea
 
 > 对于霍布斯转向发生的原因和时机，法国政治家/学者本杰明·康斯坦（Benjamin Constant）在1819年发表的著名演讲《古代人的自由与现代人的自由之对比》中做出了一个说明。康斯坦说的“古代人的自由”，就是指共和自由，而他说的“现代人的自由”，就是霍布斯的消极自由。按照他的说法，共和自由已经不适用于现代社会，其根源在于商业社会的兴起——战争获利下降、私人经济活动的价值上升，使人们不再愿意把大量时间投入政治参与，转而珍视私人生活的安宁与不受干涉。现代人的自由，是建立在个体对私生活的掌控和免于外部干涉之上。
 
+> 在佩蒂特看来，霍布斯转向之所以发生，是因为18世纪末公民权开始扩展到有产男性群体之外。古典的共和主义的信条是公民即自由，公民的自由就体现于政治参与：辩论国是，投票选举，保家卫国，等等。不过共和主义对公民资格一直有相当严苛的要求，比如拥有财产。然而，1792年法兰西第一共和国正式废除了选举的财产资格限制，颁布了针对成年男性的普选权。稍后美国的“杰克逊民主”（Jacksonian Democracy），英国的宪章运动，都大力推动取消选举的财产门槛。公民权的普及自然是民主发展的一个进步，但这个趋势如果继续下去以至于把妇女和仆人也包括进来，并赋予他们以公民身份并参与政治，这在当时却是无法想象的。如果自由要被塑造为一种面向全体公民的理想，那么就必须以不那么苛刻的方式来重新构想自由，将自由与政治参与加以切割。佩蒂特指出，自由于是确实被按照霍布斯重新构想了。
+
+> 斯金纳则对霍布斯转向提出了一种新的解释。斯金纳说，是“对民主的恐慌”，而非商业发展的必然要求，导致共和自由被迅速边缘化，导致了自由理想的霍布斯转向。
 
 * [bitchat: p2p messaging mesh with bluetooth](https://github.com/permissionlesstech/bitchat)
 
