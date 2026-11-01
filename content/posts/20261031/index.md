@@ -7,7 +7,13 @@ draft: false
 
 ### investing
 
-> 费城半导体指数收跌7.2%，创6月以来最大跌幅。费城半导体指数（SOX）是衡量半导体行业整体景气度的核心指标，追踪30家头部半导体企业的股价表现。INTC -28.58%. QCOM -11.1%. AMD -10.9%. ARM -9.97%. CRWV -9.66%. SKHY -7.95%. TSM -5.95%. AVGO -5.5%. MU -5.3%. NVDA -4.2%. AI. debt. oil. inflation. mid-term election on Nov 3. AAPL, AMD, PLTR earnings next week.
+* The biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia (NVDA) and Alphabet (GOOGL) have each given up roughly $835 billion in market cap, and Intel (INTC) lost nearly half its value in October.
+
+* The iShares Semiconductor ETF (SOXX) tumbled about 17% in October, yet it's still up more than 50% this year. On Friday, it dipped as low as $460, below the $464 low from July 29 that marked this summer's bottom. Then it closed at $472, back above that line. 
+
+![SOXX26-10-30](soxx261030.png)
+
+* 费城半导体指数收跌7.2%，创6月以来最大跌幅。费城半导体指数（SOX）是衡量半导体行业整体景气度的核心指标，追踪30家头部半导体企业的股价表现。INTC -28.58%. QCOM -11.1%. AMD -10.9%. ARM -9.97%. CRWV -9.66%. SKHY -7.95%. TSM -5.95%. AVGO -5.5%. MU -5.3%. NVDA -4.2%. AI. debt. oil. inflation. mid-term election on Nov 3. AAPL, AMD, PLTR earnings next week.
 
 * case: TSM
 
