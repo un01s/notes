@@ -5,7 +5,11 @@ tags: ["GOOG", "TSM"]
 draft: false
 ---
 
+> 君不见，黄河之水天上来，奔流到海不复回。君不见，高堂明镜悲白发，朝如青丝暮成雪。人生得意须尽欢，莫使金樽空对月。天生我材必有用，千金散尽还复来。-- 李白《将进酒》
+
 ### investing
+
+* Apple beats Q4 estimates on strong iPhone sales but misses on China revenue.
 
 * The biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia (NVDA) and Alphabet (GOOGL) have each given up roughly $835 billion in market cap, and Intel (INTC) lost nearly half its value in October.
 
@@ -26,6 +30,7 @@ draft: false
 | 26/10/22 | 422.25 | 410.22 | 421.91 | 419.39/412.35 | -10 | valley, 16M |
 | 26/10/28 | 422.25 | 436.84 | 440.88 | 438.24/439.51 | +20 | peak, 8M |
 | 26/10/30 | 422.25 | 400.12 | 418.09 | 414.08/406.13 | -20 | valley, 22M |
+| 26/11/02 | 422.25 | 398.29 | 414.76 | 412.52/398.53 | -20 | valley, 13M, hold |
 
 * case: INTC
 
@@ -56,6 +61,10 @@ draft: false
 | 26/10/30 | | 53.48 | 56.90 | 56.12/54.87 | | down, 53M |
 
 ### notes
+
+* [Carrie Fisher, 1956-2016, Princess Leia, Star War](https://en.wikipedia.org/wiki/Carrie_Fisher)
+
+![princess Leia](leia.png)
 
 * [方舟子: 刘欢之死和音乐的作用](http://xys.org/xys/netters/Fang-Zhouzi/kexueshijie/music.txt)
 
