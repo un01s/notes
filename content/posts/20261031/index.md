@@ -7,6 +7,8 @@ draft: false
 
 > 君不见，黄河之水天上来，奔流到海不复回。君不见，高堂明镜悲白发，朝如青丝暮成雪。人生得意须尽欢，莫使金樽空对月。天生我材必有用，千金散尽还复来。-- 李白《将进酒》
 
+* [A New World (from "Final Fantasy V") - Nobuo Uematsu](https://bsky.app/profile/tristanbouchard.bsky.social/post/3mzidaisfhc2b). [youtube](https://www.youtube.com/watch?v=vFREtmOFa1k)
+
 ### investing
 
 * Apple beats Q4 estimates on strong iPhone sales but misses on China revenue.
