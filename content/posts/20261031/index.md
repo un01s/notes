@@ -11,6 +11,8 @@ draft: false
 
 ### investing
 
+* 2026-11-04: Markets swiftly repriced a Democratic sweep of the House and Senate — and the potential for ballot measures and newly elected officials **to restrict data center construction**. AMD (AMD) stock fell slightly following the company's Q3 earnings beat. Chip stocks, including Nvidia (NVDA) and Micron (MU), fell more than 1%. TSM up. Investors will also be watching for actions on housing and pharmaceuticals in the aftermath of the election.
+
 * Apple beats Q4 estimates on strong iPhone sales but misses on China revenue.
 
 * The biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia (NVDA) and Alphabet (GOOGL) have each given up roughly $835 billion in market cap, and Intel (INTC) lost nearly half its value in October.
