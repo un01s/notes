@@ -11,7 +11,7 @@ draft: false
 
 ### investing
 
-* 2026-11-04: Markets swiftly repriced a Democratic sweep of the House and Senate — and the potential for ballot measures and newly elected officials **to restrict data center construction**. AMD (AMD) stock fell slightly following the company's Q3 earnings beat. Chip stocks, including Nvidia (NVDA) and Micron (MU), fell more than 1%. TSM up. Investors will also be watching for actions on housing and pharmaceuticals in the aftermath of the election.
+* 2026-11-04: Markets swiftly repriced a Democratic sweep of the House and Senate — and the potential for ballot measures and newly elected officials **to restrict data center construction**. AMD (AMD) stock fell slightly following the company's Q3 earnings beat. Chip stocks, including Nvidia (NVDA) and Micron (MU), fell more than 1%. TSM down a bit. **DOUL +35%** on user growth and upbeat guidance. Investors will also be watching for actions on housing and pharmaceuticals in the aftermath of the election.
 
 * Apple beats Q4 estimates on strong iPhone sales but misses on China revenue.
 
