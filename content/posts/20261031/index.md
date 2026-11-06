@@ -1,7 +1,7 @@
 ---
 title: "20261031"
 date: 2026-10-31T06:10:28-06:00
-tags: ["GOOG", "TSM"]
+tags: ["GOOG", "TSM", "Carrie Fisher", "music", "nobel prize"]
 draft: false
 ---
 
@@ -9,7 +9,17 @@ draft: false
 
 * [A New World (from "Final Fantasy V") - Nobuo Uematsu](https://bsky.app/profile/tristanbouchard.bsky.social/post/3mzidaisfhc2b). [youtube](https://www.youtube.com/watch?v=vFREtmOFa1k)
 
-### investing
+* forced freedom: the freedom we inherited is the forced freedom, the right given instead of earned and fighted. the space is there but the boundary of freedom is very blurred without fighting. to make it clear, explore it, expand and extend it.
+
+* trespassing rabbit: a rabbit was killed while crossing the road by a car. it went straight up to the heaven to complain to the god. "we rabbits live on the earth for a very long time but nowadays we are often killed by the vehicles. but we have the right to roaming around, right?"
+
+### news
+
+* tephra, n. solid matter that is ejected into the air by an errupting volcano. [Hawai'i Kīlauea Volcano is still fountaining inside Halema’uma’u Crater.](https://bsky.app/profile/hawaiipacificparks.bsky.social/post/3mzmdrl7zz224) 
+
+* 2026-11-06: New employment data released Friday at 0830AM is expected to show a labor market that's holding steady. US adds 165K jobs in October, est. 70K. The premarket rebound of chip stocks after brutal selloff yesterday. 
+
+* **2026-11-05 brutal Thursday**: Yesterday the markket starts re-evaluation after the mid-term election. Both AI-related and semicon-related stocks down. Oil is down. Gold is up. All others are up. Today the overall market down. All indice are down, Dow -3.4% or more than 1800 points, S&P500 -4.3% or more than 300 points, Nasdaq -5.5% or more than 1400 points, Nasdaq100 -6.3% or 1800 points. SOXX -12% or -$18. Oil price up.
 
 * 2026-11-04: Markets swiftly repriced a Democratic sweep of the House and Senate — and the potential for ballot measures and newly elected officials **to restrict data center construction**. AMD (AMD) stock fell slightly following the company's Q3 earnings beat. Chip stocks, including Nvidia (NVDA) and Micron (MU), fell more than 1%. TSM down a bit. **DOUL +35%** on user growth and upbeat guidance. Investors will also be watching for actions on housing and pharmaceuticals in the aftermath of the election.
 
@@ -65,6 +75,10 @@ draft: false
 | 26/10/30 | | 53.48 | 56.90 | 56.12/54.87 | | down, 53M |
 
 ### notes
+
+* [Led Zeppelin, Immigrant Song](https://en.wikipedia.org/wiki/Immigrant_Song)
+
+* [Möbius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)
 
 * [Carrie Fisher, 1956-2016, Princess Leia, Star War](https://en.wikipedia.org/wiki/Carrie_Fisher)
 
