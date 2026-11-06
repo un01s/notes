@@ -74,6 +74,8 @@ draft: false
 | 26/10/29 | | 60.11 | 64.39 | 61.18/60.74 | | down, 47M |
 | 26/10/30 | | 53.48 | 56.90 | 56.12/54.87 | | down, 53M |
 
+* After the selloff of yesterday, it is clear that PFE, UNH, and NFLX are on one side, and AI and semicon are on the other side of market preference. Oil is another sector.
+
 ### notes
 
 * [Led Zeppelin, Immigrant Song](https://en.wikipedia.org/wiki/Immigrant_Song)
