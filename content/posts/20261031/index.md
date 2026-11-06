@@ -17,7 +17,7 @@ draft: false
 
 * tephra, n. solid matter that is ejected into the air by an errupting volcano. [Hawai'i Kīlauea Volcano is still fountaining inside Halema’uma’u Crater.](https://bsky.app/profile/hawaiipacificparks.bsky.social/post/3mzmdrl7zz224) 
 
-* 2026-11-06: New employment data released Friday at 0830AM is expected to show a labor market that's holding steady. US adds 165K jobs in October, est. 70K. The premarket rebound of chip stocks after brutal selloff yesterday. 
+* 2026-11-06: New employment data released Friday at 0830AM is expected to show a labor market that's holding steady. **US adds 165K jobs in October, est. 70K.** The premarket rebound of chip stocks after a $2.3T brutal selloff yesterday. 
 
 * **2026-11-05 brutal Thursday**: Yesterday the markket starts re-evaluation after the mid-term election. Both AI-related and semicon-related stocks down. Oil is down. Gold is up. All others are up. Today the overall market down. All indice are down, Dow -3.4% or more than 1800 points, S&P500 -4.3% or more than 300 points, Nasdaq -5.5% or more than 1400 points, Nasdaq100 -6.3% or 1800 points. SOXX -12% or -$18. Oil price up.
 
