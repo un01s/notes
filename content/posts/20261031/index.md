@@ -1,5 +1,5 @@
 ---
-title: "20261031"
+title: "挣脱精神的枷锁：视角与尺度"
 date: 2026-10-31T06:10:28-06:00
 tags: ["GOOG", "TSM", "Carrie Fisher", "music", "nobel prize", "王之涣", "李白"]
 draft: false
@@ -14,6 +14,10 @@ draft: false
 > 你只要看看世界，只要把眼光放大，眼光一放大，许多问题就不成其为问题了，**中国今天的问题是很多人没有看到世界**。-- 周有光
 
 * [A New World (from "Final Fantasy V") - Nobuo Uematsu](https://bsky.app/profile/tristanbouchard.bsky.social/post/3mzidaisfhc2b). [youtube](https://www.youtube.com/watch?v=vFREtmOFa1k)
+
+* [PISS - Live on KEXP, youtube](https://www.youtube.com/watch?v=pk1VmJkS3KA)
+
+> [KEXP](kexp.org)
 
 * forced freedom: the freedom we inherited is the forced freedom, the right given instead of earned and fighted. the space is there but the boundary of freedom is very blurred without fighting. to make it clear, explore it, expand and extend it.
 
@@ -83,6 +87,50 @@ draft: false
 * After the selloff of yesterday, it is clear that PFE, UNH, and NFLX are on one side, and AI and semicon are on the other side of market preference. Oil is another sector.
 
 ### notes
+
+* [ugly milkshake duck by Rafe Meager on Oct 30, 2026, substack](https://rottenandgood.substack.com/p/ugly-milkshake-duck)
+
+> [rafe meager on bluesky](https://bsky.app/profile/economeager.bsky.social)
+
+> [metafilter link](https://www.metafilter.com/215004/I-have-been-trying-to-write-this-blog-post-for-3-full-years)
+
+> **fascism has its root in being threatened by life itself, thus making all manner of violence against it always sanctioned and necessary.**
+
+> **The problem is not hatred**. I do not mind if people hate me. I don’t like it, but it doesn’t affect me very much. I hate a lot of people, and not always for excellent reasons, but that is my business. **What matters is what I feel entitled to do with that hate.**
+
+> **Excessive desire for safety is far more dangerous because it feels so right and so righteous.**
+
+> Social media has not changed us into prickly dumb new things with short attention spans--CEOs, the wealthy, the powerful, were already prickly, dumb, with short attention spans, and social media allows us to reshape ourselves in their image
+
+> I think we argue about the Elon Musk nazi salute because we can’t argue about the Elon Musk USAID thing, because the meaning of the Elon Musk USAID thing is unequivocal, and we do not want to be intimate with that meaning.
+
+> It is we, the intellectuals, who foolishly believe a person should or kind of “must” have some kind of motivating coherent ideology or even some fuller set of thoughts and opinions and desires beyond pure and simple domination (“winning”).
+
+>> mittens: Can you be a normal amount of racist? Can you be a sane degree of homophobe? And I think the answer is always no, because none of these are static beliefs that one holds, they're instead dynamic, creative, improvisational. There's always further down to go.
+
+>> mittens: [how the Dutch East India Company created a version of homosexuality in order to legislate it and punish it](https://academic.oup.com/jsh/advance-article/doi/10.1093/jsh/shag034/8736079#568013320). And this is kind of what I mean by 'improvisational' above, we are always inventing prejudice and bigotry, it takes a lot of individual mental effort, in addition to social effort if you're creating a new identity (or new portrayal of an old identity) to oppress.
+
+>> mittens: People are still finding ways to fascism via racism (or sexism, or homophobia, or any othering that creates the Dangerous Abject Enemy). The 'migrant caravan,' Trump's re-making of the term 'asylum,' the fascist imagination is always working. And this is counter to sanity--here I am not pointing to a static mental state either, sanity is also improvisational, it is just asking a different question, how can I get through my life causing the least damage to myself and others, how can I get along? Sanity is also always adjusting itself and creating new ways of being and accommodating.
+
+>> JeremyTheGiantRobot: The realization that fascism is about "resentment" more than "hatred", and more about "safety" than "harm" really gave me a new level of understanding what is happening in my community. Resentment feels grounded in honorable beliefs about the self. The need for safety anchored in a desire to protect yourself and your family. This so neatly explains the lure of fascism. And then the conclusion that fascism can never reach it's goals...it is not building anything, it is always dependent on resentment, and fixing the source of resentment extinguishes that resentment, ergo, fascism can't actually *build* anything...
+
+>> [Fascism: I sometimes fear... by Michael Rosen](https://michaelrosenblog.blogspot.com/2014/05/fascism-i-sometimes-fear.html)
+
+> book: W. Scott Poole, Wasteland: The Great War and the Origins of Modern Horror.
+
+>> TheKaijuCommuter: I think Mittens makes a good point that the fascists poke at different 'isms until they find one that sticks, and that racism remains as effective a pipeline as transphobia here in North America. I wonder if that holds true for every country where fascism is currently making in-roads. At a remove, it looks like stoking fear of immigrants is still effective in the UK, despite transphobia being such an issue there that trans people call it TERF island. Is that true for France? Germany?
+
+>> adrienneleigh: it misses a lot of important things about fascism, including the fact that it is, at root, fundamentally About Gender because it is about constructing and reifying an always-already "natural" hierarchy. Which is also why trans & queer people are always a primary target of fascists.
+
+>> mittens: Like, original-flavor fascism is "about gender" or "about race" in the sense that it is industrialized patriarchy, industrialized white supremacy. And now we are at a different point. Elon's desire to father a new race is fascist patriarchy in the sense that he is turning normal procreation into a kind of factory farm, but he gets there by being a Very Online Rich Guy.
+
+>> Jeanne: Klaus Theweleit's book Male Fantasies is REALLY interesting. "He shows that the Freikorps male identity was shaped by the dread and revulsion that characterized their relations with women (real or imagined) and that this dread was, in turn, linked to the aggressive racism and anticommunism at the heart of most fascist movements."
+
+> The internet is real life. You can log off, but you can leave most situations in meatspace also. The fact that you can leave a situation does not make the situation unreal or false.
+
+> The problem is not that the internet or the phones apps are uniquely awful but that they are awfully like everything and everywhere else, and they didn’t used to be.
+
+> Complaining about the phone on the phone is the phone.
 
 * [徒步的骑手：从世界看中国](https://www.youtube.com/watch?v=IsWy6_ECZ7Q) 
 
