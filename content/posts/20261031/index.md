@@ -1,9 +1,13 @@
 ---
 title: "20261031"
 date: 2026-10-31T06:10:28-06:00
-tags: ["GOOG", "TSM", "Carrie Fisher", "music", "nobel prize"]
+tags: ["GOOG", "TSM", "Carrie Fisher", "music", "nobel prize", "王之涣", "李白"]
 draft: false
 ---
+
+![huanghe](Lanzhou-YellowRiver.jpeg)
+
+* 黄河远上白云间，一片孤城万仞山。
 
 > 君不见，黄河之水天上来，奔流到海不复回。君不见，高堂明镜悲白发，朝如青丝暮成雪。人生得意须尽欢，莫使金樽空对月。天生我材必有用，千金散尽还复来。-- 李白《将进酒》
 
