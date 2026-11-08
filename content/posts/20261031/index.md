@@ -17,7 +17,7 @@ draft: false
 
 * [PISS - Live on KEXP, youtube](https://www.youtube.com/watch?v=pk1VmJkS3KA)
 
-> [KEXP](kexp.org)
+> [KEXP](https://www.kexp.org/)
 
 * forced freedom: the freedom we inherited is the forced freedom, the right given instead of earned and fighted. the space is there but the boundary of freedom is very blurred without fighting. to make it clear, explore it, expand and extend it.
 
