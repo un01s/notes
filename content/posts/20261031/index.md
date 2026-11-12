@@ -132,6 +132,8 @@ draft: false
 
 > Complaining about the phone on the phone is the phone.
 
+* book: 刘宗坤《异乡故人》
+
 * [徒步的骑手：从世界看中国](https://www.youtube.com/watch?v=IsWy6_ECZ7Q) 
 
 > 周有光(1906-2017)发明了汉语拼音，被称为“汉语拼音之父”。
