@@ -67,11 +67,21 @@ No one really teaches me how to live my life. So I learn it bit by bit through m
 
 ### notes
 
-* 
+* trading psychology 
 
 > 大众心理为什么系统性亏钱，有实测数据：(1) 损失厌恶：亏100块的痛约等于赚100块快乐的两倍。结果是处置效应 -- 盈利的拿不住, 亏损的死扛，天然高买低卖。(2) Barber 和 Odean 的经典研究：交易最频繁的那批散户，年化跑输大盘约 6.5 个百分点。“行为损耗”更直观：投资者实际拿到的收益比基金本身的收益低约 1～1.7 个百分点/年，**差的全在进出时间点上而不是选错**。(3) 巴西期货市场那份数据最狠：坚持做 300 天以上的日内交易者，97% 亏损。
 
 > 机构的真实优势是结构性的，不是消息：一是赚价差和订单流，散户的市价单本身就是他们的利润来源；二是波动率 -- 恐慌时 IV 飙升，买 put 的人付的是天价保费，卖方收的就是这份恐慌税；三是他们只在别人被迫交易时进场定价。不过机构也不是冷血机器，基金经理有职业羊群：跟风亏了不丢饭碗，逆势错了会。所以更准确的说法是——韭菜是被自己的行为割的，机构只是站在收割机的另一侧收钱。
+
+> [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion): In cognitive science and behavioral economics, loss aversion is a cognitive bias in which the same situation is perceived as worse if it is framed as a loss, rather than a gain.
+
+> book: Handbook of the economics of finance, 2013, Volume 2 Part B. Chapter 22 - The Behavior of Individual Investors, Brad M. Barber, Terrance Odean: We provide an overview of research on the stock trading behavior of individual investors. This research documents that individual investors (1) underperform standard benchmarks (e.g. a low-cost index fund), (2) sell winning investments while holding losing investments (the “disposition effect”), (3) are heavily influenced by limited attention and past return performance in their purchase decisions, (4) engage in naïve reinforcement learning by repeating past behaviors that coincided with pleasure while avoiding past behaviors that generated pain, and (5) tend to hold undiversified stock portfolios. These behaviors deleteriously affect the financial well being of individual investors. 
+
+> [All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors, Barber & Odean 2007](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AllThatGlitters_RFS_2008.pdf)
+
+>> Attention is a scarce resource. When there are many alternatives, options that attract attention are more likely to be considered, hence more likely to be chosen, while options that do not attract attention are often ignored. 
+
+> [Barber & Odean 2007, local copy](AllThatGlitters_RFS_2008.pdf)
 
 * 翦一休：在启蒙和浪漫之间
 
