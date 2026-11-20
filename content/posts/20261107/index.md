@@ -5,6 +5,8 @@ tags: ["fascism", "life", "philosophy"]
 draft: false
 ---
 
+![arches national park](archesNP.pdf)
+
 > 假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里须要镇静：相信吧，快乐的日子将会来临！心儿永远向往着未来；现在却常是忧郁。一切都是瞬息，一切都将会过去；而那过去了的，就会成为亲切的怀恋。-- 普希金(Pushkin, 1799-1837), 假如生活欺骗了你, 1825
 
 No one really teaches me how to live my life. So I learn it bit by bit through mistakes.

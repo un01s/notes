@@ -19,6 +19,18 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 ### notes
 
+* movie Anna 2019
+
+> [quotes](https://www.moviequotesandmore.com/anna-2019-best-movie-quotes/)
+
+> [transcript](https://scrapsfromtheloft.com/movies/anna-2019-transcript/)
+
+> [Anton Chekhov Seagull quote](https://www.goodreads.com/work/quotes/3200341)
+
+>> In all the universe nothing remains permanent and unchanged but the spirit.
+
+>> We should show life neither as it is, nor as it should be, but as we see it in our dreams.
+
 * neoliberalism
 
 > capitalism is an economic system founded on colonial looting. it operates on a constantly shifting and self-consuming frontier, on which both state and powerful private interests use their laws, backed by the threat of violence, to turn shared resources into exclusive property, and to transform natural wealth, labor, and money into commodities that can be accumulated.
@@ -82,6 +94,8 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 > On Wednesday, November 18 at 5:16:07 a.m. EST, Voyager 1 will be one light-day from Earth: about 16.1 billion miles (25.9 billion km), the distance light covers in 24 hours. It will be the first human-made object to get that far. Launched in 1977, it will have taken just over 49 years to cover that single light-day.
 
 > The fact that it took half a century to travel one light-day, and that the nearest stars are light-years away, just underscore how vast the Universe is.
+
+![nasa voyage1](voyage1_onelightday.png)
 
 * trading psychology 
 
