@@ -13,11 +13,15 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 ### news
 
+* 2026-11-21: The S&P 500 fell every day this week, with four drops of 1% or more. That had happened only in 1962, 1974, 1978, the week after the 9/11 attacks in 2001 and October 2008, according to Bespoke Investment Group. What a week and what a month! the blue wave of mid-term triggered fears about anti-AI and anti-datacenter policy. Jensen Huang of Nvidia scandal. Anthropic IPO. Fed rate hike in coming December, .25 or .50 percent?  
+
 * 2026-11-16: **NVDA on Tuesday (11-17 after bell).** Retail TGT on Wednesday, WMT and ROST on Thursday. **Anthropic IPO on Wednesday (11-18).** BIDU on Monday (11-16) and BABA on Thursday 11-19. **For NVDA this past week's upheaval won't impact earnings this quarter or next. Nvidia has sales locked in well in advance,**  meaning its bottom line won't take a hit for some time, if at all. Over the next month, Huang, Nvidia general counsel Tim Teter, and Secretary of Commerce Howard Lutnick are all expected to testify and answer questions from both chambers of Congress about not only Huang's conduct, but potential violations of US export policy.
 
 * 2026-11-16: The case for Huang starts with paperwork that doesn't exist. He has said **Nvidia has never signed a contract with chipmaker TSMC in three decades of business.**
 
 ### notes
+
+* [As china ages, by Carl Minzner](https://global.oup.com/academic/product/as-china-ages-9780197678596)
 
 * movie Anna 2019
 
