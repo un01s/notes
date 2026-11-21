@@ -5,6 +5,10 @@ tags: ["cillian murphy", "walter lippmann", "Edward Bernays", "neoliberalism", "
 draft: false
 ---
 
+![anna movie poster](anna.jpeg)
+
+* a woman can hide another
+
 > we are governed, our minds are molded, our tastes formed, our ideas suggested, largely by men we have never heard of. -- [Edward Bernays, 1891-1995, the father of public relations](https://en.wikipedia.org/wiki/Edward_Bernays), Propaganda, 1928
 
 > Deregulation is a transfer of power from the trodden to the treading. It is unsurprising that all conservative parties claim to hate big government. ― George Monbiot
