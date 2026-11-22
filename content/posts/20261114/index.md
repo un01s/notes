@@ -46,8 +46,9 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 * [movie anna transcript](https://scrapsfromtheloft.com/movies/anna-2019-transcript/)
 
-> Olga: **"It takes more than intelligence to act intelligently." Dostoyevsky.** 
-> Anna: Like a captive cast to the bottom of a deep dry well, I know not who I am, not what awaits me. Yes, it's clear to me that in this cruel and obstinate struggle with Satan, I'm fated to emerge victorious. Then mind and matter shall fuse in perfect harmony, and the reign of universal will shall begin. (this quote from Chekhov seems not correct 100%. the key word should be freedom.))
+> Olga: **"It takes more than intelligence to act intelligently." Dostoyevsky.**
+
+> Anna: Like a captive cast to the bottom of a deep dry well, I know not who I am, not what awaits me. Yes, it's clear to me that in this cruel and obstinate struggle with Satan, I'm fated to emerge victorious. Then mind and matter shall fuse in perfect harmony, and the reign of universal will shall begin. (this quote from Chekhov seems not correct 100%. the key word should be freedom.)
 
 > Olga: Hmm. Chekhov. Seagull. Act one. **The play within the play.**
 
