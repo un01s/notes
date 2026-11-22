@@ -23,47 +23,51 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 * 2026-11-16: The case for Huang starts with paperwork that doesn't exist. He has said **Nvidia has never signed a contract with chipmaker TSMC in three decades of business.**
 
+### movie Anna 2019
+
+* [quotes](https://www.moviequotesandmore.com/anna-2019-best-movie-quotes/)
+
+> [she cuts her own wrist]
+
+> Alex Tchenkov: I think you've made the wrong decision.
+
+> Anna: You talk about turning points and choices. Those are just pretty words, if it means it's going to take me to another shitty town, in another shitty box. 
+> Alex Tchenkov: You have a right to make your own choices in your life. Go here, go there. Say yes, say no. But what you can't do is reject life itself. Your life was a gift. Who gave it to you?
+
+> Anna: My parents.
+
+> Alex Tchenkov: And this is how you honor them? This is what your father would want for you? Their lives are over. But yours isn't. Have a little faith.
+
+> Anna: Last time I put my faith in men, look where it got me.
+
+> Alex Tchenkov: Never put your faith in men, Anna. **Put faith in yourself.**
+
+> [Anna puts her hand on the cut on her wrist to stop the bleeding]
+
+* [movie anna transcript](https://scrapsfromtheloft.com/movies/anna-2019-transcript/)
+
+> Olga: **"It takes more than intelligence to act intelligently." Dostoyevsky.** 
+> Anna: Like a captive cast to the bottom of a deep dry well, I know not who I am, not what awaits me. Yes, it's clear to me that in this cruel and obstinate struggle with Satan, I'm fated to emerge victorious. Then mind and matter shall fuse in perfect harmony, and the reign of universal will shall begin. (this quote from Chekhov seems not correct 100%. the key word should be freedom.))
+
+> Olga: Hmm. Chekhov. Seagull. Act one. **The play within the play.**
+
+* [Anton Chekhov Seagull quote](https://www.goodreads.com/work/quotes/3200341)
+
+> In all the universe nothing remains permanent and unchanged but the spirit.
+
+> We should show life neither as it is, nor as it should be, but as we see it in our dreams.
+
+> NINA: I am alone. Once in a hundred years my lips are opened, my voice echoes mournfully across the desert earth, and no one hears. And you, poor lights of the marsh, you do not hear me. You are engendered at sunset in the putrid mud, and flit wavering about the lake till dawn, unconscious, unreasoning, unwarmed by the breath of life. Satan, father of eternal matter, trembling lest the spark of life should glow in you, has ordered an unceasing movement of the atoms that compose you, and so you shift and change for ever. I, the spirit of the universe, I alone am immutable and eternal. [A pause] **Like a captive in a dungeon deep and void, I know not where I am, nor what awaits me. One thing only is not hidden from me: in my fierce and obstinate battle with Satan, the source of the forces of matter, I am destined to be victorious in the end. Matter and spirit will then be one at last in glorious harmony, and the reign of freedom will begin on earth.** But this can only come to pass by slow degrees, when after countless eons the moon and earth and shining Sirius himself shall fall to dust. Until that hour, oh, horror! horror! horror! [A pause. Two glowing red points are seen shining across the lake] Satan, my mighty foe, advances; I see his dread and lurid eyes.
+
 ### notes
 
+* neocloud business like Coreweave
+
+> Chanos describes the business model as an **equipment leasing** business. It's a commodity business with a high cost of capital, rapidly depreciating assets, no competitive advantage that generates a low return on capital. Unlike the major tech companies, Coreweave does not have a legacy cash-machine business to fund its investments, so the best it can do is borrow at high interest rates to finance GPU purchases. There's a fair chance Coreweave will default on its debt in the next few years & equity holders may be wiped out, & the lenders will be left owning all the hardware. But it's probably the worst of the lot & not all business models are this bad. 
+
+> SpaceX. Less said the better. **Starlink seems like a good business provided it has access to subsided launch costs.** SpaceX's launch business is technically very impressive but unclear if it's a good investment. xAI seems like a terrible business & the data centres in space thing is a nonsensical promotional gimmick to pump the stock price. SpaceX's IPO seems well executed & cleverly timed to beat the actual AI businesses to IPO & help meet investor demand for investors who want 'AI stocks', and very cynical. **A good business at a price too high is a bad investment. Buying a bundle of (good business, questionable business, awful business) at a sky high price does not seem like a deal for the buyer.**
+
 * [As china ages, by Carl Minzner](https://global.oup.com/academic/product/as-china-ages-9780197678596)
-
-* movie Anna 2019
-
-> [quotes](https://www.moviequotesandmore.com/anna-2019-best-movie-quotes/)
-
->> [she cuts her own wrist]
-
->> Alex Tchenkov: I think you've made the wrong decision.
-
->> Anna: You talk about turning points and choices. Those are just pretty words, if it means it's going to take me to another shitty town, in another shitty box. 
-
->> Alex Tchenkov: You have a right to make your own choices in your life. Go here, go there. Say yes, say no. But what you can't do is reject life itself. Your life was a gift. Who gave it to you?
-
->> Anna: My parents.
-
->> Alex Tchenkov: And this is how you honor them? This is what your father would want for you? Their lives are over. But yours isn't. Have a little faith.
-
->> Anna: Last time I put my faith in men, look where it got me.
-
->> Alex Tchenkov: Never put your faith in men, Anna. Put faith in yourself.
-
->> [Anna puts her hand on the cut on her wrist to stop the bleeding]
-
-> [transcript](https://scrapsfromtheloft.com/movies/anna-2019-transcript/)
-
->> Olga: It takes more than intelligence to act intelligently.&#8221; Dostoyevsky. 
-
->> Anna: Like a captive cast to the bottom of a deep dry well, I know not who I am, not what awaits me. Yes, it's clear to me that in this cruel and obstinate struggle with Satan, I'm fated to emerge victorious. Then mind and matter shall fuse in perfect harmony, and the reign of universal will shall begin.
-
->> Olga: Hmm. Chekhov. Seagull. Act one. The play within the play.
-
-> [Anton Chekhov Seagull quote](https://www.goodreads.com/work/quotes/3200341)
-
->> In all the universe nothing remains permanent and unchanged but the spirit.
-
->> We should show life neither as it is, nor as it should be, but as we see it in our dreams.
-
->> NINA: I am alone. Once in a hundred years my lips are opened, my voice echoes mournfully across the desert earth, and no one hears. And you, poor lights of the marsh, you do not hear me. You are engendered at sunset in the putrid mud, and flit wavering about the lake till dawn, unconscious, unreasoning, unwarmed by the breath of life. Satan, father of eternal matter, trembling lest the spark of life should glow in you, has ordered an unceasing movement of the atoms that compose you, and so you shift and change for ever. I, the spirit of the universe, I alone am immutable and eternal. [A pause] **Like a captive in a dungeon deep and void, I know not where I am, nor what awaits me. One thing only is not hidden from me: in my fierce and obstinate battle with Satan, the source of the forces of matter, I am destined to be victorious in the end. Matter and spirit will then be one at last in glorious harmony, and the reign of freedom will begin on earth.** But this can only come to pass by slow degrees, when after countless eons the moon and earth and shining Sirius himself shall fall to dust. Until that hour, oh, horror! horror! horror! [A pause. Two glowing red points are seen shining across the lake] Satan, my mighty foe, advances; I see his dread and lurid eyes.
 
 * neoliberalism
 
