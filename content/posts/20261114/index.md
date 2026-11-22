@@ -13,6 +13,8 @@ draft: false
 
 > Deregulation is a transfer of power from the trodden to the treading. It is unsurprising that all conservative parties claim to hate big government. ― George Monbiot
 
+> Uncertainty is an uncomfortable position. But certainty is an absurd one. -- Voltaire
+
 one piece of propaganda has three parts, grabbing your attention, sticking to your mind, and triggering the intended actions from you. this is just one part of practical psychology that includes cult, trading, sales, and more.
 
 ### news
@@ -63,6 +65,9 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 ### notes
 
+* moie The Sleeper, 2025, Turkey (Uykucu)
+
+> 不用自己智慧的人都是笨蛋。
 * the first iPhone came out on 2007 June 29.
 
 * [florilegium github](https://github.com/kevinraymond/florilegium)
