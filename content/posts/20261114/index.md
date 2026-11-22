@@ -31,7 +31,8 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 > Alex Tchenkov: I think you've made the wrong decision.
 
-> Anna: You talk about turning points and choices. Those are just pretty words, if it means it's going to take me to another shitty town, in another shitty box. 
+> Anna: You talk about turning points and choices. Those are just pretty words, if it means it's going to take me to another shitty town, in another shitty box.
+
 > Alex Tchenkov: You have a right to make your own choices in your life. Go here, go there. Say yes, say no. But what you can't do is reject life itself. Your life was a gift. Who gave it to you?
 
 > Anna: My parents.
@@ -61,6 +62,18 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 > NINA: I am alone. Once in a hundred years my lips are opened, my voice echoes mournfully across the desert earth, and no one hears. And you, poor lights of the marsh, you do not hear me. You are engendered at sunset in the putrid mud, and flit wavering about the lake till dawn, unconscious, unreasoning, unwarmed by the breath of life. Satan, father of eternal matter, trembling lest the spark of life should glow in you, has ordered an unceasing movement of the atoms that compose you, and so you shift and change for ever. I, the spirit of the universe, I alone am immutable and eternal. [A pause] **Like a captive in a dungeon deep and void, I know not where I am, nor what awaits me. One thing only is not hidden from me: in my fierce and obstinate battle with Satan, the source of the forces of matter, I am destined to be victorious in the end. Matter and spirit will then be one at last in glorious harmony, and the reign of freedom will begin on earth.** But this can only come to pass by slow degrees, when after countless eons the moon and earth and shining Sirius himself shall fall to dust. Until that hour, oh, horror! horror! horror! [A pause. Two glowing red points are seen shining across the lake] Satan, my mighty foe, advances; I see his dread and lurid eyes.
 
 ### notes
+
+* the first iPhone came out on 2007 June 29.
+
+* [florilegium github](https://github.com/kevinraymond/florilegium)
+
+* [SOML, a simplified YAML to replace JSON](https://github.com/soml-lang/soml)
+
+* [window sweater for MacOS](https://github.com/saragordic/window-sweaters)
+
+* [zlib in a terminal](https://github.com/heartleo/zlib)
+
+* [melarka: self-hosted media sever](https://github.com/aaronsuns/melarka)
 
 * neocloud business like Coreweave
 
