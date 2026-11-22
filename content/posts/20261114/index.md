@@ -74,6 +74,34 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 > capitalism is an economic system founded on colonial looting. it operates on a constantly shifting and self-consuming frontier, on which both state and powerful private interests use their laws, backed by the threat of violence, to turn shared resources into exclusive property, and to transform natural wealth, labor, and money into commodities that can be accumulated.
 
+> "Boom, Bust, Quit" is what capitalism does.
+
+> capitalism is one system designed to capture and concentrate wealth. the fairy tale that capitalism tells about itself -- that you become rich through hard work and enterprise -- is the greatest propaganda coup in human history.
+
+> book: Friedrich Hayek, the road to serfdom, 1944
+
+> book: Ludwig von Mises, Bureaucracy, 1944
+
+> Both books were widely read, and they became especially popular among very wealthy and powerful people. These people saw in Hayek’s and von Mises’s ideas an opportunity: an opportunity to escape from the tax, regulation, and labor movements against which they and their fortunes chafed. They quickly began to take an active interest and to bankroll the spread of this new ideology. (neoliberalism)
+
+> it redefined their financial self-interest as a courageous stand against tyranny and a principled defense of freedom. the doctrine as a means of liberating themselves (the rich) from political restraints on their freedom of action.
+
+> A free society, in Hayek's mind, became one in which the state helped eliminate firebreaks that prevented capitalism’s conflagration from consuming the world. (that is the freedom to do whatever you want for the rich) It may come as no surprise to those who follow such matters that in 1974 Hayek was awarded the Nobel Prize for Economics.
+
+> John Maynard Keynes’s prescriptions: governments should pursue full employment; taxes should be high and public services well funded; inequality should be constrained and a social safety net should prevent the poor from falling into destitution.
+
+> The success of Keynes’s model relied to a large extent on capital controls, fixed exchange rates, and strongly regulated financial markets, which both prevented speculators from sucking money out of national economies and ensured that government stimulus measures (cutting interest rates or increasing spending on public services) catalyzed manufacturing and jobs at home rather than in other countries with competing industries. 
+
+> When, in 1971, Richard Nixon abandoned the system of fixed exchange rates, he opened the door for speculation and capital flight. These were among the factors, in combination with the Middle East oil crisis of 1973, which led to a disastrous combination of high inflation, high unemployment, and a decline in productivity growth. New York city as one striking example was forced to declare bankruptcy in 1975.
+
+> With the help of sympathetic government advisers and journalists, neoliberal ideas—especially regarding monetary policy—began to seep into the administrations of Jimmy Carter in the United States and James Callaghan in the United Kingdom. Hayek was said to be Ronald Reagan’s favorite political philosopher; Milton Friedman would become Reagan’s close adviser while he was in office.
+
+> Like Reagan, Thatcher surrounded herself with advisers who sought to transform Hayek’s ideas into a political platform, combining neoliberal economics with a revival of nineteenth-century social conservatism: tradition, family, and the veneration of work.
+
+> Their massive tax cuts for the rich, the crushing of trade unions, the reductions in public housing, deregulation, privatization, and the outsourcing of public services were all proposed by Hayek or his disciples.
+
+> Friedman’s masterstroke was implanting the idea that “business freedom is personal freedom” in the minds of Americans. In 1976, he, too, received the Nobel Prize for Economics.
+
 * [Milovan Djilas，1911—1995](https://en.wikipedia.org/wiki/Milovan_Djilas)
 
 > Yugoslav communist politician, theorist and author. best-known and most prominent dissidents in Yugoslavia and all of Eastern Europe.

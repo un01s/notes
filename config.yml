@@ -82,7 +82,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "side notes on reading"
+        Title: "reading history: perspectivs and scales"
         Content: >
             "Human nature is not a machine to be built after a model, and set to do exactly the work prescribed for it, but a tree, which requires to grow and develop itself on all sides, according to the tendency of the inward forces which make it a living thing." -- John Stuart Mill
             
