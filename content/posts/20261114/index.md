@@ -65,6 +65,8 @@ one piece of propaganda has three parts, grabbing your attention, sticking to yo
 
 ### notes
 
+* [jaguar, toit](https://github.com/toitlang/jaguar)
+
 * moie The Sleeper, 2025, Turkey (Uykucu)
 
 > 不用自己智慧的人都是笨蛋。
