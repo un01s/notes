@@ -43,9 +43,23 @@ draft: false
 
 > The filing, signed by Trump on Nov. 1 and received by the ethics office on Nov. 5, identifies several purchases of Nvidia stock during September. Reuters calculated that the transactions included up to $265,000 in purchases and up to $15,000 in sales.
 
+* [It's as insane as you think by Brian Philips, 2026-11-23](https://www.theringer.com/2026/11/23/national-affairs/jensen-huang-reinstated-nvidia-donald-trump-china-ai-chips)
+
+> What. The. Fuck. Huang, you’ll remember, resigned as CEO of Nvidia, the multitrillion-dollar tech behemoth whose chips run the whole AI industry, less than two weeks ago. “Resigned” is putting it nicely. By all accounts, Huang was forced out by the Nvidia board following revelations that he’d been having an affair with a woman thought by the U.S. intelligence community to be a Chinese spy. Having an affair with a Chinese spy is a dubious life choice for most American CEOs, but it’s especially problematic when you run a company that’s legally barred from selling its most advanced products to China because the U.S. government considers them essential to national security. If the CEO of Boeing had been caught having an affair with a Soviet spy at the height of the Cold War, it wouldn’t have been great for his career. Two weeks ago, that was essentially Huang’s situation.
+
+> Which is why it made perfect sense when, less than a week ago, the Nvidia board emphasized on the company’s quarterly earnings call that it did not intend to bring Huang back as CEO.
+
+> This is — or ought to be — beyond all that. You should immediately understand this as one of the biggest scandals in American political history. It might be the biggest. **A president with a financial stake in a company is personally protecting that company’s CEO after he was caught helping the U.S.’s biggest geopolitical rival acquire assets restricted for national security.** Watergate was a minor speeding violation compared with this. Looking at this and thinking about Hillary Clinton’s email server makes me want to climb a tree.
+
+> What it reveals, more than anything, is that keeping the AI bubble going is the only priority that matters to the oligarchs and political elites who currently run the United States. Huang’s ouster exacerbated already existing anxieties among tech investors; as of Friday, Nvidia’s stock had lost $2.6 trillion in value over just seven weeks. And this spurred a broader sell-off across the tech sector, one that not even Anthropic’s ludicrously massive IPO could stem. Last week, the S&P 500 went into a correction, having lost 10 percent of its value since October 6, and the Nasdaq index lost all its gains for 2026 to date. The possibility of a genuine AI implosion suddenly seemed real.
+
+> [Brian Philips on bsky.app](https://bsky.app/profile/brianphillips.lol)
+
 ### notes
 
 * [the market monetarist](https://marketmonetarist.com/)
+
+![Nvidia5days](nvda.png)
 
 > 2026-11-23: Nvidia’s shares rose around 30% this Monday after the board reinstated Jensen Huang as CEO. Yet since he admitted his affairs on November 8, the shares had lost about a third of their value. Today they won a large part of it back. So what did the market lose – and then get back?
 
@@ -54,8 +68,6 @@ draft: false
 > Nvidia is not the only example. When Elon Musk fell out with Trump in June last year, Tesla lost around 14% of its value in a single day. Not because the cars got worse, but because Musk’s relationship with the president did. And the US government is now a shareholder in Intel.
 
 > When share prices move more on political connections than on earnings and management, the US stock market starts to look more like Turkey’s or Russia’s than the US market we used to know. **The problem is that a political guarantee only lasts as long as the politician stays in power.** Trump will not be president forever. And when the guarantee goes, so do the share prices.
-
-![Nvidia5days](nvda.png)
 
 * book: [Stephen Witt](https://www.straitstimes.com/life/arts/jensen-huang-biographer-stephen-witt-on-nvidia-founders-cult-of-personality), [the thinking machine: Jensen Huang, Nvidia And The World’s Most Coveted Microchip, 2025.](https://en.wikipedia.org/wiki/The_Thinking_Machine:_Jensen_Huang,_Nvidia_and_the_World%27s_Most_Coveted_Microchip) (中译《黄仁勋：英伟达之芯》) 
 
