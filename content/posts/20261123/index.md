@@ -49,11 +49,11 @@ draft: false
 
 > 2026-11-23: Nvidia’s shares rose around 30% this Monday after the board reinstated Jensen Huang as CEO. Yet since he admitted his affairs on November 8, the shares had lost about a third of their value. Today they won a large part of it back. So what did the market lose – and then get back?
 
-> Not management skills. **Access to political power.** Nvidia’s earnings increasingly depend on decisions made in the White House. Can it sell chips to China? How big a cut of those sales does the US government take? How strictly are export controls enforced? Huang had a direct line to President Donald Trump. That line is what shareholders were paying for.
+> Jensen Huang is the same man today as he was 11 days ago. He has not become better or worse at running a company since then. Not management skills. **Access to political power.** Nvidia’s earnings increasingly depend on decisions made in the White House. Can it sell chips to China? How big a cut of those sales does the US government take? How strictly are export controls enforced? Huang had a direct line to President Donald Trump. That line is what shareholders were paying for.
 
 > Nvidia is not the only example. When Elon Musk fell out with Trump in June last year, Tesla lost around 14% of its value in a single day. Not because the cars got worse, but because Musk’s relationship with the president did. And the US government is now a shareholder in Intel.
 
-> When share prices move more on political connections than on earnings and management, the US stock market starts to look more like Turkey’s or Russia’s than the US market we used to know. The problem is that a political guarantee only lasts as long as the politician stays in power. Trump will not be president forever. And when the guarantee goes, so do the share prices.
+> When share prices move more on political connections than on earnings and management, the US stock market starts to look more like Turkey’s or Russia’s than the US market we used to know. **The problem is that a political guarantee only lasts as long as the politician stays in power.** Trump will not be president forever. And when the guarantee goes, so do the share prices.
 
 ![Nvidia5days](nvda.png)
 
