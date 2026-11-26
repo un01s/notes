@@ -45,6 +45,28 @@ draft: false
 
 ### notes
 
+* [the market monetarist](https://marketmonetarist.com/)
+
+> 2026-11-23: Nvidia’s shares rose around 30% this Monday after the board reinstated Jensen Huang as CEO. Yet since he admitted his affairs on November 8, the shares had lost about a third of their value. Today they won a large part of it back. So what did the market lose – and then get back?
+
+> Not management skills. **Access to political power.** Nvidia’s earnings increasingly depend on decisions made in the White House. Can it sell chips to China? How big a cut of those sales does the US government take? How strictly are export controls enforced? Huang had a direct line to President Donald Trump. That line is what shareholders were paying for.
+
+> Nvidia is not the only example. When Elon Musk fell out with Trump in June last year, Tesla lost around 14% of its value in a single day. Not because the cars got worse, but because Musk’s relationship with the president did. And the US government is now a shareholder in Intel.
+
+> When share prices move more on political connections than on earnings and management, the US stock market starts to look more like Turkey’s or Russia’s than the US market we used to know. The problem is that a political guarantee only lasts as long as the politician stays in power. Trump will not be president forever. And when the guarantee goes, so do the share prices.
+
+![Nvidia5days](nvda.png)
+
+* book: [Stephen Witt](https://www.straitstimes.com/life/arts/jensen-huang-biographer-stephen-witt-on-nvidia-founders-cult-of-personality), [the thinking machine: Jensen Huang, Nvidia And The World’s Most Coveted Microchip, 2025.](https://en.wikipedia.org/wiki/The_Thinking_Machine:_Jensen_Huang,_Nvidia_and_the_World%27s_Most_Coveted_Microchip) (中译《黄仁勋：英伟达之芯》) 
+
+* 景凯旋
+
+> 西方现代文学和哲学的思想脉络，始于文艺复兴时期上帝的退场，世界进入了世俗化时代。康德的理性为自然立法代表了思想史上的哥白尼式革命，但与此同时，理性化、世俗化的过程也是一个价值贬值的过程。换言之，近代的思想突破和困扰其实都是源于人是目的的观念，所有西方现代文学家和哲学家在赋予人生意义时，最终全都会不约而同地归结到两个字：行动。
+
+> 然而，正如二十世纪已经展示给我们的，行动的观念给世界带来的问题不比古典时代的沉思更小，试图改变世界的雄心设计出巨大的社会工程，结果却造成巨大的灾难。这是一个反向的辩证法，人成为自身的造物主，结果却发现，人只是孤独地站在偶然性的荒原上，失去了哈维尔所说的“绝对的地平线”。
+
+> 我们的心灵往往会蒙骗自己，使我们置身于时光的错觉中。只要我们还活着，死亡仿佛就是很遥远的事。
+
 * book: [Nancy Isenberg](https://en.wikipedia.org/wiki/Nancy_Isenberg), Aristocracy, American Style: Class Privilege and the Persistence of Elite Power, 2026
 
 > “Poor whites are still taught to hate—but not to hate those who are keeping them in line. Lyndon Johnson knew this when he quipped, “If you can convince the lowest white man he’s better than the best colored man, he won’t notice you’re picking his pocket. Hell, give him somebody to look down on, and he’ll empty his pockets for you.” -- Nancy Isenberg, White Trash: The 400-Year Untold History of Class in America
