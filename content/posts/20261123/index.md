@@ -55,6 +55,10 @@ draft: false
 
 > [Brian Philips on bsky.app](https://bsky.app/profile/brianphillips.lol)
 
+> [Brian Philips on Ringer](https://www.theringer.com/creator/brian-phillips)
+
+> [Brian Philips on Goodreads](https://www.goodreads.com/author/show/17889502.Brian_Phillips)
+
 ### notes
 
 * [the market monetarist](https://marketmonetarist.com/)
