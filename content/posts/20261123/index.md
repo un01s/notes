@@ -7,6 +7,10 @@ draft: false
 
 > Markets can remain irrational than you can remain solvent. -- John Maynard Keynes
 
+### words
+
+* gerontocracy, n. Government based on rule by elders. Government by old men.
+
 ### investing
 
 * BORR - Borr drilling, NYSE
@@ -70,6 +74,62 @@ draft: false
 > [Brian Philips on Goodreads](https://www.goodreads.com/author/show/17889502.Brian_Phillips)
 
 ### notes
+
+* [a global revolution against a gerontocracy](https://www.metafilter.com/215312/A-global-revolution-against-a-gerontocracy)
+
+> [a generation revolts, by John Last, on 2026 Nov 12](https://www.noemamag.com/a-generation-revolts/)
+
+>> Italy’s weekend of protests at the end of October, in at least a dozen major cities, was the most destructive in recent memory. In France, mobs of people have paralyzed city centers across the country for weeks.
+
+>> Hopelessness is infectious, and we’re in a pandemic.
+
+>> In the last 10 years, we’ve witnessed the emergence of a two-tiered economy: one offering secure employment and benefits to senior workers and a select few entrants, and a precarious gig economy for anyone else. Nowhere is this clearer than in Italy, which deflated a staggering 42% youth unemployment rate by passing a law allowing for short-term contracts — but only for workers hired after 2014. Today, 40% of those under 29 struggle with precarious employment, compared to just 5% of those over 50.
+
+>> Now, still working their way toward stable jobs, home ownership and families, they are bracing for a reality where, if AI doesn’t steal their jobs, it may well collapse the economy instead.
+
+>>  A communique from the October 17 Movement, one of the organizing groups behind Italy’s protests, captures the new reality: “A government that responds to the dissatisfaction of a generation with soldiers, handcuffs and decrees does not want to listen.”
+
+>> In European countries, the average home care starts at more than $1,000 per month and only climbs from there.
+
+>> The reality is that neoliberal capitalism of the kind long championed by Macron has proven to be not very good at taking care of anyone except those now at liberty to make a lot more capital. The renowned French economist Thomas Piketty pointed out that the unprecedented 20% cut in per-student funding that prompted France’s protests came at a time when, according to some measures, “France has never been richer.” At the same time as public debt has ballooned out of control, the country’s privately held wealth has doubled in proportion to the country’s GDP, “with extreme concentration among the wealthiest financial fortunes.” “The problem to solve,” he wrote, “is simply one of distribution.”
+
+> These protests are revealing all sorts of new solidarities — not only between **youth struggling to pay rent** and **seniors fearful of the cost of care**, but between the disillusioned elite of European universities and the underpaid truck drivers of Italy, or the migrant teenager from the banlieues and the middle-class couples who can’t afford a child. All are part of the growing **class of losers in the economy of today** — an economy fatally consumed by presentism, unable and unwilling to consider the greater, long-term good.
+
+> They're not holding on to power because they're old, they do so because they're selfish. The presentism argument doesn't hold for me for the same reason. People who can never get enough do so for the present moment at the same time as they plan for future moments where they can retain this privilege. This is a monopolistic politics, but it's not new. It just is finally shed of the figleaf of neo-liberalism.
+
+> it's not just rule by the old, it's rule by the old rich.
+
+> **There is little to separate a trucker who cannot pay for their gas from a student who cannot pay for their rent. Both are facing a profound existential crisis for which they bear little, if any, responsibility — a crisis their governments feel duty-bound to ignore.** That, and simply the phrase **the last propertied generation.** 
+
+> gerontocide was inevitable because the kids would figure out the status quo cannot obtain the future, and there was no way old people would allow a change to the status quo.
+
+> I think there are big political economy issues facing Europe that relate to how they've structured the EU, how their key industries have fared lately and their demographic challenges. And I don't want to trivialize those things and they do relate to the subject here. But I think more than anything Europe is a victim of its geography. It's currently being economically challenged by the US and China, militarily attacked by Russia and acts as an overflow for political problems in Northern Africa and the Middle East. That's a pretty tough structural hill to claim just based on where it is.
+
+* [This Is How the AI Bubble Bursts, by Jeffery A. Sonnenfeld and Stephen Henriques, 2025-October-08](https://insights.som.yale.edu/insights/this-is-how-the-ai-bubble-bursts)
+
+> So let’s get this straight: OpenAI is now taking a 10% stake in AMD, while Nvidia is investing $100 billion in OpenAI; and OpenAI also counts Microsoft as one of its major shareholders, but Microsoft is also a major customer of AI cloud computing company CoreWeave, which is another company in which Nvidia holds a significant equity stake; and by the way, Microsoft accounted for almost 20% of Nvidia’s revenue on an annualized basis, as of Nvidia’s 2025 fiscal fourth quarter. In less than three years, OpenAI has gone from a parlor game to a pillar of the global economy.
+
+> The lines between revenue and equity are blurring among a small group of highly influential technology companies, to the tune of hundreds of billions of dollars.
+
+> When a dramatic technological change occurs, people are often unsure exactly what to do, but they frequently act as if they do confidently know the best path forward.
+
+> Reports estimate that **AI-related capital expenditures** surpassed the U.S. consumer as the primary driver of economic growth in the first half of 2025, accounting for 1.1% of GDP growth. JP Morgan Asset Management’s Michael Cembalest notes that “AI-related stocks have accounted for **75% of S&P 500 returns, 80% of earnings growth and 90% of capital spending growth** since ChatGPT launched in November 2022.” (highly concentrated and polarised!)
+
+> Their research revealed that 95% of the 52 organizations considered had achieved zero return on investment, despite spending $30 billion to $40 billion on GenAI across more than 300 initiatives.
+
+> Anthropic CEO Dario Amodei made headlines recently after telling Axios, “AI could wipe out half of all entry-level white-collar jobs—and spike unemployment to 10%-20% in the next one to five years.”
+
+> 1. Concentration leads to contagion: A small group of companies is securing most of the major deals. News about multibillion-dollar investments from familiar companies such as OpenAI, Nvidia, CoreWeave, Microsoft, Google, and a few others is reported almost daily. Should the bold promises of AI fall short, the dependence among these major AI players could trigger a devastating chain reaction, causing a widespread collapse similar to the 2008 Great Financial Crisis.
+
+> OpenAI is committed to investing $300 billion in computing power with Oracle over the next five years. OpenAI’s projected revenues are expected to reach $13 billion in 2025, requiring even larger amounts to cover future shortfalls.  OpenAI’s valuation has almost doubled from $300 billion to $500 billion in less than a year.
+
+> 2. Governance conflict exposes AI shortcomings: AI is in a similar position to the cryptocurrency exchanges of the early 2020s, with much to offer but disparate governance practices and minimal regulatory oversight. But back then, the cryptocurrency market was still relatively small and viewed as risky by the average investor, which limited the fallout. The perceived value of AI is exponentially larger, and the potential damage from bad or even questionable actors is, therefore, much greater.
+
+> 3. Emerging innovators’ disruptive substitutions: just like the fiber-optic cable infrastructure during the 1990s dot-com bubble, it could be years before those data center investments (AI computation power) start generating a return for their backers.
+
+> In the business classic **Extraordinary Popular Delusions and the Madness of Crowds, Charles Mackay** examined the psychology of crowd behavior and mass hysteria throughout history, from the Dutch Tulip Mania of the 1630s to humanity’s historical obsession with transmuting base metals into gold. While Mackay wrote his book in 1841, the AI mania continues to validate his conclusion: “Men, it has been well said, **think in herds**; it will be seen that they go mad in herds, while **they only recover their senses slowly, one by one**.”
+
+* book: Extraordinary Popular Delusions and the Madness of Crowds, Charles Mackay
 
 * 格丘山：母亲
 
