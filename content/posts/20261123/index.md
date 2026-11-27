@@ -1,11 +1,13 @@
 ---
 title: "Blue Friday"
 date: 2026-11-23T05:18:07-06:00
-tags: ["complex system", "blue friday", "neoliberalism", "NVDA", "AI bubble", "george carlin", "James C. Scott", "Nancy Isenberg"]
+tags: ["Charles Mackay", "complex system", "blue friday", "neoliberalism", "NVDA", "AI bubble", "george carlin", "James C. Scott", "Nancy Isenberg"]
 draft: false
 ---
 
 > Markets can remain irrational than you can remain solvent. -- John Maynard Keynes
+
+> Men, it has been well said, think in herds; it will be seen that they go mad in herds, while they only recover their senses slowly, one by one. -- Charles Mackay
 
 ### words
 
