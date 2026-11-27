@@ -5,6 +5,16 @@ tags: ["blue friday", "neoliberalism", "NVDA", "AI bubble", "george carlin", "Ja
 draft: false
 ---
 
+> Markets can remain irrational than you can remain solvent. -- John Maynard Keynes
+
+### investing
+
+* BORR - Borr drilling, NYSE
+
+* Situational Awareness Hedge fund AI and semiconductors
+
+* 2026-11-25: Gold down below $3500. Bitcoin down below $58,000.
+ 
 ### news
 
 * Last Friday had seen that Nasdaq wiped out its 2026 gain after Anthropic's IPO, Jensen Huang's scandal and the mid-term victory of Democratic party. this may be the start of AI bubble bursting. the reason might be that rate hike in December, and the current price of AI stocks is not sustainable. A blue chip is a stock issued from a well-established, high-quality company that’s seen as reliable and stable.
@@ -61,6 +71,10 @@ draft: false
 
 ### notes
 
+* 格丘山：母亲
+
+> 我在中国的社会中跌跌撞撞，有时头破血流，有时大红大紫，好辛苦。所以说性格即命运，当一个人有了母亲这种聪颖和性格时，命运是不会让他停下的，他的一生只能东碰西撞，不可自主，出来的是一条自己哭笑不得的轨迹。尽管，从骨子里说，我和母亲都是喜爱平和、静、与世无争，向往大自然的人，可是我们的命运恰恰相反，可能也正因为得不到它们，才格外地向往它们，热爱它们。
+
 * [the market monetarist](https://marketmonetarist.com/)
 
 ![Nvidia5days](nvda.png)
@@ -82,6 +96,10 @@ draft: false
 > 然而，正如二十世纪已经展示给我们的，行动的观念给世界带来的问题不比古典时代的沉思更小，试图改变世界的雄心设计出巨大的社会工程，结果却造成巨大的灾难。这是一个反向的辩证法，人成为自身的造物主，结果却发现，人只是孤独地站在偶然性的荒原上，失去了哈维尔所说的“绝对的地平线”。
 
 > 我们的心灵往往会蒙骗自己，使我们置身于时光的错觉中。只要我们还活着，死亡仿佛就是很遥远的事。
+
+> [Letters to Olga by Vaclav Havel](https://en.wikipedia.org/wiki/Letters_to_Olga)
+
+> [Vaclav Havel, 1936-2011, Czech statesman, author, poet, playwright, and dissident](https://en.wikipedia.org/wiki/V%C3%A1clav_Havel)
 
 * book: [Nancy Isenberg](https://en.wikipedia.org/wiki/Nancy_Isenberg), Aristocracy, American Style: Class Privilege and the Persistence of Elite Power, 2026
 
@@ -131,4 +149,21 @@ draft: false
 
 > Together we are powerful, alone we are powerless.
 
- 
+> **the Glass-Steagall Act—legislation** introduced in the New Deal era under Franklin Roosevelt in response to the 1929 stock market crash and the Great Depression. The act had separated commercial and financial banks. This was both a vital safeguard against the overwhelming power of the financial sector as well as a firewall impeding the possibility of contagious collapse. Clinton’s repeal in 1999 tore down this firewall, permitting a massive expansion of the financial frontier, which soon followed the classic capitalist pattern of Boom, Bust, Quit. The repeal of Glass-Steagall led directly to the catastrophic bank failures of 2008, and the chaos and financial crises that continue to this day.
+
+> It began in London in the 1950s, with two fanatical disciples of Friedrich Hayek: Antony Fisher and Oliver Smedley.
+
+> Pollution Paradox: “The dirtiest, most antisocial and damaging companies have the greatest incentive to invest in politics, as they are the ones most likely to face the heaviest regulation, if exposed to full democratic scrutiny. For this reason, they spend more money on changing political outcomes than any other commercial interests. The result is that politics comes to be dominated by the dirtiest, most antisocial and damaging industries.”
+
+> In April 1938, President Franklin Roosevelt sent Congress this warning: “The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism.”
+
+> When the NHS was established in 1948, for the first time in our history people were assured they wouldn’t have to die needlessly of treatable diseases or bankrupt themselves in paying for medicines or surgery.
+
+> “It is generally recognized by health professionals around the world that to keep pace with an aging population and technological change, a modern healthcare system requires an annual 4 percent real terms increase in funding.[2] Anything less results in a steady erosion of the service. Neoliberal governments have systematically underfunded the NHS, providing an average annual 1.2 percent instead.”
+
+> Across neoliberal states, valued services are destroyed by similar means.
+
+> Italy’s Silvio Berlusconi—charismatic, provocative, and populist—was the pioneer and archetype of the new political model. But similar characters soon came to the fore: Donald Trump (US), Boris Johnson (UK), Jair Bolsonaro (Brazil), Scott Morrison (Australia), Narendra Modi (India), Benjamin Netanyahu (Israel), Rodrigo Duterte (Philippines), Recep Erdogan (Turkey), Viktor Orbán (Hungary), Javier Milei (Argentina), Geert Wilders (the Netherlands). Deeply flawed human beings with oversized egos and pathological insecurities have risen to dominate politics in many of the world’s democracies. This is the age of the killer clowns.
+
+
+.
