@@ -1,7 +1,7 @@
 ---
 title: "Blue Friday"
 date: 2026-11-23T05:18:07-06:00
-tags: ["blue friday", "neoliberalism", "NVDA", "AI bubble", "george carlin", "James C. Scott", "Nancy Isenberg"]
+tags: ["complex system", "blue friday", "neoliberalism", "NVDA", "AI bubble", "george carlin", "James C. Scott", "Nancy Isenberg"]
 draft: false
 ---
 
@@ -165,5 +165,59 @@ draft: false
 
 > Italy’s Silvio Berlusconi—charismatic, provocative, and populist—was the pioneer and archetype of the new political model. But similar characters soon came to the fore: Donald Trump (US), Boris Johnson (UK), Jair Bolsonaro (Brazil), Scott Morrison (Australia), Narendra Modi (India), Benjamin Netanyahu (Israel), Rodrigo Duterte (Philippines), Recep Erdogan (Turkey), Viktor Orbán (Hungary), Javier Milei (Argentina), Geert Wilders (the Netherlands). Deeply flawed human beings with oversized egos and pathological insecurities have risen to dominate politics in many of the world’s democracies. This is the age of the killer clowns.
 
+> The rules created to prevent foreign money from funding domestic elections have, in large part, collapsed. 
 
-.
+> Globalization is not solely a neoliberal project, but it has been both shaped and accelerated by neoliberalism. Although political power has moved offshore, the means of holding it to account have not. Democracy stops at the national border, but the operations of the World Bank, the International Monetary Fund, the bodies regulating transnational trade, and the offshore arbitration systems circle the globe.
+
+> Ayn Rand’s novels Atlas Shrugged and The Fountainhead, are the fictional mirrors of The Constitution of Liberty, and the favorite texts of billionaires and teenage misanthropes.
+
+> Working people don’t need billionaires to run their lives, but the billionaires sure as hell need workers.
+
+> In these fantasies, we can detect the physical perpetuation of capitalism’s ever-expanding frontier, in which it seeks both NASA’s “vast lands, enormous amounts of electrical power, and nearly unlimited material resources,” and to escape the consequences of its actions on Planet Earth.
+
+> The oligarchs’ interests are endlessly **conflicted**. On the one hand, they are inextricably tied to the cheap labor on which their wealth depends, and the force and resources of the states that amplify their power. On the other, they are repelled by the social relations in which that labor and state power are embedded—the taxes and public protections, the collective bargaining, and the elections in which the poor are given a say in how things should work.
+
+> At the heart of neoliberalism is **the fantasy of escape** : escape from taxation and regulation, escape from the European Union and international law, escape from social obligation, escape from democracy. Escape, eventually, to a starlit wonderland beyond politics and beyond people.”
+
+> One of the great deficiencies of our education is that few of us are taught complex systems theory. Yet everything of material importance to us — the human brain, the human body, human society, ecosystems, the atmosphere, the oceans, financial networks, economic structures — is a **complex system**.
+
+> All complex systems possess emergent properties. This means that their components, however simple they each might be, behave in nonlinear ways when they combine. Through networks created in ways that nobody could possibly have planned, via billions of randomly distributed decisions, they organize themselves—spontaneously creating order without central control.
+
+> Under certain conditions, a complex system will be resilient, as its self-organizing properties stabilize it. Under different conditions, these self-organizing properties can have the opposite effect. Negative feedback loops, which help keep systems stable, can be replaced by positive feedback loops, which compound the shocks afflicting the network, pushing it toward a critical threshold.
+
+> Andy Haldane, Robert May: Systemic Risk in Banking Ecosystems. Finance, he explained, is a complex adaptive system, like a rainforest or a marine food web. The diversity of this system had been steadily eroded prior to the 2008 crash. 
+
+> “Risk became a commodity” that was “bundled, sliced, diced and then re-bundled for onward sale,” in a system that had been dangerously deregulated. But because their underlying strategies were similar, financial institutions actually concentrated the risk across the system as a whole. In other words, while the firms each became internally more diverse, the system as a whole became less diverse. Diversity is a key component of systemic resilience.
+
+> The banks also became more strongly connected to one another, reinforcing the synchronization of their behavior. As Haldane pointed out, up to a certain point, connections absorb shocks within a complex system. Beyond a certain degree of connectivity, however, they amplify these shocks—and “the system acts not as a mutual insurance device but as a mutual incendiary device.” At that point, a small shock—like the American subprime crisis—can tip it into collapse (a collapse, in this case, narrowly averted by the massive global bank bailout).
+
+> Having what Haldane called a “small number of financial hubs with multiple spokes” is part of the recipe for systemic disaster.
+
+> When the banks were deregulated, allowing them to pursue whatever outlandish strategies appeared to advance their individual interests, by letting the biggest of them grow as much as they wished, allowing them to swallow their competitors and dominate the system, every decision might seem economically rational for the bank that takes it, the unrestrained pursuit of apparent self-interest can make the system less resilient. **The individual interest and the collective interest are not the same.**
+
+> The 2008 financial crisis was a clear and indisputable refutation of both neoliberal theory and neoliberal practice.
+
+> Alan Greenspan's mistake: To believe that, by operating in their own self-interest, the banks would act in the interests of all. (this kind of fantasy is a zero-sum game in some way like the options market. Someone's loss is others' gain.) 
+
+> **capitalism has been a frenetic assault on the living planet.**
+
+> You can see this most clearly in the exploitation of natural resources: the richest and most accessible are taken first. The global fishing fleet takes out the large predators—bluefin tuna, Patagonian toothfish, halibut—then, when those have been exhausted, it targets ever smaller species, until all that’s left is the process of mopping up baitfish.
+
+> Loggers in tropical forests took the mahogany, the rosewood, and the pau brasil first, then went back for less valuable fine-timber species, before returning with ply and pulp mills to process what remained.
+
+> Oil companies, upon depleting the most accessible oilfields, turn to the tar sands, oil shale, the ocean floor, and the Arctic for extraction—employing ever more costly, inefficient, and environmentally destructive methods.
+
+> Capitalism’s genius is expressed in its ability to develop ever more inventive and aggressive strategies for extracting diminishing human and planetary resources. But eventually the fire-front must run out of fuel.
+
+> **Globalization, from this perspective, is an extension of colonial looting.** What looked like the beginning of an era of permanent global prosperity now looks more like a period of extreme exploitation and consumption that simply cannot be sustained or repeated.
+
+> notes: **It is insane to use up a free gift of nature once and for all. And converting nature into money, for what?! Neoliberalism is a ultimate suicide of capitalism.** 
+
+> Neoliberal globalization seeks to **outsource pollution** to places where political resistance is weakest. ... as we now know, some pollutants—regardless of where they are dumped—have global impacts.
+
+> You can bargain with politics. You can bargain with economics. But you cannot bargain with physics.
+
+> Our predicament — the greatest humanity has ever faced — is often characterized as a climate crisis. But it would be more accurate to call it **an Earth systems crisis**. Soil degradation, freshwater depletion, marine ecological collapse, habitat destruction, species extinction, and the impact of pesticides and other synthetic chemicals — each of these factors may be comparable in scale and effect to climate breakdown. What we are witnessing is the breakdown, **at astonishing speed**, of our life-support systems — driven by capitalism, accelerated by neoliberalism.
+
+> Just as the poor have been condemned for their poverty — and sometimes come to internalize this belief — so “consumers” have been blamed for the economic model driving the Sixth Great Extinction of life on Earth (instead of blaming neoliberal government and structural forces like oligarchic capital).
+
