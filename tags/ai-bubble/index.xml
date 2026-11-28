@@ -30,16 +30,52 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;investing&#34;&gt;investing&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;BORR - Borr drilling, NYSE&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Situational Awareness Hedge fund AI and semiconductors&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2026-11-25: Gold down below $3500. Bitcoin down below $58,000.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;BORR - Borr drilling, NYSE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;sector&lt;/th&gt;
+					&lt;th&gt;ticker&lt;/th&gt;
+					&lt;th&gt;notes&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;energy&lt;/td&gt;
+					&lt;td&gt;RIG&lt;/td&gt;
+					&lt;td&gt;Transocean, oil and drilling&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;energy&lt;/td&gt;
+					&lt;td&gt;HBRIY&lt;/td&gt;
+					&lt;td&gt;Harbour Energy&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;energy&lt;/td&gt;
+					&lt;td&gt;SLB&lt;/td&gt;
+					&lt;td&gt;oil &amp;amp; gas equipment&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;energy&lt;/td&gt;
+					&lt;td&gt;BORR&lt;/td&gt;
+					&lt;td&gt;Borr drilling&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;gold miner&lt;/td&gt;
+					&lt;td&gt;GDX&lt;/td&gt;
+					&lt;td&gt;VanEck Gold Miners, net assets, ETF&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;materials&lt;/td&gt;
+					&lt;td&gt;B&lt;/td&gt;
+					&lt;td&gt;Barrick mining, gold&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When Robin Brooks (former chief economist at IIF) split gold’s drop into its drivers, higher real rates explained only a small piece of it. The bigger piece was panic selling that his models can’t tie to rates, oil or risk appetite, and he traces it back to the Fed. Gold’s 2025 run took off after Powell’s dovish Jackson Hole speech in August 2025, so a hawkish Warsh Fed was bound to reverse some of that.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>
