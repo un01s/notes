@@ -19,6 +19,21 @@ draft: false
 
 * BORR - Borr drilling, NYSE
 
+| sector | ticker | notes |
+| ------ | ------ | ----- |
+| energy | RIG | Transocean, oil and drilling |
+| energy | HBRIY | Harbour Energy |
+| energy | SLB | oil & gas equipment |
+| energy | BORR | Borr drilling |
+| gold miner | GDX | VanEck Gold Miners, net assets, ETF |
+| materials | B | Barrick mining, gold |
+
+> When Robin Brooks (former chief economist at IIF) split gold’s drop into its drivers, higher real rates explained only a small piece of it. The bigger piece was panic selling that his models can’t tie to rates, oil or risk appetite, and he traces it back to the Fed. Gold’s 2025 run took off after Powell’s dovish Jackson Hole speech in August 2025, so a hawkish Warsh Fed was bound to reverse some of that.
+
+> 2026-11-27: George Noble: My view on gold hasn’t moved in 18 months: I’ll turn bearish on gold when I can turn bullish on the value of money, and with the deficits Washington is running I can’t.
+
+> The money that pushed every risky asset (metal such as alumium, copper, crypto, AI and chip stocks) higher for years is draining out of the system, and stocks are only now catching up. 
+
 * Situational Awareness Hedge fund AI and semiconductors
 
 * 2026-11-25: Gold down below $3500. Bitcoin down below $58,000.
@@ -78,6 +93,26 @@ draft: false
 > [Brian Philips on Goodreads](https://www.goodreads.com/author/show/17889502.Brian_Phillips)
 
 ### notes
+
+* [hardware is software](https://unchartedterritories.tomaspueyo.com/p/hardware-is-software)
+
+> [boom supersonic airplane](https://boomsupersonic.com/)
+
+> Boom CEO and founder Blake Scholl: 12 years ago I founded Boom, as a software engineer doing hardware for the first time. More than a decade in, the most insane realization is that software is the key to reaccelerating hardware engineering. But in a way that I don’t think is widely understood or implemented, even in the burgeoning hard tech community.
+
+> Most hardware engineering is actually software engineering in disguise. It’s spreadsheet “code,” engineering calculations done as one-offs. Everything is a calculation, and calculation is software. But these calculations are done essentially by hand, as if we are doing arithmetic but have not yet discovered algebra.
+
+> So what we tell our engineers: don’t design the hardware, design the *algorithm* for designing the hardware. And take the algorithm seriously—as an algorithm and as a first-class engineered software system. Never design a piece of hardware, such that you couldn’t redesign it tomorrow with a different set of assumptions.
+
+> This all sounds obvious, yet our experience at Boom is that it changes everything. Ten years ago we couldn’t afford to build much software. We had a small team—and there were few software engineers with the curiosity, brilliance, and vision required to learn hardware engineering. But now AI changes the equation. Now everyone can code. The software engineers define the architecture. The hardware people bring the physics and engineering know-how.
+
+> We have a turbomachinery design tool that lets one engineer do in realtime what previously took 100 engineers six months. Another tool auto-generates 65% of entire aircraft structure. I’m sure we’ll figure out the other 35% too. Eventually these should not be multiple tools, but one integrated physics model of a complete vehicle, airframe and powertrain.
+
+> The results speak for themselves. A boomless supersonic airplane built by 50. A full scale supersonic turbine made by 150. And with this approach, I don’t think we’ll need that many more people to build and certify a supersonic airliner.
+
+> You don’t need a big team to build big things — not when everyone on the team is a software engineer.
+
+> notes: there is a big IF that current AI could replace human intelligence!
 
 * 金仲兵: 中期选举
 
