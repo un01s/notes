@@ -13,6 +13,8 @@ draft: false
 
 * gerontocracy, n. Government based on rule by elders. Government by old men.
 
+* go climb a tree, slang. Leave me alone; get lost.
+
 ### investing
 
 * BORR - Borr drilling, NYSE
@@ -85,7 +87,7 @@ draft: false
 
 >> Hopelessness is infectious, and we’re in a pandemic.
 
->> In the last 10 years, we’ve witnessed the emergence of a two-tiered economy: one offering secure employment and benefits to senior workers and a select few entrants, and a precarious gig economy for anyone else. Nowhere is this clearer than in Italy, which deflated a staggering 42% youth unemployment rate by passing a law allowing for short-term contracts — but only for workers hired after 2014. Today, 40% of those under 29 struggle with precarious employment, compared to just 5% of those over 50.
+>> In the last 10 years, we’ve witnessed **the emergence of a two-tiered economy**: one offering secure employment and benefits to senior workers and a select few entrants, and a precarious gig economy for anyone else. Nowhere is this clearer than in Italy, which deflated a staggering 42% youth unemployment rate by passing a law allowing for short-term contracts — but only for workers hired after 2014. Today, 40% of those under 29 struggle with precarious employment, compared to just 5% of those over 50.
 
 >> Now, still working their way toward stable jobs, home ownership and families, they are bracing for a reality where, if AI doesn’t steal their jobs, it may well collapse the economy instead.
 
