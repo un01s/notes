@@ -285,3 +285,29 @@ draft: false
 
 > Just as the poor have been condemned for their poverty — and sometimes come to internalize this belief — so “consumers” have been blamed for the economic model driving the Sixth Great Extinction of life on Earth (instead of blaming neoliberal government and structural forces like oligarchic capital).
 
+> Too often, we focus on **tiny issues** such as plastic straws and coffee cups rather than the huge structural forces—the power of corporate lobbyists and the money they wield—driving us toward catastrophe. We’re obsessed with plastic bags. We believe we’re doing the world a favor by buying tote bags instead—although, according to one estimate, the environmental impact of producing an organic cotton tote bag is equivalent to that of 20,000 plastic ones. (一叶障目不见森林)
+
+> For decades now, plastic-recycling campaigns have been promoted and funded by Big Oil and plastics manufacturers like Exxon, Chevron, Dow, and DuPont, which have pushed for legislation that would mandate the “international recycling symbol” (you know, the triangle of arrows) to be stamped on all plastics—even those that can’t be economically recycled—in the full knowledge that broad-scale recycling was both “costly” and “unlikely."
+
+> In reality, some people are extremely rich because others are extremely poor: massive wealth depends on exploitation.
+
+> One of the most powerful aspects of neoliberalism is **the hopelessness it induces by persuading us that “there is no alternative”** — a phrase Margaret Thatcher used so often that it was condensed to an acronym, “TINA."
+
+> **Political failure, at heart, is a failure of imagination.**
+
+> We are creatures of narrative. Facts and figures, essential as they are, cannot dislodge a persuasive story. You can’t take away someone’s story without giving them a new one. The only thing that can replace a story—is a story.
+
+> Disorder afflicts the land, caused by powerful and nefarious forces working against the interests of humanity. But the hero or heroes will rise up and revolt against this disorder, do battle with those powerful forces and, against all odds, emerge victorious to restore harmony to the land.
+
+> After laissez-faire economics triggered the Great Depression, **John Maynard Keynes** devised a new economics: Disorder afflicts the land, caused by the powerful and nefarious forces of the economic elite, who have captured the world’s wealth. But the hero of the story, the enabling state, supported by working and middle-class people, will contest this disorder. It will fight those powerful forces by redistributing wealth and, through spending public money on public goods and services, will generate income and jobs, restoring harmony to the land.
+
+> Milton Friedman: “Disorder afflicts the land, caused by the powerful and nefarious forces of **an overbearing and over-reaching state**, whose collectivizing tendencies have crushed **freedom, individualism and opportunity**. But the hero of the story, the freedom-seeking entrepreneur, will fight those powerful forces. He will roll back the paralyzing restrictions of the state and, through creating wealth and opportunity that will **trickle down** to all, restore harmony to the land.”
+
+> in 2008, the neoliberal story imploded. First, that neoliberalism didn’t work, even on its own terms. Second, that throughout this period we had failed to develop a new and resonant political story of our own.
+
+> had we not been induced to believe the Hobbesian notion that competition is the default state of humanity. As it turns out, we have a remarkable capacity for **altruism**. We are also, among mammals, the supreme cooperators, able to work together toward common ends in far more complex and preemptive ways than other mammals can. (altruism and cooperation)
+
+> motivates us to live in competition with one another. It encourages conflict, drives us to fear and mistrust one another. It atomizes society. It weakens the social bonds that make our lives worth living. In this vacuum, violent and intolerant forces grow.
+
+> new restoration story: “Disorder afflicts the land, caused by the powerful and nefarious forces of people who tell us that our highest purpose in life is to fight like stray dogs over a garbage can. But the heroes of the story, the common people long deprived of the democratic power we were promised, will revolt against this disorder. We will fight those nefarious forces by building rich, engaging, collaborative, inclusive, and generous communities. In doing so, we will restore harmony to the land.”
+
